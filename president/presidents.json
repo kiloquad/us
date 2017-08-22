@@ -9,7 +9,8 @@
 		"party": "Independent",
 		"state": "Virginia",
 		"termStarts": "1789-04-20",
-		"termEnds": "1793-03-04"
+		"termEnds": "1793-03-04",
+		"term": 1
 	},
 	{
 		"title": "Washington, George",
@@ -21,7 +22,8 @@
 		"party": "Independent",
 		"state": "Virginia",
 		"termStarts": "1793-03-04",
-		"termEnds": "1797-03-04"
+		"termEnds": "1797-03-04",
+		"term": 2
 	},
 	{
 		"title": "Adams, John",
@@ -33,7 +35,8 @@
 		"party": "Federalist",
 		"state": "Massachusetts",
 		"termStarts": "1797-03-04",
-		"termEnds": "1801-03-04"
+		"termEnds": "1801-03-04",
+		"term": 3
 	},
 	{
 		"title": "Jefferson, Thomas",
@@ -45,7 +48,8 @@
 		"party": "Democratic-Republican",
 		"state": "Virginia",
 		"termStarts": "1801-03-04",
-		"termEnds": "1805-03-04"
+		"termEnds": "1805-03-04",
+		"term": 4
 	},
 	{
 		"title": "Jefferson, Thomas",
@@ -57,7 +61,8 @@
 		"party": "Democratic-Republican",
 		"state": "Virginia",
 		"termStarts": "1805-03-04",
-		"termEnds": "1809-03-04"
+		"termEnds": "1809-03-04",
+		"term": 5
 	},
 	{
 		"title": "Madison, James",
@@ -69,7 +74,8 @@
 		"party": "Democratic-Republican",
 		"state": "Virginia",
 		"termStarts": "1809-03-04",
-		"termEnds": "1813-03-04"
+		"termEnds": "1813-03-04",
+		"term": 6
 	},
 	{
 		"title": "Madison, James",
@@ -81,7 +87,8 @@
 		"party": "Democratic-Republican",
 		"state": "Virginia",
 		"termStarts": "1813-03-04",
-		"termEnds": "1817-03-04"
+		"termEnds": "1817-03-04",
+		"term": 7
 	},
 	{
 		"title": "Monroe, James",
@@ -93,7 +100,8 @@
 		"party": "Democratic-Republican",
 		"state": "Virginia",
 		"termStarts": "1817-03-04",
-		"termEnds": "1821-03-04"
+		"termEnds": "1821-03-04",
+		"term": 8
 	},
 	{
 		"title": "Monroe, James",
@@ -105,7 +113,8 @@
 		"party": "Democratic-Republican",
 		"state": "Virginia",
 		"termStarts": "1821-03-04",
-		"termEnds": "1825-03-04"
+		"termEnds": "1825-03-04",
+		"term": 9
 	},
 	{
 		"title": "Adams, John",
@@ -117,7 +126,8 @@
 		"party": "Democratic-Republican",
 		"state": "Massachusetts",
 		"termStarts": "1825-03-04",
-		"termEnds": "1829-03-04"
+		"termEnds": "1829-03-04",
+		"term": 10
 	},
 	{
 		"title": "Jackson, Andrew",
@@ -129,7 +139,8 @@
 		"party": "Democratic",
 		"state": "Tennessee",
 		"termStarts": "1829-03-04",
-		"termEnds": "1833-03-04"
+		"termEnds": "1833-03-04",
+		"term": 11
 	},
 	{
 		"title": "Jackson, Andrew",
@@ -141,7 +152,8 @@
 		"party": "Democratic",
 		"state": "Tennessee",
 		"termStarts": "1833-03-04",
-		"termEnds": "1837-03-04"
+		"termEnds": "1837-03-04",
+		"term": 12
 	},
 	{
 		"title": "Van Buren, Martin",
@@ -153,7 +165,8 @@
 		"party": "Democratic",
 		"state": "New York",
 		"termStarts": "1837-03-04",
-		"termEnds": "1841-03-04"
+		"termEnds": "1841-03-04",
+		"term": 13
 	},
 	{
 		"title": "Harrison, William",
@@ -165,7 +178,8 @@
 		"party": "Whig",
 		"state": "Ohio",
 		"termStarts": "1841-03-04",
-		"termEnds": "1841-04-04"
+		"termEnds": "1841-04-04",
+		"term": 14
 	},
 	{
 		"title": "Tyler, John",
@@ -177,7 +191,8 @@
 		"party": "Whig",
 		"state": "Virginia",
 		"termStarts": "1841-04-04",
-		"termEnds": "1841-09-13"
+		"termEnds": "1841-09-13",
+		"term": 14
 	},
 	{
 		"title": "Tyler, John",
@@ -189,7 +204,8 @@
 		"party": "Independent",
 		"state": "Virginia",
 		"termStarts": "1841-09-13",
-		"termEnds": "1845-03-04"
+		"termEnds": "1845-03-04",
+		"term": 15
 	},
 	{
 		"title": "Polk, James",
@@ -201,7 +217,8 @@
 		"party": "Democratic",
 		"state": "Tennessee",
 		"termStarts": "1845-03-04",
-		"termEnds": "1849-03-04"
+		"termEnds": "1849-03-04",
+		"term": 16
 	},
 	{
 		"title": "Taylor, Zachary",
@@ -213,7 +230,8 @@
 		"party": "Whig",
 		"state": "Louisiana",
 		"termStarts": "1849-03-04",
-		"termEnds": "1850-07-09"
+		"termEnds": "1850-07-09",
+		"term": 16
 	},
 	{
 		"title": "Fillmore, Millard",
@@ -225,7 +243,8 @@
 		"party": "Whig",
 		"state": "New York",
 		"termStarts": "1850-07-09",
-		"termEnds": "1853-03-04"
+		"termEnds": "1853-03-04",
+		"term": 17
 	},
 	{
 		"title": "Pierce, Fraklin",
@@ -237,7 +256,8 @@
 		"party": "Democratic",
 		"state": "New Hanpshire",
 		"termStarts": "1853-03-04",
-		"termEnds": "1857-03-04"
+		"termEnds": "1857-03-04",
+		"term": 18
 	},
 	{
 		"title": "Buchanan, James",
@@ -249,7 +269,8 @@
 		"party": "Democratic",
 		"state": "Pennsylvania",
 		"termStarts": "1857-03-04",
-		"termEnds": "1861-03-04"
+		"termEnds": "1861-03-04",
+		"term": 19
 	},
 	{
 		"title": "Lincoln, Abraham",
@@ -261,7 +282,8 @@
 		"party": "Republican",
 		"state": "Illinois",
 		"termStarts": "1861-03-04",
-		"termEnds": "1865-04-15"
+		"termEnds": "1865-04-15",
+		"term": 20
 	},
 	{
 		"title": "Johnson, Andrew",
@@ -273,7 +295,8 @@
 		"party": "Democratic",
 		"state": "Tennessee",
 		"termStarts": "1865-04-15",
-		"termEnds": "1869-03-04"
+		"termEnds": "1869-03-04",
+		"term": 20
 	},
 	{
 		"title": "Grant, Ulysses",
@@ -285,7 +308,8 @@
 		"party": "Republican",
 		"state": "Illinois",
 		"termStarts": "1869-03-04",
-		"termEnds": "1873-03-04"
+		"termEnds": "1873-03-04",
+		"term": 21
 	},
 	{
 		"title": "Grant, Ulusses",
@@ -297,7 +321,8 @@
 		"party": "Republican",
 		"state": "Illinois",
 		"termStarts": "1873-03-04",
-		"termEnds": "1877-03-04"
+		"termEnds": "1877-03-04",
+		"term": 22
 	},
 	{
 		"title": "Hayes, Rutherford",
@@ -309,7 +334,8 @@
 		"party": "Republican",
 		"state": "Ohio",
 		"termStarts": "1877-03-04",
-		"termEnds": "1881-04-04"
+		"termEnds": "1881-04-04",
+		"term": 23
 	},
 	{
 		"title": "Garfield, James",
@@ -321,7 +347,8 @@
 		"party": "Republican",
 		"state": "Ohio",
 		"termStarts": "1881-03-04",
-		"termEnds": "1881-09-19"
+		"termEnds": "1881-09-19",
+		"term": 24
 	},
 	{
 		"title": "Arthur, Chester",
@@ -333,7 +360,8 @@
 		"party": "Republican",
 		"state": "New York",
 		"termStarts": "1881-09-19",
-		"termEnds": "1885-03-04"
+		"termEnds": "1885-03-04",
+		"term": 24
 	},
 	{
 		"title": "Cleveland, Stephen",
@@ -345,7 +373,8 @@
 		"party": "Democratic",
 		"state": "New York",
 		"termStarts": "1885-03-04",
-		"termEnds": "1889-03-04"
+		"termEnds": "1889-03-04",
+		"term": 25
 	},
 	{
 		"title": "Harrison, Benjamin",
@@ -357,7 +386,8 @@
 		"party": "Republican",
 		"state": "Indiana",
 		"termStarts": "1889-03-04",
-		"termEnds": "1893-03-04"
+		"termEnds": "1893-03-04",
+		"term": 26
 	},
 	{
 		"title": "Cleveland, Stephen",
@@ -369,7 +399,8 @@
 		"party": "Democratic",
 		"state": "New York",
 		"termStarts": "1893-03-04",
-		"termEnds": "1897-03-04"
+		"termEnds": "1897-03-04",
+		"term": 27
 	},
 	{
 		"title": "McKinley, William",
@@ -381,7 +412,8 @@
 		"party": "Republican",
 		"state": "Ohio",
 		"termStarts": "1897-03-04",
-		"termEnds": "1901-09-14"
+		"termEnds": "1901-09-14",
+		"term": 28
 	},
 	{
 		"title": "Roosevelt, Theodore",
@@ -393,7 +425,8 @@
 		"party": "Republican",
 		"state": "New York",
 		"termStarts": "1901-09-14",
-		"termEnds": "1905-03-04"
+		"termEnds": "1905-03-04",
+		"term": 29
 	},
 	{
 		"title": "Roosevelt, Theodore",
@@ -405,7 +438,8 @@
 		"party": "Republican",
 		"state": "New York",
 		"termStarts": "1905-03-04",
-		"termEnds": "1909-03-04"
+		"termEnds": "1909-03-04",
+		"term": 30
 	},
 	{
 		"title": "Taft, William",
@@ -417,7 +451,8 @@
 		"party": "Republican",
 		"state": "Ohio",
 		"termStarts": "1909-03-04",
-		"termEnds": "1913-03-04"
+		"termEnds": "1913-03-04",
+		"term": 31
 	},
 	{
 		"title": "Wilson, Woodrow",
@@ -429,7 +464,8 @@
 		"party": "Democratic",
 		"state": "New Jersey",
 		"termStarts": "1913-03-04",
-		"termEnds": "1917-03-04"
+		"termEnds": "1917-03-04",
+		"term": 32
 	},
 	{
 		"title": "Wilson, Woodrow",
@@ -441,7 +477,8 @@
 		"party": "Democratic",
 		"state": "New Jersey",
 		"termStarts": "1917-03-04",
-		"termEnds": "1921-03-04"
+		"termEnds": "1921-03-04",
+		"term": 33
 	},
 	{
 		"title": "Harding, Warren",
@@ -453,7 +490,8 @@
 		"party": "Republican",
 		"state": "Ohio",
 		"termStarts": "1921-03-04",
-		"termEnds": "1923-08-02"
+		"termEnds": "1923-08-02",
+		"term": 34
 	},
 	{
 		"title": "Coolidge, John",
@@ -465,7 +503,8 @@
 		"party": "Republican",
 		"state": "Massachusetts",
 		"termStarts": "1923-08-02",
-		"termEnds": "1925-03-04"
+		"termEnds": "1925-03-04",
+		"term": 34
 	},
 	{
 		"title": "Cooldge, John",
@@ -477,7 +516,8 @@
 		"party": "Republican",
 		"state": "Massachusetts",
 		"termStarts": "1925-03-04",
-		"termEnds": "1929-03-04"
+		"termEnds": "1929-03-04",
+		"term": 35
 	},
 	{
 		"title": "Hoover, Herbert",
@@ -489,7 +529,8 @@
 		"party": "Republican",
 		"state": "California",
 		"termStarts": "1925-03-04",
-		"termEnds": "1933-03-04"
+		"termEnds": "1933-03-04",
+		"term": 36
 	},
 	{
 		"title": "Roosevelt, Franklin",
@@ -501,7 +542,8 @@
 		"party": "Democratic",
 		"state": "New York",
 		"termStarts": "1933-03-04",
-		"termEnds": "1937-03-04"
+		"termEnds": "1937-03-04",
+		"term": 37
 	},
 	{
 		"title": "Roosevelt, Franklin",
@@ -513,7 +555,8 @@
 		"party": "Democratic",
 		"state": "New York",
 		"termStarts": "1937-03-04",
-		"termEnds": "1941-03-04"
+		"termEnds": "1941-03-04",
+		"term": 38
 	},
 	{
 		"title": "Roosevelt, Franklin",
@@ -525,7 +568,8 @@
 		"party": "Democratic",
 		"state": "New York",
 		"termStarts": "1941-03-04",
-		"termEnds": "1945-04-12"
+		"termEnds": "1945-04-12",
+		"term": 39
 	},
 	{
 		"title": "Truman, Harry",
@@ -537,7 +581,8 @@
 		"party": "Democratic",
 		"state": "Missouri",
 		"termStarts": "1945-04-12",
-		"termEnds": "1949-03-04"
+		"termEnds": "1949-03-04",
+		"term": 40
 	},
 	{
 		"title": "Truman, Harry",
@@ -549,7 +594,8 @@
 		"party": "Democratic",
 		"state": "Missouri",
 		"termStarts": "1949-03-04",
-		"termEnds": "1953-03-04"
+		"termEnds": "1953-03-04",
+		"term": 41
 	},
 	{
 		"title": "Eisenhower, Dwight",
@@ -561,7 +607,8 @@
 		"party": "Republican",
 		"state": "New York",
 		"termStarts": "1953-03-04",
-		"termEnds": "1957-03-04"
+		"termEnds": "1957-03-04",
+		"term": 42
 	},
 	{
 		"title": "Eisenhower, Dwight",
@@ -573,7 +620,8 @@
 		"party": "Republican",
 		"state": "New York",
 		"termStarts": "1957-03-04",
-		"termEnds": "1961-01-20"
+		"termEnds": "1961-01-20",
+		"term": 43
 	},
 	{
 		"title": "Kennedy, John",
@@ -585,7 +633,8 @@
 		"party": "Democratic",
 		"state": "Massachusetts",
 		"termStarts": "1961-01-20",
-		"termEnds": "1963-11-22"
+		"termEnds": "1963-11-22",
+		"term": 44
 	},
 	{
 		"title": "Johnson, Lyndon",
@@ -597,7 +646,8 @@
 		"party": "Democratic",
 		"state": "Texas",
 		"termStarts": "1963-11-22",
-		"termEnds": "1965-03-04"
+		"termEnds": "1965-03-04",
+		"term": 44
 	},
 	{
 		"title": "Johnson, Lyndon",
@@ -609,7 +659,8 @@
 		"party": "Democratic",
 		"state": "Texas",
 		"termStarts": "1965-03-04",
-		"termEnds": "1969-01-20"
+		"termEnds": "1969-01-20",
+		"term": 45
 	},
 	{
 		"title": "Nixon, Richard",
@@ -621,7 +672,8 @@
 		"party": "Republican",
 		"state": "California",
 		"termStarts": "1969-01-20",
-		"termEnds": "1974-08-09"
+		"termEnds": "1974-08-09",
+		"term": 46
 	},
 	{
 		"title": "Ford, Gerald",
@@ -633,7 +685,8 @@
 		"party": "Republican",
 		"state": "Michigan",
 		"termStarts": "1974-08-09",
-		"termEnds": "1977-01-20"
+		"termEnds": "1977-01-20",
+		"term": 47
 	},
 	{
 		"title": "Carter, Jimmy",
@@ -645,7 +698,8 @@
 		"party": "Democratic",
 		"state": "Georgia",
 		"termStarts": "1977-01-20",
-		"termEnds": "1981-01-20"
+		"termEnds": "1981-01-20",
+		"term": 48
 	},
 	{
 		"title": "Reagan, Ronald",
@@ -657,7 +711,8 @@
 		"party": "Republican",
 		"state": "California",
 		"termStarts": "1981-01-20",
-		"termEnds": "1985-01-20"
+		"termEnds": "1985-01-20",
+		"term": 49
 	},
 	{
 		"title": "Reagan, Ronald",
@@ -669,7 +724,8 @@
 		"party": "Republican",
 		"state": "California",
 		"termStarts": "1985-01-20",
-		"termEnds": "1989-01-20"
+		"termEnds": "1989-01-20",
+		"term": 50
 	},
 	{
 		"title": "Bush, George",
@@ -681,7 +737,8 @@
 		"party": "Republican",
 		"state": "Texas",
 		"termStarts": "1989-01-20",
-		"termEnds": "1993-01-20"
+		"termEnds": "1993-01-20",
+		"term": 51
 	},
 	{
 		"title": "Clinton, Bill",
@@ -693,7 +750,8 @@
 		"party": "Democratic",
 		"state": "Arkansas",
 		"termStarts": "1993-01-20",
-		"termEnds": "1997-01-20"
+		"termEnds": "1997-01-20",
+		"term": 52
 	},
 	{
 		"title": "Clinton, Bill",
@@ -705,7 +763,8 @@
 		"party": "Democratic",
 		"state": "Arkansas",
 		"termStarts": "1997-01-20",
-		"termEnds": "2001-01-20"
+		"termEnds": "2001-01-20",
+		"term": 53
 	},
 	{
 		"title": "Bush, George",
@@ -717,7 +776,8 @@
 		"party": "Republican",
 		"state": "Texas",
 		"termStarts": "2001-01-20",
-		"termEnds": "2005-01-20"
+		"termEnds": "2005-01-20",
+		"term": 54
 	},
 	{
 		"title": "Bush, George",
@@ -729,7 +789,8 @@
 		"party": "Republican",
 		"state": "Texas",
 		"termStarts": "2005-01-20",
-		"termEnds": "2009-01-20"
+		"termEnds": "2009-01-20",
+		"term": 55
 	},
 	{
 		"title": "Obama, Barack",
@@ -741,7 +802,8 @@
 		"party": "Democratic",
 		"state": "Illinois",
 		"termStarts": "2009-01-20",
-		"termEnds": "2013-01-20"
+		"termEnds": "2013-01-20",
+		"term": 56
 	},
 	{
 		"title": "Barack, Obama",
@@ -753,7 +815,8 @@
 		"party": "Democratic",
 		"state": "Illinois",
 		"termStarts": "2013-01-20",
-		"termEnds": "2017-01-20"
+		"termEnds": "2017-01-20",
+		"term": 57
 	},
 	{
 		"title": "Trump, Donald",
@@ -765,6 +828,7 @@
 		"party": "Republican",
 		"state": "New York",
 		"termStarts": "2017-01-20",
-		"termEnds": ""
+		"termEnds": "",
+		"term": 58
 	}
 ]
