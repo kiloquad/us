@@ -1,0 +1,84 @@
+{
+  "title": "Presidents of the United States",
+  "type": "array",
+  "uniqueItems": true,
+  "items": {
+    "type": "object",
+    "id": "president",
+    "title": "President",
+    "headerTemplate": "{{ i1 }} - {{ self.title }}",
+    "properties": {
+      "title": {
+        "title": "Title",
+        "type": "string",
+        "propertyOrder": 10,
+        "template": "{{ lastName }}, {{ firstName }}",
+        "watch": {
+          "firstName": "president.firstName",
+          "lastName": "president.lastName"
+        }
+      },
+      "firstName": {
+        "title": "First Name",
+        "type": "string",
+        "propertyOrder": 20,
+        "description": "The president's first name"
+      },
+      "lastName": {
+        "title": "Last Name",
+        "type": "string",
+        "propertyOrder": 30,
+        "description": "The president's last name"
+      },
+      "middleName": {
+        "title": "Middle Name",
+        "type": "string",
+        "propertyOrder": 40,
+        "description": "The president's middle name"
+      },
+      "birthDate": {
+        "title": "Birth Date",
+        "type": "string",
+        "propertyOrder": 50,
+        "format": "date",
+        "description": "Year the president was born"
+      },
+      "deathDate": {
+        "title": "Death Date",
+        "type": "string",
+        "propertyOrder": 60,
+        "format": "date",
+        "description": "Year the president was died"
+      },
+      "party": {
+        "title": "Patry",
+        "type": "string",
+        "propertyOrder": 70,
+        "enum": [ "Democratic", "Republican", "Independent", "Whig", "Federalist", "Democratic-Republican", "Anti-Administration", "Pro-Administration" ],
+        "description": "The party affiliation"
+      },
+      "state": {
+        "title": "State",
+        "type": "string",
+        "propertyOrder": 80,
+        "enum": [ "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Deleware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "New Hanpshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming" ],
+        "description": "State the president is from"
+      },
+      "termStarts": {
+        "title": "Start of Term",
+        "type": "string",
+        "propertyOrder": 90,
+        "format": "date",
+        "description": "The date the president entered office"
+      },
+      "termEnds": {
+        "title": "End of Term",
+        "type": "string",
+        "propertyOrder": 100,
+        "format": "date",
+        "description": "The date the president left office"
+      }
+    },
+    "required": [ "title", "firstName", "lastName", "middleName", "birthDate", "deathDate", "state", "termStarts", "termEnds" ]
+  }
+}
