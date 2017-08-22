@@ -77,8 +77,14 @@
         "propertyOrder": 100,
         "format": "date",
         "description": "The date the president left office"
+      },
+      "term": {
+        "title": "Term",
+        "type": "number",
+        "propertyOrder": 110,
+        "description": "The term of office"
       }
     },
-    "required": [ "title", "firstName", "lastName", "middleName", "birthDate", "deathDate", "state", "termStarts", "termEnds" ]
+    "required": [ "title", "firstName", "lastName", "middleName", "birthDate", "deathDate", "state", "termStarts", "termEnds", "term" ]
   }
 }
