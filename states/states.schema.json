@@ -1,0 +1,64 @@
+{
+  "title": "States and Territories",
+  "type": "array",
+  "uniqueItems": true,
+  "items": {
+    "type": "object",
+    "id": "member",
+    "title": "State",
+    "headerTemplate": "{{ i1 }} - ({{ self.abbreviation }}) - {{ self.name }}",
+    "properties": {
+      "name": {
+        "title": "Name",
+        "type": "string",
+        "propertyOrder": 20,
+        "description": "Name of the state or territory"
+      },
+      "abbreviation": {
+        "title": "Abbreviation",
+        "type": "string",
+        "propertyOrder": 30,
+        "description": "Two letter abbreviation"
+      },
+      "type": {
+        "title": "Type",
+        "type": "string",
+        "propertyOrder": 40,
+        "enum": [ "State", "Federal District", "Territory" ]
+      },
+      "capital": {
+        "title": "Capital City",
+        "type": "string",
+        "propertyOrder": 50,
+        "format": "string",
+        "description": "Name of the capital city"
+      },
+      "established": {
+        "title": "Established",
+        "type": "string",
+        "propertyOrder": 60,
+        "format": "date",
+        "description": "Date established as a state or territory"
+      },
+      "totalAreaKM": {
+        "title": "Total Area",
+        "type": "number",
+        "propertyOrder": 70,
+        "description": "Total area of land and water in km2"
+      },
+      "landAreaKM": {
+        "title": "Land Area",
+        "type": "number",
+        "propertyOrder": 80,
+        "description": "Total are of land in km2"
+      },
+      "waterAreaKM": {
+        "title": "Water Area",
+        "type": "number",
+        "propertyOrder": 90,
+        "description": "Total area of water in km2"
+      }
+    },
+    "required": [ "name", "abbreviation", "type", "capital", "established", "totalAreaKM", "landAreaKM", "waterAreaKM" ]
+  }
+}

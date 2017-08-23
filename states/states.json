@@ -1,0 +1,652 @@
+[
+	{
+		"name": "Alabama",
+		"abbreviation": "AL",
+		"type": "State",
+		"capital": "Montgomery",
+		"established": "1819-12-14",
+		"totalAreaKM": 135767,
+		"landAreaKM": 131171,
+		"waterAreaKM": 4597
+	},
+	{
+		"name": "Alaska",
+		"abbreviation": "AK",
+		"type": "State",
+		"capital": "Juneau",
+		"established": "1959-01-03",
+		"totalAreaKM": 1723337,
+		"landAreaKM": 1477953,
+		"waterAreaKM": 245384
+	},
+	{
+		"name": "Arizona",
+		"abbreviation": "AZ",
+		"type": "State",
+		"capital": "Phoenix",
+		"established": "1912-02-14",
+		"totalAreaKM": 295234,
+		"landAreaKM": 294207,
+		"waterAreaKM": 1026
+	},
+	{
+		"name": "Arkansas",
+		"abbreviation": "AR",
+		"type": "State",
+		"capital": "Little Rock",
+		"established": "1836-06-15",
+		"totalAreaKM": 137732,
+		"landAreaKM": 134771,
+		"waterAreaKM": 2961
+	},
+	{
+		"name": "California",
+		"abbreviation": "CA",
+		"type": "State",
+		"capital": "Sacramento",
+		"established": "1850-09-09",
+		"totalAreaKM": 423967,
+		"landAreaKM": 403466,
+		"waterAreaKM": 20501
+	},
+	{
+		"name": "Colorado",
+		"abbreviation": "CO",
+		"type": "State",
+		"capital": "Denver",
+		"established": "1876-08-01",
+		"totalAreaKM": 269601,
+		"landAreaKM": 268431,
+		"waterAreaKM": 1170
+	},
+	{
+		"name": "Connecticut",
+		"abbreviation": "CT",
+		"type": "State",
+		"capital": "Hartford",
+		"established": "1788-06-09",
+		"totalAreaKM": 14357,
+		"landAreaKM": 12542,
+		"waterAreaKM": 1816
+	},
+	{
+		"name": "Delaware",
+		"abbreviation": "DE",
+		"type": "State",
+		"capital": "Dover",
+		"established": "1787-12-07",
+		"totalAreaKM": 6446,
+		"landAreaKM": 5047,
+		"waterAreaKM": 1399
+	},
+	{
+		"name": "Florida",
+		"abbreviation": "FL",
+		"type": "State",
+		"capital": "Tallahassee",
+		"established": "1845-03-03",
+		"totalAreaKM": 170312,
+		"landAreaKM": 138887,
+		"waterAreaKM": 21424
+	},
+	{
+		"name": "Georgia",
+		"abbreviation": "GA",
+		"type": "State",
+		"capital": "Atlanta",
+		"established": "1788-01-02",
+		"totalAreaKM": 153910,
+		"landAreaKM": 148959,
+		"waterAreaKM": 4951
+	},
+	{
+		"name": "Hawaii",
+		"abbreviation": "HI",
+		"type": "State",
+		"capital": "Honolulu",
+		"established": "1959-08-21",
+		"totalAreaKM": 28313,
+		"landAreaKM": 16635,
+		"waterAreaKM": 11678
+	},
+	{
+		"name": "Idaho",
+		"abbreviation": "ID",
+		"type": "State",
+		"capital": "Boise",
+		"established": "1890-07-03",
+		"totalAreaKM": 216442,
+		"landAreaKM": 214045,
+		"waterAreaKM": 2398
+	},
+	{
+		"name": "Illinois",
+		"abbreviation": "IL",
+		"type": "State",
+		"capital": "Springfield",
+		"established": "1818-12-03",
+		"totalAreaKM": 149995,
+		"landAreaKM": 143793,
+		"waterAreaKM": 6202
+	},
+	{
+		"name": "Indiana",
+		"abbreviation": "IN",
+		"type": "State",
+		"capital": "Indianapolis",
+		"established": "1816-12-11",
+		"totalAreaKM": 94326,
+		"landAreaKM": 92789,
+		"waterAreaKM": 1537
+	},
+	{
+		"name": "Iowa",
+		"abbreviation": "IA",
+		"type": "State",
+		"capital": "Des Moines",
+		"established": "1846-12-28",
+		"totalAreaKM": 145746,
+		"landAreaKM": 144669,
+		"waterAreaKM": 1077
+	},
+	{
+		"name": "Kansas",
+		"abbreviation": "KS",
+		"type": "State",
+		"capital": "Topeka",
+		"established": "1861-01-29",
+		"totalAreaKM": 213100,
+		"landAreaKM": 211754,
+		"waterAreaKM": 1346
+	},
+	{
+		"name": "Kentucky",
+		"abbreviation": "FY",
+		"type": "State",
+		"capital": "Frankfort",
+		"established": "1792-06-01",
+		"totalAreaKM": 104656,
+		"landAreaKM": 102269,
+		"waterAreaKM": 2387
+	},
+	{
+		"name": "Louisiana",
+		"abbreviation": "LA",
+		"type": "State",
+		"capital": "Baton Rouge",
+		"established": "1812-04-20",
+		"totalAreaKM": 135659,
+		"landAreaKM": 111898,
+		"waterAreaKM": 23761
+	},
+	{
+		"name": "Main",
+		"abbreviation": "ME",
+		"type": "State",
+		"capital": "Augusta",
+		"established": "1820-03-15",
+		"totalAreaKM": 91633,
+		"landAreaKM": 79883,
+		"waterAreaKM": 11750
+	},
+	{
+		"name": "Maryland",
+		"abbreviation": "MD",
+		"type": "State",
+		"capital": "Annapolis",
+		"established": "1788-04-28",
+		"totalAreaKM": 32131,
+		"landAreaKM": 25142,
+		"waterAreaKM": 6990
+	},
+	{
+		"name": "Massachusetts",
+		"abbreviation": "MA",
+		"type": "State",
+		"capital": "Boston",
+		"established": "1788-02-06",
+		"totalAreaKM": 27336,
+		"landAreaKM": 20202,
+		"waterAreaKM": 7134
+	},
+	{
+		"name": "Michigan",
+		"abbreviation": "MI",
+		"type": "State",
+		"capital": "Lansing",
+		"established": "1837-01-26",
+		"totalAreaKM": 250487,
+		"landAreaKM": 146435,
+		"waterAreaKM": 104052
+	},
+	{
+		"name": "Minnesota",
+		"abbreviation": "MN",
+		"type": "State",
+		"capital": "St. Paul",
+		"established": "1858-05-11",
+		"totalAreaKM": 225163,
+		"landAreaKM": 206232,
+		"waterAreaKM": 18930
+	},
+	{
+		"name": "Mississippi",
+		"abbreviation": "MS",
+		"type": "State",
+		"capital": "Jackson",
+		"established": "1817-12-10",
+		"totalAreaKM": 125438,
+		"landAreaKM": 121531,
+		"waterAreaKM": 3907
+	},
+	{
+		"name": "Missouri",
+		"abbreviation": "MO",
+		"type": "State",
+		"capital": "Jefferson City",
+		"established": "1821-08-10",
+		"totalAreaKM": 180540,
+		"landAreaKM": 178040,
+		"waterAreaKM": 2501
+	},
+	{
+		"name": "Montana",
+		"abbreviation": "MT",
+		"type": "State",
+		"capital": "Helena",
+		"established": "1889-11-08",
+		"totalAreaKM": 380831,
+		"landAreaKM": 376962,
+		"waterAreaKM": 3869
+	},
+	{
+		"name": "Nebraska",
+		"abbreviation": "NE",
+		"type": "State",
+		"capital": "Lincoln",
+		"established": "1867-03-01",
+		"totalAreaKM": 200330,
+		"landAreaKM": 198974,
+		"waterAreaKM": 1356
+	},
+	{
+		"name": "Nevada",
+		"abbreviation": "NV",
+		"type": "State",
+		"capital": "Carson City",
+		"established": "1864-10-31",
+		"totalAreaKM": 286380,
+		"landAreaKM": 284332,
+		"waterAreaKM": 2048
+	},
+	{
+		"name": "New Hampshire",
+		"abbreviation": "NH",
+		"type": "State",
+		"capital": "Concord",
+		"established": "1788-06-21",
+		"totalAreaKM": 24214,
+		"landAreaKM": 23187,
+		"waterAreaKM": 1027
+	},
+	{
+		"name": "New Jersey",
+		"abbreviation": "NJ",
+		"type": "State",
+		"capital": "Trenton",
+		"established": "1787-12-18",
+		"totalAreaKM": 22591,
+		"landAreaKM": 19047,
+		"waterAreaKM": 3544
+	},
+	{
+		"name": "New Mexico",
+		"abbreviation": "NM",
+		"type": "State",
+		"capital": "Sante Fe",
+		"established": "1912-01-06",
+		"totalAreaKM": 314917,
+		"landAreaKM": 314161,
+		"waterAreaKM": 757
+	},
+	{
+		"name": "New York",
+		"abbreviation": "NY",
+		"type": "State",
+		"capital": "Albany",
+		"established": "1788-07-26",
+		"totalAreaKM": 141297,
+		"landAreaKM": 122057,
+		"waterAreaKM": 19240
+	},
+	{
+		"name": "North Carolina",
+		"abbreviation": "NC",
+		"type": "State",
+		"capital": "Raleigh",
+		"established": "1789-11-21",
+		"totalAreaKM": 139391,
+		"landAreaKM": 125920,
+		"waterAreaKM": 12471
+	},
+	{
+		"name": "North Dakota",
+		"abbreviation": "ND",
+		"type": "State",
+		"capital": "Bismarck",
+		"established": "1889-11-02",
+		"totalAreaKM": 183108,
+		"landAreaKM": 178711,
+		"waterAreaKM": 4397
+	},
+	{
+		"name": "Ohio",
+		"abbreviation": "OH",
+		"type": "State",
+		"capital": "Columbus",
+		"established": "1803-03-01",
+		"totalAreaKM": 116098,
+		"landAreaKM": 105829,
+		"waterAreaKM": 10269
+	},
+	{
+		"name": "Oklahoma",
+		"abbreviation": "OK",
+		"type": "State",
+		"capital": "Oklahoma City",
+		"established": "1907-11-16",
+		"totalAreaKM": 181037,
+		"landAreaKM": 177660,
+		"waterAreaKM": 3377
+	},
+	{
+		"name": "Oregon",
+		"abbreviation": "OR",
+		"type": "State",
+		"capital": "Salem",
+		"established": "1859-02-14",
+		"totalAreaKM": 254799,
+		"landAreaKM": 248608,
+		"waterAreaKM": 6191
+	},
+	{
+		"name": "Pennsylvania",
+		"abbreviation": "PA",
+		"type": "State",
+		"capital": "Harrisburg",
+		"established": "1787-12-12",
+		"totalAreaKM": 119280,
+		"landAreaKM": 115883,
+		"waterAreaKM": 3397
+	},
+	{
+		"name": "Rhode Island",
+		"abbreviation": "RI",
+		"type": "State",
+		"capital": "Providence",
+		"established": "1790-05-29",
+		"totalAreaKM": 4001,
+		"landAreaKM": 2678,
+		"waterAreaKM": 1324
+	},
+	{
+		"name": "South Carolina",
+		"abbreviation": "SC",
+		"type": "State",
+		"capital": "Columbia",
+		"established": "1788-05-13",
+		"totalAreaKM": 82933,
+		"landAreaKM": 77857,
+		"waterAreaKM": 5076
+	},
+	{
+		"name": "South Dakota",
+		"abbreviation": "SD",
+		"type": "State",
+		"capital": "Pierre",
+		"established": "1889-11-02",
+		"totalAreaKM": 199729,
+		"landAreaKM": 196350,
+		"waterAreaKM": 3379
+	},
+	{
+		"name": "Tennessee",
+		"abbreviation": "TN",
+		"type": "State",
+		"capital": "Nashville",
+		"established": "1796-06-01",
+		"totalAreaKM": 109153,
+		"landAreaKM": 106798,
+		"waterAreaKM": 2355
+	},
+	{
+		"name": "Texas",
+		"abbreviation": "TX",
+		"type": "State",
+		"capital": "Austin",
+		"established": "1845-12-29",
+		"totalAreaKM": 695662,
+		"landAreaKM": 676587,
+		"waterAreaKM": 19075
+	},
+	{
+		"name": "Utah",
+		"abbreviation": "UT",
+		"type": "State",
+		"capital": "Salt Lake City",
+		"established": "1896-01-04",
+		"totalAreaKM": 219882,
+		"landAreaKM": 212818,
+		"waterAreaKM": 7064
+	},
+	{
+		"name": "Vermont",
+		"abbreviation": "VT",
+		"type": "State",
+		"capital": "Montpelier",
+		"established": "1791-03-04",
+		"totalAreaKM": 24906,
+		"landAreaKM": 23871,
+		"waterAreaKM": 1035
+	},
+	{
+		"name": "Virginaia",
+		"abbreviation": "VA",
+		"type": "State",
+		"capital": "Richmond",
+		"established": "1788-06-25",
+		"totalAreaKM": 110787,
+		"landAreaKM": 102279,
+		"waterAreaKM": 8508
+	},
+	{
+		"name": "Washington",
+		"abbreviation": "WA",
+		"type": "State",
+		"capital": "Olympia",
+		"established": "1889-11-11",
+		"totalAreaKM": 184661,
+		"landAreaKM": 172119,
+		"waterAreaKM": 12542
+	},
+	{
+		"name": "West Virginaia",
+		"abbreviation": "WV",
+		"type": "State",
+		"capital": "Charleston",
+		"established": "1863-06-20",
+		"totalAreaKM": 62756,
+		"landAreaKM": 61159,
+		"waterAreaKM": 497
+	},
+	{
+		"name": "Wisconsin",
+		"abbreviation": "WI",
+		"type": "State",
+		"capital": "Madison",
+		"established": "1848-05-29",
+		"totalAreaKM": 169635,
+		"landAreaKM": 140268,
+		"waterAreaKM": 29367
+	},
+	{
+		"name": "Wyomin",
+		"abbreviation": "WY",
+		"type": "State",
+		"capital": "Cheyenne",
+		"established": "1890-07-10",
+		"totalAreaKM": 253335,
+		"landAreaKM": 251470,
+		"waterAreaKM": 29367
+	},
+	{
+		"name": "District of Columbia",
+		"abbreviation": "DC",
+		"type": "Federal District",
+		"capital": "",
+		"established": "1790-06-16",
+		"totalAreaKM": 176,
+		"landAreaKM": 158,
+		"waterAreaKM": 18
+	},
+	{
+		"name": "American Samoa",
+		"abbreviation": "AS",
+		"type": "Territory",
+		"capital": "Pago Pago",
+		"established": "1900-04-17",
+		"totalAreaKM": 1505,
+		"landAreaKM": 198,
+		"waterAreaKM": 1307
+	},
+	{
+		"name": "Guam",
+		"abbreviation": "GU",
+		"type": "Territory",
+		"capital": "Hagåtña",
+		"established": "1899-04-11",
+		"totalAreaKM": 1478,
+		"landAreaKM": 542,
+		"waterAreaKM": 935
+	},
+	{
+		"name": "Northern Mariana Islands",
+		"abbreviation": "MP",
+		"type": "Territory",
+		"capital": "Saipan",
+		"established": "1986-11-03",
+		"totalAreaKM": 5117,
+		"landAreaKM": 472,
+		"waterAreaKM": 4644
+	},
+	{
+		"name": "Puerto Rico",
+		"abbreviation": "PR",
+		"type": "Territory",
+		"capital": "San Juan",
+		"established": "1899-04-11",
+		"totalAreaKM": 13791,
+		"landAreaKM": 8868,
+		"waterAreaKM": 4924
+	},
+	{
+		"name": "US Virgin Islands",
+		"abbreviation": "VI",
+		"type": "Territory",
+		"capital": "Charlotte Amalie",
+		"established": "1917-03-31",
+		"totalAreaKM": 1898,
+		"landAreaKM": 348,
+		"waterAreaKM": 1550
+	},
+	{
+		"name": "Baker Island",
+		"abbreviation": "",
+		"type": "Territory",
+		"capital": "",
+		"established": "1856-01-01",
+		"totalAreaKM": 0,
+		"landAreaKM": 2.2,
+		"waterAreaKM": 0
+	},
+	{
+		"name": "Howland Island",
+		"abbreviation": "",
+		"type": "Territory",
+		"capital": "",
+		"established": "1858-01-01",
+		"totalAreaKM": 0,
+		"landAreaKM": 1.6,
+		"waterAreaKM": 0
+	},
+	{
+		"name": "Jarvis Island",
+		"abbreviation": "",
+		"type": "Territory",
+		"capital": "",
+		"established": "1856-01-01",
+		"totalAreaKM": 0,
+		"landAreaKM": 5.7,
+		"waterAreaKM": 0
+	},
+	{
+		"name": "Johnston Atoll",
+		"abbreviation": "",
+		"type": "Territory",
+		"capital": "",
+		"established": "1859-01-01",
+		"totalAreaKM": 0,
+		"landAreaKM": 2.6,
+		"waterAreaKM": 0
+	},
+	{
+		"name": "Kingman Reef",
+		"abbreviation": "",
+		"type": "Territory",
+		"capital": "",
+		"established": "1860-01-01",
+		"totalAreaKM": 0,
+		"landAreaKM": 0.01,
+		"waterAreaKM": 0
+	},
+	{
+		"name": "Midway Atoll",
+		"abbreviation": "",
+		"type": "Territory",
+		"capital": "",
+		"established": "1867-01-01",
+		"totalAreaKM": 0,
+		"landAreaKM": 7.8,
+		"waterAreaKM": 0
+	},
+	{
+		"name": "Navassa Island",
+		"abbreviation": "",
+		"type": "Territory",
+		"capital": "",
+		"established": "1858-01-01",
+		"totalAreaKM": 0,
+		"landAreaKM": 7.8,
+		"waterAreaKM": 0
+	},
+	{
+		"name": "Palmyra Atoll",
+		"abbreviation": "",
+		"type": "Territory",
+		"capital": "",
+		"established": "1898-01-01",
+		"totalAreaKM": 0,
+		"landAreaKM": 3.9,
+		"waterAreaKM": 0
+	},
+	{
+		"name": "Wake Island",
+		"abbreviation": "",
+		"type": "Territory",
+		"capital": "",
+		"established": "1899-01-01",
+		"totalAreaKM": 0,
+		"landAreaKM": 6.5,
+		"waterAreaKM": 0
+	}
+]
