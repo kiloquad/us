@@ -57,8 +57,33 @@
         "type": "number",
         "propertyOrder": 90,
         "description": "Total area of water in km2"
+      },
+      "population": {
+        "title": "Population by year",
+        "type": "array",
+        "propertyOrder": 100,
+        "description": "Estimates of the total resident population",
+        "items": {
+          "type": "object",
+          "id": "year",
+          "title": "Year",
+          "properties": {
+            "year": {
+              "title": "Year",
+              "type": "number",
+              "propertyOrder": 10,
+              "description": "Population year"
+            },
+            "population": {
+              "title": "Population",
+              "type": "number",
+              "propertyOrder": 20,
+              "description": "Estimated population"
+            }
+          }
+        }
       }
     },
-    "required": [ "name", "abbreviation", "type", "capital", "established", "totalAreaKM", "landAreaKM", "waterAreaKM" ]
+    "required": [ "name", "abbreviation", "type", "capital", "established", "totalAreaKM", "landAreaKM", "waterAreaKM", "population" ]
   }
 }

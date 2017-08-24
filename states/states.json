@@ -7,7 +7,49 @@
 		"established": "1819-12-14",
 		"totalAreaKM": 135767,
 		"landAreaKM": 131171,
-		"waterAreaKM": 4597
+		"waterAreaKM": 4597,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1830000
+			},
+			{
+				"year": 1901,
+				"population": 1907000
+			},
+			{
+				"year": 1902,
+				"population": 1935000
+			},
+			{
+				"year": 1903,
+				"population": 1957000
+			},
+			{
+				"year": 1904,
+				"population": 1978000
+			},
+			{
+				"year": 1905,
+				"population": 2012000
+			},
+			{
+				"year": 1906,
+				"population": 2045000
+			},
+			{
+				"year": 1907,
+				"population": 2058000
+			},
+			{
+				"year": 1908,
+				"population": 2070000
+			},
+			{
+				"year": 1909,
+				"population": 2108000
+			}
+		]
 	},
 	{
 		"name": "Alaska",
@@ -17,7 +59,8 @@
 		"established": "1959-01-03",
 		"totalAreaKM": 1723337,
 		"landAreaKM": 1477953,
-		"waterAreaKM": 245384
+		"waterAreaKM": 245384,
+		"population": []
 	},
 	{
 		"name": "Arizona",
@@ -27,7 +70,49 @@
 		"established": "1912-02-14",
 		"totalAreaKM": 295234,
 		"landAreaKM": 294207,
-		"waterAreaKM": 1026
+		"waterAreaKM": 1026,
+		"population": [
+			{
+				"year": 1900,
+				"population": 124000
+			},
+			{
+				"year": 1901,
+				"population": 131000
+			},
+			{
+				"year": 1902,
+				"population": 138000
+			},
+			{
+				"year": 1903,
+				"population": 144000
+			},
+			{
+				"year": 1904,
+				"population": 151000
+			},
+			{
+				"year": 1905,
+				"population": 158000
+			},
+			{
+				"year": 1906,
+				"population": 167000
+			},
+			{
+				"year": 1907,
+				"population": 176000
+			},
+			{
+				"year": 1908,
+				"population": 186000
+			},
+			{
+				"year": 1909,
+				"population": 196000
+			}
+		]
 	},
 	{
 		"name": "Arkansas",
@@ -37,7 +122,49 @@
 		"established": "1836-06-15",
 		"totalAreaKM": 137732,
 		"landAreaKM": 134771,
-		"waterAreaKM": 2961
+		"waterAreaKM": 2961,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1314000
+			},
+			{
+				"year": 1901,
+				"population": 1341000
+			},
+			{
+				"year": 1902,
+				"population": 1360000
+			},
+			{
+				"year": 1903,
+				"population": 1384000
+			},
+			{
+				"year": 1904,
+				"population": 1419000
+			},
+			{
+				"year": 1905,
+				"population": 1447000
+			},
+			{
+				"year": 1906,
+				"population": 1465000
+			},
+			{
+				"year": 1907,
+				"population": 1484000
+			},
+			{
+				"year": 1908,
+				"population": 1513000
+			},
+			{
+				"year": 1909,
+				"population": 1545000
+			}
+		]
 	},
 	{
 		"name": "California",
@@ -47,7 +174,49 @@
 		"established": "1850-09-09",
 		"totalAreaKM": 423967,
 		"landAreaKM": 403466,
-		"waterAreaKM": 20501
+		"waterAreaKM": 20501,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1490000
+			},
+			{
+				"year": 1901,
+				"population": 1550000
+			},
+			{
+				"year": 1902,
+				"population": 1623000
+			},
+			{
+				"year": 1903,
+				"population": 1702000
+			},
+			{
+				"year": 1904,
+				"population": 1792000
+			},
+			{
+				"year": 1905,
+				"population": 1893000
+			},
+			{
+				"year": 1906,
+				"population": 1976000
+			},
+			{
+				"year": 1907,
+				"population": 2054000
+			},
+			{
+				"year": 1908,
+				"population": 2161000
+			},
+			{
+				"year": 1909,
+				"population": 2282000
+			}
+		]
 	},
 	{
 		"name": "Colorado",
@@ -57,7 +226,49 @@
 		"established": "1876-08-01",
 		"totalAreaKM": 269601,
 		"landAreaKM": 268431,
-		"waterAreaKM": 1170
+		"waterAreaKM": 1170,
+		"population": [
+			{
+				"year": 1900,
+				"population": 543000
+			},
+			{
+				"year": 1901,
+				"population": 581000
+			},
+			{
+				"year": 1902,
+				"population": 621000
+			},
+			{
+				"year": 1903,
+				"population": 652000
+			},
+			{
+				"year": 1904,
+				"population": 659000
+			},
+			{
+				"year": 1905,
+				"population": 680000
+			},
+			{
+				"year": 1906,
+				"population": 707000
+			},
+			{
+				"year": 1907,
+				"population": 733000
+			},
+			{
+				"year": 1908,
+				"population": 757000
+			},
+			{
+				"year": 1909,
+				"population": 775000
+			}
+		]
 	},
 	{
 		"name": "Connecticut",
@@ -67,7 +278,49 @@
 		"established": "1788-06-09",
 		"totalAreaKM": 14357,
 		"landAreaKM": 12542,
-		"waterAreaKM": 1816
+		"waterAreaKM": 1816,
+		"population": [
+			{
+				"year": 1900,
+				"population": 910000
+			},
+			{
+				"year": 1901,
+				"population": 931000
+			},
+			{
+				"year": 1902,
+				"population": 952000
+			},
+			{
+				"year": 1903,
+				"population": 972000
+			},
+			{
+				"year": 1904,
+				"population": 987000
+			},
+			{
+				"year": 1905,
+				"population": 1010000
+			},
+			{
+				"year": 1906,
+				"population": 1033000
+			},
+			{
+				"year": 1907,
+				"population": 1057000
+			},
+			{
+				"year": 1908,
+				"population": 1077000
+			},
+			{
+				"year": 1909,
+				"population": 1097000
+			}
+		]
 	},
 	{
 		"name": "Delaware",
@@ -77,7 +330,49 @@
 		"established": "1787-12-07",
 		"totalAreaKM": 6446,
 		"landAreaKM": 5047,
-		"waterAreaKM": 1399
+		"waterAreaKM": 1399,
+		"population": [
+			{
+				"year": 1900,
+				"population": 185000
+			},
+			{
+				"year": 1901,
+				"population": 187000
+			},
+			{
+				"year": 1902,
+				"population": 188000
+			},
+			{
+				"year": 1903,
+				"population": 190000
+			},
+			{
+				"year": 1904,
+				"population": 192000
+			},
+			{
+				"year": 1905,
+				"population": 194000
+			},
+			{
+				"year": 1906,
+				"population": 196000
+			},
+			{
+				"year": 1907,
+				"population": 197000
+			},
+			{
+				"year": 1908,
+				"population": 199000
+			},
+			{
+				"year": 1909,
+				"population": 201000
+			}
+		]
 	},
 	{
 		"name": "Florida",
@@ -87,7 +382,49 @@
 		"established": "1845-03-03",
 		"totalAreaKM": 170312,
 		"landAreaKM": 138887,
-		"waterAreaKM": 21424
+		"waterAreaKM": 21424,
+		"population": [
+			{
+				"year": 1900,
+				"population": 530000
+			},
+			{
+				"year": 1901,
+				"population": 544000
+			},
+			{
+				"year": 1902,
+				"population": 565000
+			},
+			{
+				"year": 1903,
+				"population": 587000
+			},
+			{
+				"year": 1904,
+				"population": 599000
+			},
+			{
+				"year": 1905,
+				"population": 615000
+			},
+			{
+				"year": 1906,
+				"population": 628000
+			},
+			{
+				"year": 1907,
+				"population": 645000
+			},
+			{
+				"year": 1908,
+				"population": 684000
+			},
+			{
+				"year": 1909,
+				"population": 724000
+			}
+		]
 	},
 	{
 		"name": "Georgia",
@@ -97,7 +434,49 @@
 		"established": "1788-01-02",
 		"totalAreaKM": 153910,
 		"landAreaKM": 148959,
-		"waterAreaKM": 4951
+		"waterAreaKM": 4951,
+		"population": [
+			{
+				"year": 1900,
+				"population": 2220000
+			},
+			{
+				"year": 1901,
+				"population": 2263000
+			},
+			{
+				"year": 1902,
+				"population": 2305000
+			},
+			{
+				"year": 1903,
+				"population": 2346000
+			},
+			{
+				"year": 1904,
+				"population": 2387000
+			},
+			{
+				"year": 1905,
+				"population": 2427000
+			},
+			{
+				"year": 1906,
+				"population": 2466000
+			},
+			{
+				"year": 1907,
+				"population": 2505000
+			},
+			{
+				"year": 1908,
+				"population": 2543000
+			},
+			{
+				"year": 1909,
+				"population": 2580000
+			}
+		]
 	},
 	{
 		"name": "Hawaii",
@@ -107,7 +486,8 @@
 		"established": "1959-08-21",
 		"totalAreaKM": 28313,
 		"landAreaKM": 16635,
-		"waterAreaKM": 11678
+		"waterAreaKM": 11678,
+		"population": []
 	},
 	{
 		"name": "Idaho",
@@ -117,7 +497,49 @@
 		"established": "1890-07-03",
 		"totalAreaKM": 216442,
 		"landAreaKM": 214045,
-		"waterAreaKM": 2398
+		"waterAreaKM": 2398,
+		"population": [
+			{
+				"year": 1900,
+				"population": 163000
+			},
+			{
+				"year": 1901,
+				"population": 176000
+			},
+			{
+				"year": 1902,
+				"population": 199000
+			},
+			{
+				"year": 1903,
+				"population": 216000
+			},
+			{
+				"year": 1904,
+				"population": 229000
+			},
+			{
+				"year": 1905,
+				"population": 246000
+			},
+			{
+				"year": 1906,
+				"population": 262000
+			},
+			{
+				"year": 1907,
+				"population": 277000
+			},
+			{
+				"year": 1908,
+				"population": 291000
+			},
+			{
+				"year": 1909,
+				"population": 311000
+			}
+		]
 	},
 	{
 		"name": "Illinois",
@@ -127,7 +549,49 @@
 		"established": "1818-12-03",
 		"totalAreaKM": 149995,
 		"landAreaKM": 143793,
-		"waterAreaKM": 6202
+		"waterAreaKM": 6202,
+		"population": [
+			{
+				"year": 1900,
+				"population": 4828000
+			},
+			{
+				"year": 1901,
+				"population": 4914000
+			},
+			{
+				"year": 1902,
+				"population": 4992000
+			},
+			{
+				"year": 1903,
+				"population": 5071000
+			},
+			{
+				"year": 1904,
+				"population": 5161000
+			},
+			{
+				"year": 1905,
+				"population": 5241000
+			},
+			{
+				"year": 1906,
+				"population": 5309000
+			},
+			{
+				"year": 1907,
+				"population": 5384000
+			},
+			{
+				"year": 1908,
+				"population": 5474000
+			},
+			{
+				"year": 1909,
+				"population": 5567000
+			}
+		]
 	},
 	{
 		"name": "Indiana",
@@ -137,7 +601,49 @@
 		"established": "1816-12-11",
 		"totalAreaKM": 94326,
 		"landAreaKM": 92789,
-		"waterAreaKM": 1537
+		"waterAreaKM": 1537,
+		"population": [
+			{
+				"year": 1900,
+				"population": 2518000
+			},
+			{
+				"year": 1901,
+				"population": 2541000
+			},
+			{
+				"year": 1902,
+				"population": 2567000
+			},
+			{
+				"year": 1903,
+				"population": 2594000
+			},
+			{
+				"year": 1904,
+				"population": 2614000
+			},
+			{
+				"year": 1905,
+				"population": 2635000
+			},
+			{
+				"year": 1906,
+				"population": 2663000
+			},
+			{
+				"year": 1907,
+				"population": 2679000
+			},
+			{
+				"year": 1908,
+				"population": 2677000
+			},
+			{
+				"year": 1909,
+				"population": 2678000
+			}
+		]
 	},
 	{
 		"name": "Iowa",
@@ -147,7 +653,49 @@
 		"established": "1846-12-28",
 		"totalAreaKM": 145746,
 		"landAreaKM": 144669,
-		"waterAreaKM": 1077
+		"waterAreaKM": 1077,
+		"population": [
+			{
+				"year": 1900,
+				"population": 2231000
+			},
+			{
+				"year": 1901,
+				"population": 2227000
+			},
+			{
+				"year": 1902,
+				"population": 2222000
+			},
+			{
+				"year": 1903,
+				"population": 2217000
+			},
+			{
+				"year": 1904,
+				"population": 2212000
+			},
+			{
+				"year": 1905,
+				"population": 2211000
+			},
+			{
+				"year": 1906,
+				"population": 2214000
+			},
+			{
+				"year": 1907,
+				"population": 2217000
+			},
+			{
+				"year": 1908,
+				"population": 2220000
+			},
+			{
+				"year": 1909,
+				"population": 2223000
+			}
+		]
 	},
 	{
 		"name": "Kansas",
@@ -157,17 +705,101 @@
 		"established": "1861-01-29",
 		"totalAreaKM": 213100,
 		"landAreaKM": 211754,
-		"waterAreaKM": 1346
+		"waterAreaKM": 1346,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1473000
+			},
+			{
+				"year": 1901,
+				"population": 1490000
+			},
+			{
+				"year": 1902,
+				"population": 1505000
+			},
+			{
+				"year": 1903,
+				"population": 1498000
+			},
+			{
+				"year": 1904,
+				"population": 1527000
+			},
+			{
+				"year": 1905,
+				"population": 1555000
+			},
+			{
+				"year": 1906,
+				"population": 1576000
+			},
+			{
+				"year": 1907,
+				"population": 1612000
+			},
+			{
+				"year": 1908,
+				"population": 1629000
+			},
+			{
+				"year": 1909,
+				"population": 1658000
+			}
+		]
 	},
 	{
 		"name": "Kentucky",
-		"abbreviation": "FY",
+		"abbreviation": "KY",
 		"type": "State",
 		"capital": "Frankfort",
 		"established": "1792-06-01",
 		"totalAreaKM": 104656,
 		"landAreaKM": 102269,
-		"waterAreaKM": 2387
+		"waterAreaKM": 2387,
+		"population": [
+			{
+				"year": 1900,
+				"population": 2148000
+			},
+			{
+				"year": 1901,
+				"population": 2162000
+			},
+			{
+				"year": 1902,
+				"population": 2177000
+			},
+			{
+				"year": 1903,
+				"population": 2191000
+			},
+			{
+				"year": 1904,
+				"population": 2205000
+			},
+			{
+				"year": 1905,
+				"population": 2220000
+			},
+			{
+				"year": 1906,
+				"population": 2234000
+			},
+			{
+				"year": 1907,
+				"population": 2249000
+			},
+			{
+				"year": 1908,
+				"population": 2263000
+			},
+			{
+				"year": 1909,
+				"population": 2278000
+			}
+		]
 	},
 	{
 		"name": "Louisiana",
@@ -177,7 +809,49 @@
 		"established": "1812-04-20",
 		"totalAreaKM": 135659,
 		"landAreaKM": 111898,
-		"waterAreaKM": 23761
+		"waterAreaKM": 23761,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1384000
+			},
+			{
+				"year": 1901,
+				"population": 1412000
+			},
+			{
+				"year": 1902,
+				"population": 1440000
+			},
+			{
+				"year": 1903,
+				"population": 1467000
+			},
+			{
+				"year": 1904,
+				"population": 1495000
+			},
+			{
+				"year": 1905,
+				"population": 1523000
+			},
+			{
+				"year": 1906,
+				"population": 1551000
+			},
+			{
+				"year": 1907,
+				"population": 1579000
+			},
+			{
+				"year": 1908,
+				"population": 1607000
+			},
+			{
+				"year": 1909,
+				"population": 1634000
+			}
+		]
 	},
 	{
 		"name": "Main",
@@ -187,7 +861,49 @@
 		"established": "1820-03-15",
 		"totalAreaKM": 91633,
 		"landAreaKM": 79883,
-		"waterAreaKM": 11750
+		"waterAreaKM": 11750,
+		"population": [
+			{
+				"year": 1900,
+				"population": 695000
+			},
+			{
+				"year": 1901,
+				"population": 699000
+			},
+			{
+				"year": 1902,
+				"population": 703000
+			},
+			{
+				"year": 1903,
+				"population": 709000
+			},
+			{
+				"year": 1904,
+				"population": 719000
+			},
+			{
+				"year": 1905,
+				"population": 723000
+			},
+			{
+				"year": 1906,
+				"population": 729000
+			},
+			{
+				"year": 1907,
+				"population": 731000
+			},
+			{
+				"year": 1908,
+				"population": 735000
+			},
+			{
+				"year": 1909,
+				"population": 740000
+			}
+		]
 	},
 	{
 		"name": "Maryland",
@@ -197,7 +913,49 @@
 		"established": "1788-04-28",
 		"totalAreaKM": 32131,
 		"landAreaKM": 25142,
-		"waterAreaKM": 6990
+		"waterAreaKM": 6990,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1189000
+			},
+			{
+				"year": 1901,
+				"population": 1200000
+			},
+			{
+				"year": 1902,
+				"population": 1210000
+			},
+			{
+				"year": 1903,
+				"population": 1209000
+			},
+			{
+				"year": 1904,
+				"population": 1217000
+			},
+			{
+				"year": 1905,
+				"population": 1237000
+			},
+			{
+				"year": 1906,
+				"population": 1251000
+			},
+			{
+				"year": 1907,
+				"population": 1257000
+			},
+			{
+				"year": 1908,
+				"population": 1269000
+			},
+			{
+				"year": 1909,
+				"population": 1289000
+			}
+		]
 	},
 	{
 		"name": "Massachusetts",
@@ -207,7 +965,49 @@
 		"established": "1788-02-06",
 		"totalAreaKM": 27336,
 		"landAreaKM": 20202,
-		"waterAreaKM": 7134
+		"waterAreaKM": 7134,
+		"population": [
+			{
+				"year": 1900,
+				"population": 2788000
+			},
+			{
+				"year": 1901,
+				"population": 2794000
+			},
+			{
+				"year": 1902,
+				"population": 2856000
+			},
+			{
+				"year": 1903,
+				"population": 2924000
+			},
+			{
+				"year": 1904,
+				"population": 2969000
+			},
+			{
+				"year": 1905,
+				"population": 3018000
+			},
+			{
+				"year": 1906,
+				"population": 3107000
+			},
+			{
+				"year": 1907,
+				"population": 3183000
+			},
+			{
+				"year": 1908,
+				"population": 3251000
+			},
+			{
+				"year": 1909,
+				"population": 3316000
+			}
+		]
 	},
 	{
 		"name": "Michigan",
@@ -217,7 +1017,49 @@
 		"established": "1837-01-26",
 		"totalAreaKM": 250487,
 		"landAreaKM": 146435,
-		"waterAreaKM": 104052
+		"waterAreaKM": 104052,
+		"population": [
+			{
+				"year": 1900,
+				"population": 2423000
+			},
+			{
+				"year": 1901,
+				"population": 2450000
+			},
+			{
+				"year": 1902,
+				"population": 2477000
+			},
+			{
+				"year": 1903,
+				"population": 2505000
+			},
+			{
+				"year": 1904,
+				"population": 2534000
+			},
+			{
+				"year": 1905,
+				"population": 2579000
+			},
+			{
+				"year": 1906,
+				"population": 2626000
+			},
+			{
+				"year": 1907,
+				"population": 2693000
+			},
+			{
+				"year": 1908,
+				"population": 2722000
+			},
+			{
+				"year": 1909,
+				"population": 2771000
+			}
+		]
 	},
 	{
 		"name": "Minnesota",
@@ -227,7 +1069,49 @@
 		"established": "1858-05-11",
 		"totalAreaKM": 225163,
 		"landAreaKM": 206232,
-		"waterAreaKM": 18930
+		"waterAreaKM": 18930,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1754000
+			},
+			{
+				"year": 1901,
+				"population": 1805000
+			},
+			{
+				"year": 1902,
+				"population": 1862000
+			},
+			{
+				"year": 1903,
+				"population": 1901000
+			},
+			{
+				"year": 1904,
+				"population": 1945000
+			},
+			{
+				"year": 1905,
+				"population": 1981000
+			},
+			{
+				"year": 1906,
+				"population": 1987000
+			},
+			{
+				"year": 1907,
+				"population": 1995000
+			},
+			{
+				"year": 1908,
+				"population": 2020000
+			},
+			{
+				"year": 1909,
+				"population": 2051000
+			}
+		]
 	},
 	{
 		"name": "Mississippi",
@@ -237,7 +1121,49 @@
 		"established": "1817-12-10",
 		"totalAreaKM": 125438,
 		"landAreaKM": 121531,
-		"waterAreaKM": 3907
+		"waterAreaKM": 3907,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1553000
+			},
+			{
+				"year": 1901,
+				"population": 1578000
+			},
+			{
+				"year": 1902,
+				"population": 1603000
+			},
+			{
+				"year": 1903,
+				"population": 1628000
+			},
+			{
+				"year": 1904,
+				"population": 1653000
+			},
+			{
+				"year": 1905,
+				"population": 1678000
+			},
+			{
+				"year": 1906,
+				"population": 1703000
+			},
+			{
+				"year": 1907,
+				"population": 1728000
+			},
+			{
+				"year": 1908,
+				"population": 1753000
+			},
+			{
+				"year": 1909,
+				"population": 1777000
+			}
+		]
 	},
 	{
 		"name": "Missouri",
@@ -247,7 +1173,49 @@
 		"established": "1821-08-10",
 		"totalAreaKM": 180540,
 		"landAreaKM": 178040,
-		"waterAreaKM": 2501
+		"waterAreaKM": 2501,
+		"population": [
+			{
+				"year": 1900,
+				"population": 3108000
+			},
+			{
+				"year": 1901,
+				"population": 3128000
+			},
+			{
+				"year": 1902,
+				"population": 3147000
+			},
+			{
+				"year": 1903,
+				"population": 3166000
+			},
+			{
+				"year": 1904,
+				"population": 3185000
+			},
+			{
+				"year": 1905,
+				"population": 3204000
+			},
+			{
+				"year": 1906,
+				"population": 3223000
+			},
+			{
+				"year": 1907,
+				"population": 3242000
+			},
+			{
+				"year": 1908,
+				"population": 3260000
+			},
+			{
+				"year": 1909,
+				"population": 3279000
+			}
+		]
 	},
 	{
 		"name": "Montana",
@@ -257,7 +1225,49 @@
 		"established": "1889-11-08",
 		"totalAreaKM": 380831,
 		"landAreaKM": 376962,
-		"waterAreaKM": 3869
+		"waterAreaKM": 3869,
+		"population": [
+			{
+				"year": 1900,
+				"population": 245000
+			},
+			{
+				"year": 1901,
+				"population": 261000
+			},
+			{
+				"year": 1902,
+				"population": 270000
+			},
+			{
+				"year": 1903,
+				"population": 282000
+			},
+			{
+				"year": 1904,
+				"population": 293000
+			},
+			{
+				"year": 1905,
+				"population": 305000
+			},
+			{
+				"year": 1906,
+				"population": 322000
+			},
+			{
+				"year": 1907,
+				"population": 332000
+			},
+			{
+				"year": 1908,
+				"population": 346000
+			},
+			{
+				"year": 1909,
+				"population": 363000
+			}
+		]
 	},
 	{
 		"name": "Nebraska",
@@ -267,7 +1277,49 @@
 		"established": "1867-03-01",
 		"totalAreaKM": 200330,
 		"landAreaKM": 198974,
-		"waterAreaKM": 1356
+		"waterAreaKM": 1356,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1067000
+			},
+			{
+				"year": 1901,
+				"population": 1078000
+			},
+			{
+				"year": 1902,
+				"population": 1089000
+			},
+			{
+				"year": 1903,
+				"population": 1104000
+			},
+			{
+				"year": 1904,
+				"population": 1119000
+			},
+			{
+				"year": 1905,
+				"population": 1129000
+			},
+			{
+				"year": 1906,
+				"population": 1138000
+			},
+			{
+				"year": 1907,
+				"population": 1149000
+			},
+			{
+				"year": 1908,
+				"population": 1161000
+			},
+			{
+				"year": 1909,
+				"population": 1177000
+			}
+		]
 	},
 	{
 		"name": "Nevada",
@@ -277,7 +1329,49 @@
 		"established": "1864-10-31",
 		"totalAreaKM": 286380,
 		"landAreaKM": 284332,
-		"waterAreaKM": 2048
+		"waterAreaKM": 2048,
+		"population": [
+			{
+				"year": 1900,
+				"population": 43000
+			},
+			{
+				"year": 1901,
+				"population": 45000
+			},
+			{
+				"year": 1902,
+				"population": 49000
+			},
+			{
+				"year": 1903,
+				"population": 52000
+			},
+			{
+				"year": 1904,
+				"population": 56000
+			},
+			{
+				"year": 1905,
+				"population": 59000
+			},
+			{
+				"year": 1906,
+				"population": 64000
+			},
+			{
+				"year": 1907,
+				"population": 68000
+			},
+			{
+				"year": 1908,
+				"population": 73000
+			},
+			{
+				"year": 1909,
+				"population": 78000
+			}
+		]
 	},
 	{
 		"name": "New Hampshire",
@@ -287,7 +1381,49 @@
 		"established": "1788-06-21",
 		"totalAreaKM": 24214,
 		"landAreaKM": 23187,
-		"waterAreaKM": 1027
+		"waterAreaKM": 1027,
+		"population": [
+			{
+				"year": 1900,
+				"population": 412000
+			},
+			{
+				"year": 1901,
+				"population": 412000
+			},
+			{
+				"year": 1902,
+				"population": 409000
+			},
+			{
+				"year": 1903,
+				"population": 394000
+			},
+			{
+				"year": 1904,
+				"population": 407000
+			},
+			{
+				"year": 1905,
+				"population": 423000
+			},
+			{
+				"year": 1906,
+				"population": 415000
+			},
+			{
+				"year": 1907,
+				"population": 423000
+			},
+			{
+				"year": 1908,
+				"population": 428000
+			},
+			{
+				"year": 1909,
+				"population": 431000
+			}
+		]
 	},
 	{
 		"name": "New Jersey",
@@ -297,7 +1433,49 @@
 		"established": "1787-12-18",
 		"totalAreaKM": 22591,
 		"landAreaKM": 19047,
-		"waterAreaKM": 3544
+		"waterAreaKM": 3544,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1884000
+			},
+			{
+				"year": 1901,
+				"population": 1889000
+			},
+			{
+				"year": 1902,
+				"population": 1917000
+			},
+			{
+				"year": 1903,
+				"population": 1969000
+			},
+			{
+				"year": 1904,
+				"population": 2050000
+			},
+			{
+				"year": 1905,
+				"population": 2151000
+			},
+			{
+				"year": 1906,
+				"population": 2239000
+			},
+			{
+				"year": 1907,
+				"population": 2314000
+			},
+			{
+				"year": 1908,
+				"population": 2403000
+			},
+			{
+				"year": 1909,
+				"population": 2487000
+			}
+		]
 	},
 	{
 		"name": "New Mexico",
@@ -307,7 +1485,49 @@
 		"established": "1912-01-06",
 		"totalAreaKM": 314917,
 		"landAreaKM": 314161,
-		"waterAreaKM": 757
+		"waterAreaKM": 757,
+		"population": [
+			{
+				"year": 1900,
+				"population": 196000
+			},
+			{
+				"year": 1901,
+				"population": 206000
+			},
+			{
+				"year": 1902,
+				"population": 218000
+			},
+			{
+				"year": 1903,
+				"population": 229000
+			},
+			{
+				"year": 1904,
+				"population": 242000
+			},
+			{
+				"year": 1905,
+				"population": 255000
+			},
+			{
+				"year": 1906,
+				"population": 269000
+			},
+			{
+				"year": 1907,
+				"population": 283000
+			},
+			{
+				"year": 1908,
+				"population": 298000
+			},
+			{
+				"year": 1909,
+				"population": 314000
+			}
+		]
 	},
 	{
 		"name": "New York",
@@ -317,7 +1537,49 @@
 		"established": "1788-07-26",
 		"totalAreaKM": 141297,
 		"landAreaKM": 122057,
-		"waterAreaKM": 19240
+		"waterAreaKM": 19240,
+		"population": [
+			{
+				"year": 1900,
+				"population": 7283000
+			},
+			{
+				"year": 1901,
+				"population": 7449000
+			},
+			{
+				"year": 1902,
+				"population": 7612000
+			},
+			{
+				"year": 1903,
+				"population": 7771000
+			},
+			{
+				"year": 1904,
+				"population": 7927000
+			},
+			{
+				"year": 1905,
+				"population": 8084000
+			},
+			{
+				"year": 1906,
+				"population": 8289000
+			},
+			{
+				"year": 1907,
+				"population": 8499000
+			},
+			{
+				"year": 1908,
+				"population": 8714000
+			},
+			{
+				"year": 1909,
+				"population": 8935000
+			}
+		]
 	},
 	{
 		"name": "North Carolina",
@@ -327,7 +1589,49 @@
 		"established": "1789-11-21",
 		"totalAreaKM": 139391,
 		"landAreaKM": 125920,
-		"waterAreaKM": 12471
+		"waterAreaKM": 12471,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1897000
+			},
+			{
+				"year": 1901,
+				"population": 1926000
+			},
+			{
+				"year": 1902,
+				"population": 1956000
+			},
+			{
+				"year": 1903,
+				"population": 1986000
+			},
+			{
+				"year": 1904,
+				"population": 2017000
+			},
+			{
+				"year": 1905,
+				"population": 2051000
+			},
+			{
+				"year": 1906,
+				"population": 2077000
+			},
+			{
+				"year": 1907,
+				"population": 2105000
+			},
+			{
+				"year": 1908,
+				"population": 2142000
+			},
+			{
+				"year": 1909,
+				"population": 2174000
+			}
+		]
 	},
 	{
 		"name": "North Dakota",
@@ -337,7 +1641,49 @@
 		"established": "1889-11-02",
 		"totalAreaKM": 183108,
 		"landAreaKM": 178711,
-		"waterAreaKM": 4397
+		"waterAreaKM": 4397,
+		"population": [
+			{
+				"year": 1900,
+				"population": 321000
+			},
+			{
+				"year": 1901,
+				"population": 346000
+			},
+			{
+				"year": 1902,
+				"population": 371000
+			},
+			{
+				"year": 1903,
+				"population": 396000
+			},
+			{
+				"year": 1904,
+				"population": 421000
+			},
+			{
+				"year": 1905,
+				"population": 446000
+			},
+			{
+				"year": 1906,
+				"population": 474000
+			},
+			{
+				"year": 1907,
+				"population": 501000
+			},
+			{
+				"year": 1908,
+				"population": 528000
+			},
+			{
+				"year": 1909,
+				"population": 555000
+			}
+		]
 	},
 	{
 		"name": "Ohio",
@@ -347,7 +1693,49 @@
 		"established": "1803-03-01",
 		"totalAreaKM": 116098,
 		"landAreaKM": 105829,
-		"waterAreaKM": 10269
+		"waterAreaKM": 10269,
+		"population": [
+			{
+				"year": 1900,
+				"population": 4161000
+			},
+			{
+				"year": 1901,
+				"population": 4216000
+			},
+			{
+				"year": 1902,
+				"population": 4322000
+			},
+			{
+				"year": 1903,
+				"population": 4386000
+			},
+			{
+				"year": 1904,
+				"population": 4458000
+			},
+			{
+				"year": 1905,
+				"population": 4530000
+			},
+			{
+				"year": 1906,
+				"population": 4587000
+			},
+			{
+				"year": 1907,
+				"population": 4630000
+			},
+			{
+				"year": 1908,
+				"population": 4677000
+			},
+			{
+				"year": 1909,
+				"population": 4701000
+			}
+		]
 	},
 	{
 		"name": "Oklahoma",
@@ -357,7 +1745,49 @@
 		"established": "1907-11-16",
 		"totalAreaKM": 181037,
 		"landAreaKM": 177660,
-		"waterAreaKM": 3377
+		"waterAreaKM": 3377,
+		"population": [
+			{
+				"year": 1900,
+				"population": 800000
+			},
+			{
+				"year": 1901,
+				"population": 916000
+			},
+			{
+				"year": 1902,
+				"population": 1027000
+			},
+			{
+				"year": 1903,
+				"population": 1118000
+			},
+			{
+				"year": 1904,
+				"population": 1200000
+			},
+			{
+				"year": 1905,
+				"population": 1277000
+			},
+			{
+				"year": 1906,
+				"population": 1349000
+			},
+			{
+				"year": 1907,
+				"population": 1414000
+			},
+			{
+				"year": 1908,
+				"population": 1498000
+			},
+			{
+				"year": 1909,
+				"population": 1585000
+			}
+		]
 	},
 	{
 		"name": "Oregon",
@@ -367,7 +1797,49 @@
 		"established": "1859-02-14",
 		"totalAreaKM": 254799,
 		"landAreaKM": 248608,
-		"waterAreaKM": 6191
+		"waterAreaKM": 6191,
+		"population": [
+			{
+				"year": 1900,
+				"population": 415000
+			},
+			{
+				"year": 1901,
+				"population": 434000
+			},
+			{
+				"year": 1902,
+				"population": 454000
+			},
+			{
+				"year": 1903,
+				"population": 479000
+			},
+			{
+				"year": 1904,
+				"population": 504000
+			},
+			{
+				"year": 1905,
+				"population": 530000
+			},
+			{
+				"year": 1906,
+				"population": 555000
+			},
+			{
+				"year": 1907,
+				"population": 580000
+			},
+			{
+				"year": 1908,
+				"population": 610000
+			},
+			{
+				"year": 1909,
+				"population": 643000
+			}
+		]
 	},
 	{
 		"name": "Pennsylvania",
@@ -377,7 +1849,49 @@
 		"established": "1787-12-12",
 		"totalAreaKM": 119280,
 		"landAreaKM": 115883,
-		"waterAreaKM": 3397
+		"waterAreaKM": 3397,
+		"population": [
+			{
+				"year": 1900,
+				"population": 6313000
+			},
+			{
+				"year": 1901,
+				"population": 6439000
+			},
+			{
+				"year": 1902,
+				"population": 6567000
+			},
+			{
+				"year": 1903,
+				"population": 6699000
+			},
+			{
+				"year": 1904,
+				"population": 6833000
+			},
+			{
+				"year": 1905,
+				"population": 6970000
+			},
+			{
+				"year": 1906,
+				"population": 7110000
+			},
+			{
+				"year": 1907,
+				"population": 7253000
+			},
+			{
+				"year": 1908,
+				"population": 7398000
+			},
+			{
+				"year": 1909,
+				"population": 7546000
+			}
+		]
 	},
 	{
 		"name": "Rhode Island",
@@ -387,7 +1901,49 @@
 		"established": "1790-05-29",
 		"totalAreaKM": 4001,
 		"landAreaKM": 2678,
-		"waterAreaKM": 1324
+		"waterAreaKM": 1324,
+		"population": [
+			{
+				"year": 1900,
+				"population": 430000
+			},
+			{
+				"year": 1901,
+				"population": 441000
+			},
+			{
+				"year": 1902,
+				"population": 450000
+			},
+			{
+				"year": 1903,
+				"population": 460000
+			},
+			{
+				"year": 1904,
+				"population": 471000
+			},
+			{
+				"year": 1905,
+				"population": 481000
+			},
+			{
+				"year": 1906,
+				"population": 492000
+			},
+			{
+				"year": 1907,
+				"population": 505000
+			},
+			{
+				"year": 1908,
+				"population": 519000
+			},
+			{
+				"year": 1909,
+				"population": 532000
+			}
+		]
 	},
 	{
 		"name": "South Carolina",
@@ -397,7 +1953,49 @@
 		"established": "1788-05-13",
 		"totalAreaKM": 82933,
 		"landAreaKM": 77857,
-		"waterAreaKM": 5076
+		"waterAreaKM": 5076,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1342000
+			},
+			{
+				"year": 1901,
+				"population": 1361000
+			},
+			{
+				"year": 1902,
+				"population": 1379000
+			},
+			{
+				"year": 1903,
+				"population": 1397000
+			},
+			{
+				"year": 1904,
+				"population": 1415000
+			},
+			{
+				"year": 1905,
+				"population": 1433000
+			},
+			{
+				"year": 1906,
+				"population": 1451000
+			},
+			{
+				"year": 1907,
+				"population": 1468000
+			},
+			{
+				"year": 1908,
+				"population": 1485000
+			},
+			{
+				"year": 1909,
+				"population": 1502000
+			}
+		]
 	},
 	{
 		"name": "South Dakota",
@@ -407,7 +2005,49 @@
 		"established": "1889-11-02",
 		"totalAreaKM": 199729,
 		"landAreaKM": 196350,
-		"waterAreaKM": 3379
+		"waterAreaKM": 3379,
+		"population": [
+			{
+				"year": 1900,
+				"population": 403000
+			},
+			{
+				"year": 1901,
+				"population": 418000
+			},
+			{
+				"year": 1902,
+				"population": 431000
+			},
+			{
+				"year": 1903,
+				"population": 437000
+			},
+			{
+				"year": 1904,
+				"population": 452000
+			},
+			{
+				"year": 1905,
+				"population": 461000
+			},
+			{
+				"year": 1906,
+				"population": 477000
+			},
+			{
+				"year": 1907,
+				"population": 498000
+			},
+			{
+				"year": 1908,
+				"population": 527000
+			},
+			{
+				"year": 1909,
+				"population": 553000
+			}
+		]
 	},
 	{
 		"name": "Tennessee",
@@ -417,7 +2057,49 @@
 		"established": "1796-06-01",
 		"totalAreaKM": 109153,
 		"landAreaKM": 106798,
-		"waterAreaKM": 2355
+		"waterAreaKM": 2355,
+		"population": [
+			{
+				"year": 1900,
+				"population": 2023000
+			},
+			{
+				"year": 1901,
+				"population": 2041000
+			},
+			{
+				"year": 1902,
+				"population": 2060000
+			},
+			{
+				"year": 1903,
+				"population": 2082000
+			},
+			{
+				"year": 1904,
+				"population": 2086000
+			},
+			{
+				"year": 1905,
+				"population": 2111000
+			},
+			{
+				"year": 1906,
+				"population": 2136000
+			},
+			{
+				"year": 1907,
+				"population": 2136000
+			},
+			{
+				"year": 1908,
+				"population": 2164000
+			},
+			{
+				"year": 1909,
+				"population": 2177000
+			}
+		]
 	},
 	{
 		"name": "Texas",
@@ -427,7 +2109,49 @@
 		"established": "1845-12-29",
 		"totalAreaKM": 695662,
 		"landAreaKM": 676587,
-		"waterAreaKM": 19075
+		"waterAreaKM": 19075,
+		"population": [
+			{
+				"year": 1900,
+				"population": 3055000
+			},
+			{
+				"year": 1901,
+				"population": 3132000
+			},
+			{
+				"year": 1902,
+				"population": 3210000
+			},
+			{
+				"year": 1903,
+				"population": 3291000
+			},
+			{
+				"year": 1904,
+				"population": 3374000
+			},
+			{
+				"year": 1905,
+				"population": 3459000
+			},
+			{
+				"year": 1906,
+				"population": 3546000
+			},
+			{
+				"year": 1907,
+				"population": 3636000
+			},
+			{
+				"year": 1908,
+				"population": 3727000
+			},
+			{
+				"year": 1909,
+				"population": 3821000
+			}
+		]
 	},
 	{
 		"name": "Utah",
@@ -437,7 +2161,49 @@
 		"established": "1896-01-04",
 		"totalAreaKM": 219882,
 		"landAreaKM": 212818,
-		"waterAreaKM": 7064
+		"waterAreaKM": 7064,
+		"population": [
+			{
+				"year": 1900,
+				"population": 277000
+			},
+			{
+				"year": 1901,
+				"population": 284000
+			},
+			{
+				"year": 1902,
+				"population": 292000
+			},
+			{
+				"year": 1903,
+				"population": 299000
+			},
+			{
+				"year": 1904,
+				"population": 308000
+			},
+			{
+				"year": 1905,
+				"population": 316000
+			},
+			{
+				"year": 1906,
+				"population": 327000
+			},
+			{
+				"year": 1907,
+				"population": 339000
+			},
+			{
+				"year": 1908,
+				"population": 351000
+			},
+			{
+				"year": 1909,
+				"population": 363000
+			}
+		]
 	},
 	{
 		"name": "Vermont",
@@ -447,7 +2213,49 @@
 		"established": "1791-03-04",
 		"totalAreaKM": 24906,
 		"landAreaKM": 23871,
-		"waterAreaKM": 1035
+		"waterAreaKM": 1035,
+		"population": [
+			{
+				"year": 1900,
+				"population": 344000
+			},
+			{
+				"year": 1901,
+				"population": 347000
+			},
+			{
+				"year": 1902,
+				"population": 349000
+			},
+			{
+				"year": 1903,
+				"population": 350000
+			},
+			{
+				"year": 1904,
+				"population": 353000
+			},
+			{
+				"year": 1905,
+				"population": 354000
+			},
+			{
+				"year": 1906,
+				"population": 355000
+			},
+			{
+				"year": 1907,
+				"population": 355000
+			},
+			{
+				"year": 1908,
+				"population": 354000
+			},
+			{
+				"year": 1909,
+				"population": 356000
+			}
+		]
 	},
 	{
 		"name": "Virginaia",
@@ -457,7 +2265,49 @@
 		"established": "1788-06-25",
 		"totalAreaKM": 110787,
 		"landAreaKM": 102279,
-		"waterAreaKM": 8508
+		"waterAreaKM": 8508,
+		"population": [
+			{
+				"year": 1900,
+				"population": 1858000
+			},
+			{
+				"year": 1901,
+				"population": 1887000
+			},
+			{
+				"year": 1902,
+				"population": 1894000
+			},
+			{
+				"year": 1903,
+				"population": 1890000
+			},
+			{
+				"year": 1904,
+				"population": 1889000
+			},
+			{
+				"year": 1905,
+				"population": 1917000
+			},
+			{
+				"year": 1906,
+				"population": 1942000
+			},
+			{
+				"year": 1907,
+				"population": 1952000
+			},
+			{
+				"year": 1908,
+				"population": 1994000
+			},
+			{
+				"year": 1909,
+				"population": 2038000
+			}
+		]
 	},
 	{
 		"name": "Washington",
@@ -467,7 +2317,49 @@
 		"established": "1889-11-11",
 		"totalAreaKM": 184661,
 		"landAreaKM": 172119,
-		"waterAreaKM": 12542
+		"waterAreaKM": 12542,
+		"population": [
+			{
+				"year": 1900,
+				"population": 523000
+			},
+			{
+				"year": 1901,
+				"population": 583000
+			},
+			{
+				"year": 1902,
+				"population": 651000
+			},
+			{
+				"year": 1903,
+				"population": 719000
+			},
+			{
+				"year": 1904,
+				"population": 782000
+			},
+			{
+				"year": 1905,
+				"population": 842000
+			},
+			{
+				"year": 1906,
+				"population": 904000
+			},
+			{
+				"year": 1907,
+				"population": 967000
+			},
+			{
+				"year": 1908,
+				"population": 1028000
+			},
+			{
+				"year": 1909,
+				"population": 1091000
+			}
+		]
 	},
 	{
 		"name": "West Virginaia",
@@ -477,7 +2369,49 @@
 		"established": "1863-06-20",
 		"totalAreaKM": 62756,
 		"landAreaKM": 61159,
-		"waterAreaKM": 497
+		"waterAreaKM": 497,
+		"population": [
+			{
+				"year": 1900,
+				"population": 959000
+			},
+			{
+				"year": 1901,
+				"population": 972000
+			},
+			{
+				"year": 1902,
+				"population": 1000000
+			},
+			{
+				"year": 1903,
+				"population": 1037000
+			},
+			{
+				"year": 1904,
+				"population": 1064000
+			},
+			{
+				"year": 1905,
+				"population": 1094000
+			},
+			{
+				"year": 1906,
+				"population": 1122000
+			},
+			{
+				"year": 1907,
+				"population": 1149000
+			},
+			{
+				"year": 1908,
+				"population": 1174000
+			},
+			{
+				"year": 1909,
+				"population": 1203000
+			}
+		]
 	},
 	{
 		"name": "Wisconsin",
@@ -487,7 +2421,49 @@
 		"established": "1848-05-29",
 		"totalAreaKM": 169635,
 		"landAreaKM": 140268,
-		"waterAreaKM": 29367
+		"waterAreaKM": 29367,
+		"population": [
+			{
+				"year": 1900,
+				"population": 2072000
+			},
+			{
+				"year": 1901,
+				"population": 2109000
+			},
+			{
+				"year": 1902,
+				"population": 2141000
+			},
+			{
+				"year": 1903,
+				"population": 2171000
+			},
+			{
+				"year": 1904,
+				"population": 2202000
+			},
+			{
+				"year": 1905,
+				"population": 2231000
+			},
+			{
+				"year": 1906,
+				"population": 2250000
+			},
+			{
+				"year": 1907,
+				"population": 2268000
+			},
+			{
+				"year": 1908,
+				"population": 2292000
+			},
+			{
+				"year": 1909,
+				"population": 2317000
+			}
+		]
 	},
 	{
 		"name": "Wyomin",
@@ -497,7 +2473,49 @@
 		"established": "1890-07-10",
 		"totalAreaKM": 253335,
 		"landAreaKM": 251470,
-		"waterAreaKM": 29367
+		"waterAreaKM": 29367,
+		"population": [
+			{
+				"year": 1900,
+				"population": 93000
+			},
+			{
+				"year": 1901,
+				"population": 100000
+			},
+			{
+				"year": 1902,
+				"population": 105000
+			},
+			{
+				"year": 1903,
+				"population": 108000
+			},
+			{
+				"year": 1904,
+				"population": 111000
+			},
+			{
+				"year": 1905,
+				"population": 114000
+			},
+			{
+				"year": 1906,
+				"population": 118000
+			},
+			{
+				"year": 1907,
+				"population": 125000
+			},
+			{
+				"year": 1908,
+				"population": 133000
+			},
+			{
+				"year": 1909,
+				"population": 141000
+			}
+		]
 	},
 	{
 		"name": "District of Columbia",
@@ -507,7 +2525,49 @@
 		"established": "1790-06-16",
 		"totalAreaKM": 176,
 		"landAreaKM": 158,
-		"waterAreaKM": 18
+		"waterAreaKM": 18,
+		"population": [
+			{
+				"year": 1900,
+				"population": 278000
+			},
+			{
+				"year": 1901,
+				"population": 285000
+			},
+			{
+				"year": 1902,
+				"population": 290000
+			},
+			{
+				"year": 1903,
+				"population": 295000
+			},
+			{
+				"year": 1904,
+				"population": 302000
+			},
+			{
+				"year": 1905,
+				"population": 308000
+			},
+			{
+				"year": 1906,
+				"population": 313000
+			},
+			{
+				"year": 1907,
+				"population": 317000
+			},
+			{
+				"year": 1908,
+				"population": 321000
+			},
+			{
+				"year": 1909,
+				"population": 327000
+			}
+		]
 	},
 	{
 		"name": "American Samoa",
@@ -517,7 +2577,8 @@
 		"established": "1900-04-17",
 		"totalAreaKM": 1505,
 		"landAreaKM": 198,
-		"waterAreaKM": 1307
+		"waterAreaKM": 1307,
+		"population": []
 	},
 	{
 		"name": "Guam",
@@ -527,7 +2588,8 @@
 		"established": "1899-04-11",
 		"totalAreaKM": 1478,
 		"landAreaKM": 542,
-		"waterAreaKM": 935
+		"waterAreaKM": 935,
+		"population": []
 	},
 	{
 		"name": "Northern Mariana Islands",
@@ -537,7 +2599,8 @@
 		"established": "1986-11-03",
 		"totalAreaKM": 5117,
 		"landAreaKM": 472,
-		"waterAreaKM": 4644
+		"waterAreaKM": 4644,
+		"population": []
 	},
 	{
 		"name": "Puerto Rico",
@@ -547,7 +2610,8 @@
 		"established": "1899-04-11",
 		"totalAreaKM": 13791,
 		"landAreaKM": 8868,
-		"waterAreaKM": 4924
+		"waterAreaKM": 4924,
+		"population": []
 	},
 	{
 		"name": "US Virgin Islands",
@@ -557,7 +2621,8 @@
 		"established": "1917-03-31",
 		"totalAreaKM": 1898,
 		"landAreaKM": 348,
-		"waterAreaKM": 1550
+		"waterAreaKM": 1550,
+		"population": []
 	},
 	{
 		"name": "Baker Island",
@@ -567,7 +2632,8 @@
 		"established": "1856-01-01",
 		"totalAreaKM": 0,
 		"landAreaKM": 2.2,
-		"waterAreaKM": 0
+		"waterAreaKM": 0,
+		"population": []
 	},
 	{
 		"name": "Howland Island",
@@ -577,7 +2643,8 @@
 		"established": "1858-01-01",
 		"totalAreaKM": 0,
 		"landAreaKM": 1.6,
-		"waterAreaKM": 0
+		"waterAreaKM": 0,
+		"population": []
 	},
 	{
 		"name": "Jarvis Island",
@@ -587,7 +2654,8 @@
 		"established": "1856-01-01",
 		"totalAreaKM": 0,
 		"landAreaKM": 5.7,
-		"waterAreaKM": 0
+		"waterAreaKM": 0,
+		"population": []
 	},
 	{
 		"name": "Johnston Atoll",
@@ -597,7 +2665,8 @@
 		"established": "1859-01-01",
 		"totalAreaKM": 0,
 		"landAreaKM": 2.6,
-		"waterAreaKM": 0
+		"waterAreaKM": 0,
+		"population": []
 	},
 	{
 		"name": "Kingman Reef",
@@ -607,7 +2676,8 @@
 		"established": "1860-01-01",
 		"totalAreaKM": 0,
 		"landAreaKM": 0.01,
-		"waterAreaKM": 0
+		"waterAreaKM": 0,
+		"population": []
 	},
 	{
 		"name": "Midway Atoll",
@@ -617,7 +2687,8 @@
 		"established": "1867-01-01",
 		"totalAreaKM": 0,
 		"landAreaKM": 7.8,
-		"waterAreaKM": 0
+		"waterAreaKM": 0,
+		"population": []
 	},
 	{
 		"name": "Navassa Island",
@@ -627,7 +2698,8 @@
 		"established": "1858-01-01",
 		"totalAreaKM": 0,
 		"landAreaKM": 7.8,
-		"waterAreaKM": 0
+		"waterAreaKM": 0,
+		"population": []
 	},
 	{
 		"name": "Palmyra Atoll",
@@ -637,7 +2709,8 @@
 		"established": "1898-01-01",
 		"totalAreaKM": 0,
 		"landAreaKM": 3.9,
-		"waterAreaKM": 0
+		"waterAreaKM": 0,
+		"population": []
 	},
 	{
 		"name": "Wake Island",
@@ -647,6 +2720,7 @@
 		"established": "1899-01-01",
 		"totalAreaKM": 0,
 		"landAreaKM": 6.5,
-		"waterAreaKM": 0
+		"waterAreaKM": 0,
+		"population": []
 	}
 ]
