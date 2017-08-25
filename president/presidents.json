@@ -323,7 +323,7 @@
 			{
 				"termStarts": "1850-07-09",
 				"termEnds": "1853-03-04",
-				"term": 17
+				"term": 16
 			}
 		],
 		"wars": []
@@ -343,7 +343,7 @@
 			{
 				"termStarts": "1853-03-04",
 				"termEnds": "1857-03-04",
-				"term": 18
+				"term": 17
 			}
 		],
 		"wars": []
@@ -363,7 +363,7 @@
 			{
 				"termStarts": "1857-03-04",
 				"termEnds": "1861-03-04",
-				"term": 19
+				"term": 18
 			}
 		],
 		"wars": [
@@ -386,6 +386,11 @@
 		"terms": [
 			{
 				"termStarts": "1861-03-04",
+				"termEnds": "1865-03-04",
+				"term": 19
+			},
+			{
+				"termStarts": "1865-03-04",
 				"termEnds": "1865-04-15",
 				"term": 20
 			}
@@ -560,8 +565,13 @@
 		"terms": [
 			{
 				"termStarts": "1897-03-04",
-				"termEnds": "1901-09-14",
+				"termEnds": "1901-03-04",
 				"term": 28
+			},
+			{
+				"termStarts": "1901-03-04",
+				"termEnds": "1901-09-14",
+				"term": 29
 			}
 		],
 		"wars": [
@@ -740,8 +750,13 @@
 			},
 			{
 				"termStarts": "1941-03-04",
-				"termEnds": "1945-04-12",
+				"termEnds": "1945-03-04",
 				"term": 39
+			},
+			{
+				"termStarts": "1945-03-04",
+				"termEnds": "1945-04-12",
+				"term": 40
 			}
 		],
 		"wars": [
@@ -874,7 +889,7 @@
 		"title": "Nixon, Richard",
 		"firstName": "Richard",
 		"lastName": "Nixon",
-		"middleName": "",
+		"middleName": "Milhous",
 		"birthDate": "1913-01-09",
 		"deathDate": "1994-04-22",
 		"party": "Republican",
@@ -991,8 +1006,8 @@
 		]
 	},
 	{
-		"title": "Clinton, Bill",
-		"firstName": "Bill",
+		"title": "Clinton, William",
+		"firstName": "William",
 		"lastName": "Clinton",
 		"middleName": "",
 		"birthDate": "1946-08-19",
