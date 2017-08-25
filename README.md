@@ -11,9 +11,10 @@ People who have held the position of the President of the United States of Ameri
 * Inaugural Addresses:
   * http://avalon.law.yale.edu/subject_menus/inaug.asp
   * http://www.presidency.ucsb.edu/inaugurals.php
-  
+
 ## states
 
 * General information from wikipedia: https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States.
 * Population data from US census:
-  * 1900-1909 https://www2.census.gov/programs-surveys/popest/tables/1980-1990/state/asrh/st0009ts.txt
+  * 1900-1909: https://www2.census.gov/programs-surveys/popest/tables/1980-1990/state/asrh/st0009ts.txt
+  * 1910-1919: https://www2.census.gov/programs-surveys/popest/tables/1980-1990/state/asrh/st1019ts.txt
