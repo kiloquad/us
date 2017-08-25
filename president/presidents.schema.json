@@ -64,27 +64,40 @@
         "enum": [ "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Deleware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "New Hanpshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming" ],
         "description": "State the president is from"
       },
-      "termStarts": {
-        "title": "Start of Term",
-        "type": "string",
-        "propertyOrder": 90,
-        "format": "date",
-        "description": "The date the president entered office"
-      },
-      "termEnds": {
-        "title": "End of Term",
-        "type": "string",
+      "terms": {
+        "title": "Terms",
+        "type": "array",
         "propertyOrder": 100,
-        "format": "date",
-        "description": "The date the president left office"
-      },
-      "term": {
-        "title": "Term",
-        "type": "number",
-        "propertyOrder": 110,
-        "description": "The term of office"
+        "description": "Terms in office",
+        "items": {
+          "type": "object",
+          "id": "year",
+          "headerTemplate": "Term {{ self.term }}",
+          "properties": {
+            "termStarts": {
+              "title": "Start of Term",
+              "type": "string",
+              "propertyOrder": 90,
+              "format": "date",
+              "description": "The date the president entered office"
+            },
+            "termEnds": {
+              "title": "End of Term",
+              "type": "string",
+              "propertyOrder": 100,
+              "format": "date",
+              "description": "The date the president left office"
+            },
+            "term": {
+              "title": "Term",
+              "type": "number",
+              "propertyOrder": 110,
+              "description": "The term of office"
+            }
+          }
+        }
       }
     },
-    "required": [ "title", "firstName", "lastName", "middleName", "birthDate", "deathDate", "state", "termStarts", "termEnds", "term" ]
+    "required": [ "title", "firstName", "lastName", "middleName", "birthDate", "deathDate", "state", "terms" ]
   }
 }

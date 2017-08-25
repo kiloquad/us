@@ -8,22 +8,15 @@
 		"deathDate": "1799-12-14",
 		"party": "Independent",
 		"state": "Virginia",
-		"termStarts": "1789-04-20",
-		"termEnds": "1793-03-04",
-		"term": 1
-	},
-	{
-		"title": "Washington, George",
-		"firstName": "George",
-		"lastName": "Washington",
-		"middleName": "",
-		"birthDate": "1732-02-22",
-		"deathDate": "1799-12-14",
-		"party": "Independent",
-		"state": "Virginia",
-		"termStarts": "1793-03-04",
-		"termEnds": "1797-03-04",
-		"term": 2
+		"terms": [{
+			"termStarts": "1789-04-20",
+			"termEnds": "1793-03-04",
+			"term": 1
+		}, {
+			"termStarts": "1793-03-04",
+			"termEnds": "1797-03-04",
+			"term": 2
+		}]
 	},
 	{
 		"title": "Adams, John",
@@ -34,9 +27,11 @@
 		"deathDate": "1826-07-04",
 		"party": "Federalist",
 		"state": "Massachusetts",
-		"termStarts": "1797-03-04",
-		"termEnds": "1801-03-04",
-		"term": 3
+		"terms": [{
+			"termStarts": "1797-03-04",
+			"termEnds": "1801-03-04",
+			"term": 3
+		}]
 	},
 	{
 		"title": "Jefferson, Thomas",
@@ -47,22 +42,15 @@
 		"deathDate": "1826-07-04",
 		"party": "Democratic-Republican",
 		"state": "Virginia",
-		"termStarts": "1801-03-04",
-		"termEnds": "1805-03-04",
-		"term": 4
-	},
-	{
-		"title": "Jefferson, Thomas",
-		"firstName": "Thomas",
-		"lastName": "Jefferson",
-		"middleName": "",
-		"birthDate": "1743-04-13",
-		"deathDate": "1826-07-04",
-		"party": "Democratic-Republican",
-		"state": "Virginia",
-		"termStarts": "1805-03-04",
-		"termEnds": "1809-03-04",
-		"term": 5
+		"terms": [{
+			"termStarts": "1801-03-04",
+			"termEnds": "1805-03-04",
+			"term": 4
+		}, {
+			"termStarts": "1805-03-04",
+			"termEnds": "1809-03-04",
+			"term": 5
+		}]
 	},
 	{
 		"title": "Madison, James",
@@ -73,22 +61,15 @@
 		"deathDate": "1836-06-28",
 		"party": "Democratic-Republican",
 		"state": "Virginia",
-		"termStarts": "1809-03-04",
-		"termEnds": "1813-03-04",
-		"term": 6
-	},
-	{
-		"title": "Madison, James",
-		"firstName": "James",
-		"lastName": "Madison",
-		"middleName": "",
-		"birthDate": "1751-03-16",
-		"deathDate": "1836-06-28",
-		"party": "Democratic-Republican",
-		"state": "Virginia",
-		"termStarts": "1813-03-04",
-		"termEnds": "1817-03-04",
-		"term": 7
+		"terms": [{
+			"termStarts": "1809-03-04",
+			"termEnds": "1813-03-04",
+			"term": 6
+		}, {
+			"termStarts": "1813-03-04",
+			"termEnds": "1817-03-04",
+			"term": 7
+		}]
 	},
 	{
 		"title": "Monroe, James",
@@ -99,22 +80,15 @@
 		"deathDate": "1831-07-04",
 		"party": "Democratic-Republican",
 		"state": "Virginia",
-		"termStarts": "1817-03-04",
-		"termEnds": "1821-03-04",
-		"term": 8
-	},
-	{
-		"title": "Monroe, James",
-		"firstName": "James",
-		"lastName": "Monroe",
-		"middleName": "",
-		"birthDate": "1758-04-28",
-		"deathDate": "1831-07-04",
-		"party": "Democratic-Republican",
-		"state": "Virginia",
-		"termStarts": "1821-03-04",
-		"termEnds": "1825-03-04",
-		"term": 9
+		"terms": [{
+			"termStarts": "1817-03-04",
+			"termEnds": "1821-03-04",
+			"term": 8
+		}, {
+			"termStarts": "1821-03-04",
+			"termEnds": "1825-03-04",
+			"term": 9
+		}]
 	},
 	{
 		"title": "Adams, John",
@@ -125,9 +99,11 @@
 		"deathDate": "1848-02-23",
 		"party": "Democratic-Republican",
 		"state": "Massachusetts",
-		"termStarts": "1825-03-04",
-		"termEnds": "1829-03-04",
-		"term": 10
+		"terms": [{
+			"termStarts": "1825-03-04",
+			"termEnds": "1829-03-04",
+			"term": 10
+		}]
 	},
 	{
 		"title": "Jackson, Andrew",
@@ -138,22 +114,15 @@
 		"deathDate": "1845-06-08",
 		"party": "Democratic",
 		"state": "Tennessee",
-		"termStarts": "1829-03-04",
-		"termEnds": "1833-03-04",
-		"term": 11
-	},
-	{
-		"title": "Jackson, Andrew",
-		"firstName": "Andrew",
-		"lastName": "Jackson",
-		"middleName": "",
-		"birthDate": "1767-03-15",
-		"deathDate": "1845-06-08",
-		"party": "Democratic",
-		"state": "Tennessee",
-		"termStarts": "1833-03-04",
-		"termEnds": "1837-03-04",
-		"term": 12
+		"terms": [{
+			"termStarts": "1829-03-04",
+			"termEnds": "1833-03-04",
+			"term": 11
+		}, {
+			"termStarts": "1833-03-04",
+			"termEnds": "1837-03-04",
+			"term": 12
+		}]
 	},
 	{
 		"title": "Van Buren, Martin",
@@ -164,9 +133,11 @@
 		"deathDate": "1862-07-24",
 		"party": "Democratic",
 		"state": "New York",
-		"termStarts": "1837-03-04",
-		"termEnds": "1841-03-04",
-		"term": 13
+		"terms": [{
+			"termStarts": "1837-03-04",
+			"termEnds": "1841-03-04",
+			"term": 13
+		}]
 	},
 	{
 		"title": "Harrison, William",
@@ -177,9 +148,11 @@
 		"deathDate": "1841-04-04",
 		"party": "Whig",
 		"state": "Ohio",
-		"termStarts": "1841-03-04",
-		"termEnds": "1841-04-04",
-		"term": 14
+		"terms": [{
+			"termStarts": "1841-03-04",
+			"termEnds": "1841-04-04",
+			"term": 14
+		}]
 	},
 	{
 		"title": "Tyler, John",
@@ -190,22 +163,15 @@
 		"deathDate": "1862-01-18",
 		"party": "Whig",
 		"state": "Virginia",
-		"termStarts": "1841-04-04",
-		"termEnds": "1841-09-13",
-		"term": 14
-	},
-	{
-		"title": "Tyler, John",
-		"firstName": "John",
-		"lastName": "Tyler",
-		"middleName": "",
-		"birthDate": "1790-03-29",
-		"deathDate": "1862-01-18",
-		"party": "Independent",
-		"state": "Virginia",
-		"termStarts": "1841-09-13",
-		"termEnds": "1845-03-04",
-		"term": 15
+		"terms": [{
+			"termStarts": "1841-04-04",
+			"termEnds": "1841-09-13",
+			"term": 14
+		}, {
+			"termStarts": "1841-09-13",
+			"termEnds": "1845-03-04",
+			"term": 15
+		}]
 	},
 	{
 		"title": "Polk, James",
@@ -216,9 +182,11 @@
 		"deathDate": "1849-06-15",
 		"party": "Democratic",
 		"state": "Tennessee",
-		"termStarts": "1845-03-04",
-		"termEnds": "1849-03-04",
-		"term": 16
+		"terms": [{
+			"termStarts": "1845-03-04",
+			"termEnds": "1849-03-04",
+			"term": 16
+		}]
 	},
 	{
 		"title": "Taylor, Zachary",
@@ -229,9 +197,11 @@
 		"deathDate": "1850-07-09",
 		"party": "Whig",
 		"state": "Louisiana",
-		"termStarts": "1849-03-04",
-		"termEnds": "1850-07-09",
-		"term": 16
+		"terms": [{
+			"termStarts": "1849-03-04",
+			"termEnds": "1850-07-09",
+			"term": 16
+		}]
 	},
 	{
 		"title": "Fillmore, Millard",
@@ -242,9 +212,11 @@
 		"deathDate": "1849-02-20",
 		"party": "Whig",
 		"state": "New York",
-		"termStarts": "1850-07-09",
-		"termEnds": "1853-03-04",
-		"term": 17
+		"terms": [{
+			"termStarts": "1850-07-09",
+			"termEnds": "1853-03-04",
+			"term": 17
+		}]
 	},
 	{
 		"title": "Pierce, Fraklin",
@@ -255,9 +227,11 @@
 		"deathDate": "1869-10-08",
 		"party": "Democratic",
 		"state": "New Hanpshire",
-		"termStarts": "1853-03-04",
-		"termEnds": "1857-03-04",
-		"term": 18
+		"terms": [{
+			"termStarts": "1853-03-04",
+			"termEnds": "1857-03-04",
+			"term": 18
+		}]
 	},
 	{
 		"title": "Buchanan, James",
@@ -268,9 +242,11 @@
 		"deathDate": "1868-06-01",
 		"party": "Democratic",
 		"state": "Pennsylvania",
-		"termStarts": "1857-03-04",
-		"termEnds": "1861-03-04",
-		"term": 19
+		"terms": [{
+			"termStarts": "1857-03-04",
+			"termEnds": "1861-03-04",
+			"term": 19
+		}]
 	},
 	{
 		"title": "Lincoln, Abraham",
@@ -281,9 +257,11 @@
 		"deathDate": "1865-04-15",
 		"party": "Republican",
 		"state": "Illinois",
-		"termStarts": "1861-03-04",
-		"termEnds": "1865-04-15",
-		"term": 20
+		"terms": [{
+			"termStarts": "1861-03-04",
+			"termEnds": "1865-04-15",
+			"term": 20
+		}]
 	},
 	{
 		"title": "Johnson, Andrew",
@@ -294,9 +272,11 @@
 		"deathDate": "1875-07-31",
 		"party": "Democratic",
 		"state": "Tennessee",
-		"termStarts": "1865-04-15",
-		"termEnds": "1869-03-04",
-		"term": 20
+		"terms": [{
+			"termStarts": "1865-04-15",
+			"termEnds": "1869-03-04",
+			"term": 20
+		}]
 	},
 	{
 		"title": "Grant, Ulysses",
@@ -307,22 +287,15 @@
 		"deathDate": "1885-07-23",
 		"party": "Republican",
 		"state": "Illinois",
-		"termStarts": "1869-03-04",
-		"termEnds": "1873-03-04",
-		"term": 21
-	},
-	{
-		"title": "Grant, Ulusses",
-		"firstName": "Ulusses",
-		"lastName": "Grant",
-		"middleName": "Simpson",
-		"birthDate": "1822-04-27",
-		"deathDate": "1885-07-23",
-		"party": "Republican",
-		"state": "Illinois",
-		"termStarts": "1873-03-04",
-		"termEnds": "1877-03-04",
-		"term": 22
+		"terms": [{
+			"termStarts": "1869-03-04",
+			"termEnds": "1873-03-04",
+			"term": 21
+		}, {
+			"termStarts": "1873-03-04",
+			"termEnds": "1877-03-04",
+			"term": 22
+		}]
 	},
 	{
 		"title": "Hayes, Rutherford",
@@ -333,9 +306,11 @@
 		"deathDate": "1893-01-17",
 		"party": "Republican",
 		"state": "Ohio",
-		"termStarts": "1877-03-04",
-		"termEnds": "1881-04-04",
-		"term": 23
+		"terms": [{
+			"termStarts": "1877-03-04",
+			"termEnds": "1881-04-04",
+			"term": 23
+		}]
 	},
 	{
 		"title": "Garfield, James",
@@ -346,9 +321,11 @@
 		"deathDate": "1881-09-19",
 		"party": "Republican",
 		"state": "Ohio",
-		"termStarts": "1881-03-04",
-		"termEnds": "1881-09-19",
-		"term": 24
+		"terms": [{
+			"termStarts": "1881-03-04",
+			"termEnds": "1881-09-19",
+			"term": 24
+		}]
 	},
 	{
 		"title": "Arthur, Chester",
@@ -359,9 +336,11 @@
 		"deathDate": "1886-11-18",
 		"party": "Republican",
 		"state": "New York",
-		"termStarts": "1881-09-19",
-		"termEnds": "1885-03-04",
-		"term": 24
+		"terms": [{
+			"termStarts": "1881-09-19",
+			"termEnds": "1885-03-04",
+			"term": 24
+		}]
 	},
 	{
 		"title": "Cleveland, Stephen",
@@ -372,9 +351,15 @@
 		"deathDate": "1908-06-24",
 		"party": "Democratic",
 		"state": "New York",
-		"termStarts": "1885-03-04",
-		"termEnds": "1889-03-04",
-		"term": 25
+		"terms": [{
+			"termStarts": "1885-03-04",
+			"termEnds": "1889-03-04",
+			"term": 25
+		}, {
+			"termStarts": "1893-03-04",
+			"termEnds": "1897-03-04",
+			"term": 27
+		}]
 	},
 	{
 		"title": "Harrison, Benjamin",
@@ -385,22 +370,11 @@
 		"deathDate": "1901-03-13",
 		"party": "Republican",
 		"state": "Indiana",
-		"termStarts": "1889-03-04",
-		"termEnds": "1893-03-04",
-		"term": 26
-	},
-	{
-		"title": "Cleveland, Stephen",
-		"firstName": "Stephen",
-		"lastName": "Cleveland",
-		"middleName": "Grover",
-		"birthDate": "1837-03-18",
-		"deathDate": "1908-06-24",
-		"party": "Democratic",
-		"state": "New York",
-		"termStarts": "1893-03-04",
-		"termEnds": "1897-03-04",
-		"term": 27
+		"terms": [{
+			"termStarts": "1889-03-04",
+			"termEnds": "1893-03-04",
+			"term": 26
+		}]
 	},
 	{
 		"title": "McKinley, William",
@@ -411,9 +385,11 @@
 		"deathDate": "1901-09-14",
 		"party": "Republican",
 		"state": "Ohio",
-		"termStarts": "1897-03-04",
-		"termEnds": "1901-09-14",
-		"term": 28
+		"terms": [{
+			"termStarts": "1897-03-04",
+			"termEnds": "1901-09-14",
+			"term": 28
+		}]
 	},
 	{
 		"title": "Roosevelt, Theodore",
@@ -424,22 +400,15 @@
 		"deathDate": "1919-01-06",
 		"party": "Republican",
 		"state": "New York",
-		"termStarts": "1901-09-14",
-		"termEnds": "1905-03-04",
-		"term": 29
-	},
-	{
-		"title": "Roosevelt, Theodore",
-		"firstName": "Theodore",
-		"lastName": "Roosevelt",
-		"middleName": "",
-		"birthDate": "1858-10-27",
-		"deathDate": "1919-01-06",
-		"party": "Republican",
-		"state": "New York",
-		"termStarts": "1905-03-04",
-		"termEnds": "1909-03-04",
-		"term": 30
+		"terms": [{
+			"termStarts": "1901-09-14",
+			"termEnds": "1905-03-04",
+			"term": 29
+		}, {
+			"termStarts": "1905-03-04",
+			"termEnds": "1909-03-04",
+			"term": 30
+		}]
 	},
 	{
 		"title": "Taft, William",
@@ -450,9 +419,11 @@
 		"deathDate": "1930-03-08",
 		"party": "Republican",
 		"state": "Ohio",
-		"termStarts": "1909-03-04",
-		"termEnds": "1913-03-04",
-		"term": 31
+		"terms": [{
+			"termStarts": "1909-03-04",
+			"termEnds": "1913-03-04",
+			"term": 31
+		}]
 	},
 	{
 		"title": "Wilson, Woodrow",
@@ -463,22 +434,15 @@
 		"deathDate": "1924-02-03",
 		"party": "Democratic",
 		"state": "New Jersey",
-		"termStarts": "1913-03-04",
-		"termEnds": "1917-03-04",
-		"term": 32
-	},
-	{
-		"title": "Wilson, Woodrow",
-		"firstName": "Woodrow",
-		"lastName": "Wilson",
-		"middleName": "",
-		"birthDate": "1856-12-28",
-		"deathDate": "1924-02-03",
-		"party": "Democratic",
-		"state": "New Jersey",
-		"termStarts": "1917-03-04",
-		"termEnds": "1921-03-04",
-		"term": 33
+		"terms": [{
+			"termStarts": "1913-03-04",
+			"termEnds": "1917-03-04",
+			"term": 32
+		}, {
+			"termStarts": "1917-03-04",
+			"termEnds": "1921-03-04",
+			"term": 33
+		}]
 	},
 	{
 		"title": "Harding, Warren",
@@ -489,9 +453,11 @@
 		"deathDate": "1923-08-02",
 		"party": "Republican",
 		"state": "Ohio",
-		"termStarts": "1921-03-04",
-		"termEnds": "1923-08-02",
-		"term": 34
+		"terms": [{
+			"termStarts": "1921-03-04",
+			"termEnds": "1923-08-02",
+			"term": 34
+		}]
 	},
 	{
 		"title": "Coolidge, John",
@@ -502,22 +468,15 @@
 		"deathDate": "1933-01-05",
 		"party": "Republican",
 		"state": "Massachusetts",
-		"termStarts": "1923-08-02",
-		"termEnds": "1925-03-04",
-		"term": 34
-	},
-	{
-		"title": "Cooldge, John",
-		"firstName": "John",
-		"lastName": "Cooldge",
-		"middleName": "Calvin",
-		"birthDate": "1872-07-04",
-		"deathDate": "1933-01-05",
-		"party": "Republican",
-		"state": "Massachusetts",
-		"termStarts": "1925-03-04",
-		"termEnds": "1929-03-04",
-		"term": 35
+		"terms": [{
+			"termStarts": "1923-08-02",
+			"termEnds": "1925-03-04",
+			"term": 34
+		}, {
+			"termStarts": "1925-03-04",
+			"termEnds": "1929-03-04",
+			"term": 35
+		}]
 	},
 	{
 		"title": "Hoover, Herbert",
@@ -528,9 +487,11 @@
 		"deathDate": "1964-10-20",
 		"party": "Republican",
 		"state": "California",
-		"termStarts": "1925-03-04",
-		"termEnds": "1933-03-04",
-		"term": 36
+		"terms": [{
+			"termStarts": "1925-03-04",
+			"termEnds": "1933-03-04",
+			"term": 36
+		}]
 	},
 	{
 		"title": "Roosevelt, Franklin",
@@ -541,35 +502,19 @@
 		"deathDate": "1945-04-12",
 		"party": "Democratic",
 		"state": "New York",
-		"termStarts": "1933-03-04",
-		"termEnds": "1937-03-04",
-		"term": 37
-	},
-	{
-		"title": "Roosevelt, Franklin",
-		"firstName": "Franklin",
-		"lastName": "Roosevelt",
-		"middleName": "Delano",
-		"birthDate": "1882-01-30",
-		"deathDate": "1945-04-12",
-		"party": "Democratic",
-		"state": "New York",
-		"termStarts": "1937-03-04",
-		"termEnds": "1941-03-04",
-		"term": 38
-	},
-	{
-		"title": "Roosevelt, Franklin",
-		"firstName": "Franklin",
-		"lastName": "Roosevelt",
-		"middleName": "Delano",
-		"birthDate": "1882-01-30",
-		"deathDate": "1945-04-12",
-		"party": "Democratic",
-		"state": "New York",
-		"termStarts": "1941-03-04",
-		"termEnds": "1945-04-12",
-		"term": 39
+		"terms": [{
+			"termStarts": "1933-03-04",
+			"termEnds": "1937-03-04",
+			"term": 37
+		}, {
+			"termStarts": "1937-03-04",
+			"termEnds": "1941-03-04",
+			"term": 38
+		}, {
+			"termStarts": "1941-03-04",
+			"termEnds": "1945-04-12",
+			"term": 39
+		}]
 	},
 	{
 		"title": "Truman, Harry",
@@ -580,22 +525,15 @@
 		"deathDate": "1972-12-26",
 		"party": "Democratic",
 		"state": "Missouri",
-		"termStarts": "1945-04-12",
-		"termEnds": "1949-03-04",
-		"term": 40
-	},
-	{
-		"title": "Truman, Harry",
-		"firstName": "Harry",
-		"lastName": "Truman",
-		"middleName": "S",
-		"birthDate": "1884-05-08",
-		"deathDate": "1972-12-26",
-		"party": "Democratic",
-		"state": "Missouri",
-		"termStarts": "1949-03-04",
-		"termEnds": "1953-03-04",
-		"term": 41
+		"terms": [{
+			"termStarts": "1945-04-12",
+			"termEnds": "1949-03-04",
+			"term": 40
+		}, {
+			"termStarts": "1949-03-04",
+			"termEnds": "1953-03-04",
+			"term": 41
+		}]
 	},
 	{
 		"title": "Eisenhower, Dwight",
@@ -606,22 +544,15 @@
 		"deathDate": "1969-03-28",
 		"party": "Republican",
 		"state": "New York",
-		"termStarts": "1953-03-04",
-		"termEnds": "1957-03-04",
-		"term": 42
-	},
-	{
-		"title": "Eisenhower, Dwight",
-		"firstName": "Dwight",
-		"lastName": "Eisenhower",
-		"middleName": "David",
-		"birthDate": "1890-10-14",
-		"deathDate": "1969-03-28",
-		"party": "Republican",
-		"state": "New York",
-		"termStarts": "1957-03-04",
-		"termEnds": "1961-01-20",
-		"term": 43
+		"terms": [{
+			"termStarts": "1953-03-04",
+			"termEnds": "1957-03-04",
+			"term": 42
+		}, {
+			"termStarts": "1957-03-04",
+			"termEnds": "1961-01-20",
+			"term": 43
+		}]
 	},
 	{
 		"title": "Kennedy, John",
@@ -632,9 +563,11 @@
 		"deathDate": "1963-11-22",
 		"party": "Democratic",
 		"state": "Massachusetts",
-		"termStarts": "1961-01-20",
-		"termEnds": "1963-11-22",
-		"term": 44
+		"terms": [{
+			"termStarts": "1961-01-20",
+			"termEnds": "1963-11-22",
+			"term": 44
+		}]
 	},
 	{
 		"title": "Johnson, Lyndon",
@@ -645,22 +578,15 @@
 		"deathDate": "1973-01-22",
 		"party": "Democratic",
 		"state": "Texas",
-		"termStarts": "1963-11-22",
-		"termEnds": "1965-03-04",
-		"term": 44
-	},
-	{
-		"title": "Johnson, Lyndon",
-		"firstName": "Lyndon",
-		"lastName": "Johnson",
-		"middleName": "Baines",
-		"birthDate": "1908-08-27",
-		"deathDate": "1973-01-22",
-		"party": "Democratic",
-		"state": "Texas",
-		"termStarts": "1965-03-04",
-		"termEnds": "1969-01-20",
-		"term": 45
+		"terms": [{
+			"termStarts": "1963-11-22",
+			"termEnds": "1965-03-04",
+			"term": 44
+		}, {
+			"termStarts": "1965-03-04",
+			"termEnds": "1969-01-20",
+			"term": 45
+		}]
 	},
 	{
 		"title": "Nixon, Richard",
@@ -671,9 +597,11 @@
 		"deathDate": "1994-04-22",
 		"party": "Republican",
 		"state": "California",
-		"termStarts": "1969-01-20",
-		"termEnds": "1974-08-09",
-		"term": 46
+		"terms": [{
+			"termStarts": "1969-01-20",
+			"termEnds": "1974-08-09",
+			"term": 46
+		}]
 	},
 	{
 		"title": "Ford, Gerald",
@@ -684,9 +612,11 @@
 		"deathDate": "2006-12-26",
 		"party": "Republican",
 		"state": "Michigan",
-		"termStarts": "1974-08-09",
-		"termEnds": "1977-01-20",
-		"term": 47
+		"terms": [{
+			"termStarts": "1974-08-09",
+			"termEnds": "1977-01-20",
+			"term": 47
+		}]
 	},
 	{
 		"title": "Carter, Jimmy",
@@ -697,9 +627,11 @@
 		"deathDate": "",
 		"party": "Democratic",
 		"state": "Georgia",
-		"termStarts": "1977-01-20",
-		"termEnds": "1981-01-20",
-		"term": 48
+		"terms": [{
+			"termStarts": "1977-01-20",
+			"termEnds": "1981-01-20",
+			"term": 48
+		}]
 	},
 	{
 		"title": "Reagan, Ronald",
@@ -710,22 +642,15 @@
 		"deathDate": "2004-06-05",
 		"party": "Republican",
 		"state": "California",
-		"termStarts": "1981-01-20",
-		"termEnds": "1985-01-20",
-		"term": 49
-	},
-	{
-		"title": "Reagan, Ronald",
-		"firstName": "Ronald",
-		"lastName": "Reagan",
-		"middleName": "",
-		"birthDate": "1911-02-06",
-		"deathDate": "2004-06-05",
-		"party": "Republican",
-		"state": "California",
-		"termStarts": "1985-01-20",
-		"termEnds": "1989-01-20",
-		"term": 50
+		"terms": [{
+			"termStarts": "1981-01-20",
+			"termEnds": "1985-01-20",
+			"term": 49
+		}, {
+			"termStarts": "1985-01-20",
+			"termEnds": "1989-01-20",
+			"term": 50
+		}]
 	},
 	{
 		"title": "Bush, George",
@@ -736,9 +661,11 @@
 		"deathDate": "",
 		"party": "Republican",
 		"state": "Texas",
-		"termStarts": "1989-01-20",
-		"termEnds": "1993-01-20",
-		"term": 51
+		"terms": [{
+			"termStarts": "1989-01-20",
+			"termEnds": "1993-01-20",
+			"term": 51
+		}]
 	},
 	{
 		"title": "Clinton, Bill",
@@ -749,22 +676,15 @@
 		"deathDate": "",
 		"party": "Democratic",
 		"state": "Arkansas",
-		"termStarts": "1993-01-20",
-		"termEnds": "1997-01-20",
-		"term": 52
-	},
-	{
-		"title": "Clinton, Bill",
-		"firstName": "Bill",
-		"lastName": "Clinton",
-		"middleName": "",
-		"birthDate": "1946-08-19",
-		"deathDate": "",
-		"party": "Democratic",
-		"state": "Arkansas",
-		"termStarts": "1997-01-20",
-		"termEnds": "2001-01-20",
-		"term": 53
+		"terms": [{
+			"termStarts": "1993-01-20",
+			"termEnds": "1997-01-20",
+			"term": 52
+		}, {
+			"termStarts": "1997-01-20",
+			"termEnds": "2001-01-20",
+			"term": 53
+		}]
 	},
 	{
 		"title": "Bush, George",
@@ -775,22 +695,15 @@
 		"deathDate": "",
 		"party": "Republican",
 		"state": "Texas",
-		"termStarts": "2001-01-20",
-		"termEnds": "2005-01-20",
-		"term": 54
-	},
-	{
-		"title": "Bush, George",
-		"firstName": "George",
-		"lastName": "Bush",
-		"middleName": "Walker",
-		"birthDate": "1946-07-06",
-		"deathDate": "",
-		"party": "Republican",
-		"state": "Texas",
-		"termStarts": "2005-01-20",
-		"termEnds": "2009-01-20",
-		"term": 55
+		"terms": [{
+			"termStarts": "2001-01-20",
+			"termEnds": "2005-01-20",
+			"term": 54
+		}, {
+			"termStarts": "2005-01-20",
+			"termEnds": "2009-01-20",
+			"term": 55
+		}]
 	},
 	{
 		"title": "Obama, Barack",
@@ -801,22 +714,15 @@
 		"deathDate": "",
 		"party": "Democratic",
 		"state": "Illinois",
-		"termStarts": "2009-01-20",
-		"termEnds": "2013-01-20",
-		"term": 56
-	},
-	{
-		"title": "Barack, Obama",
-		"firstName": "Obama",
-		"lastName": "Barack",
-		"middleName": "",
-		"birthDate": "1961-08-04",
-		"deathDate": "",
-		"party": "Democratic",
-		"state": "Illinois",
-		"termStarts": "2013-01-20",
-		"termEnds": "2017-01-20",
-		"term": 57
+		"terms": [{
+			"termStarts": "2009-01-20",
+			"termEnds": "2013-01-20",
+			"term": 56
+		}, {
+			"termStarts": "2013-01-20",
+			"termEnds": "2017-01-20",
+			"term": 57
+		}]
 	},
 	{
 		"title": "Trump, Donald",
@@ -827,8 +733,10 @@
 		"deathDate": "",
 		"party": "Republican",
 		"state": "New York",
-		"termStarts": "2017-01-20",
-		"termEnds": "",
-		"term": 58
+		"terms": [{
+			"termStarts": "2017-01-20",
+			"termEnds": "",
+			"term": 58
+		}]
 	}
 ]
