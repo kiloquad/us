@@ -106,8 +106,27 @@
             }
           }
         }
+      },
+      "wars": {
+        "title": "Wars",
+        "type": "array",
+        "propertyOrder": 110,
+        "description": "Wars while in office",
+        "items": {
+          "type": "object",
+          "id": "war",
+          "properties": {
+            "name": {
+              "title": "Name",
+              "type": "string",
+              "propertyOrder": 10,
+              "format": "date",
+              "description": "Name of the war"
+            }
+          }
+        }
       }
     },
-    "required": [ "title", "firstName", "lastName", "middleName", "birthDate", "deathDate", "state", "totalExecutiveOrders", "impeached", "terms" ]
+    "required": [ "title", "firstName", "lastName", "middleName", "birthDate", "deathDate", "state", "totalExecutiveOrders", "impeached", "terms", "wars" ]
   }
 }
