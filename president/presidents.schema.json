@@ -120,7 +120,6 @@
               "title": "Name",
               "type": "string",
               "propertyOrder": 10,
-              "format": "date",
               "description": "Name of the war"
             }
           }

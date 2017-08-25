@@ -22,9 +22,11 @@
 				"term": 2
 			}
 		],
-		"wars": [{
-			"name": "War with Native Americans in Ohio"
-		}]
+		"wars": [
+			{
+				"name": "War with Native Americans in Ohio"
+			}
+		]
 	},
 	{
 		"title": "Adams, John",
@@ -69,9 +71,11 @@
 				"term": 5
 			}
 		],
-		"wars": [{
-			"name": "Tripolitan War"
-		}]
+		"wars": [
+			{
+				"name": "Tripolitan War"
+			}
+		]
 	},
 	{
 		"title": "Madison, James",
@@ -96,9 +100,11 @@
 				"term": 7
 			}
 		],
-		"wars": [{
-			"name": "War of 1812"
-		}]
+		"wars": [
+			{
+				"name": "War of 1812"
+			}
+		]
 	},
 	{
 		"title": "Monroe, James",
@@ -123,9 +129,11 @@
 				"term": 9
 			}
 		],
-		"wars": [{
-			"name": "First Seminole War"
-		}]
+		"wars": [
+			{
+				"name": "First Seminole War"
+			}
+		]
 	},
 	{
 		"title": "Adams, John",
@@ -170,9 +178,11 @@
 				"term": 12
 			}
 		],
-		"wars": [{
-			"name": "Black Hawk War"
-		}]
+		"wars": [
+			{
+				"name": "Black Hawk War"
+			}
+		]
 	},
 	{
 		"title": "van Buren, Martin",
@@ -192,11 +202,14 @@
 				"term": 13
 			}
 		],
-		"wars": [{
-			"name": "Aroostook War"
-		}, {
-			"name": "Second Seminole War"
-		}]
+		"wars": [
+			{
+				"name": "Aroostook War"
+			},
+			{
+				"name": "Second Seminole War"
+			}
+		]
 	},
 	{
 		"title": "Harrison, William",
@@ -216,9 +229,11 @@
 				"term": 14
 			}
 		],
-		"wars": [{
-			"name": "Second Seminole War"
-		}]
+		"wars": [
+			{
+				"name": "Second Seminole War"
+			}
+		]
 	},
 	{
 		"title": "Tyler, John",
@@ -243,9 +258,11 @@
 				"term": 15
 			}
 		],
-		"wars": [{
-			"name": "Second Seminole War"
-		}]
+		"wars": [
+			{
+				"name": "Second Seminole War"
+			}
+		]
 	},
 	{
 		"title": "Polk, James",
@@ -265,9 +282,11 @@
 				"term": 16
 			}
 		],
-		"wars": [{
-			"name": "Mexican-American War"
-		}]
+		"wars": [
+			{
+				"name": "Mexican-American War"
+			}
+		]
 	},
 	{
 		"title": "Taylor, Zachary",
@@ -347,9 +366,11 @@
 				"term": 19
 			}
 		],
-		"wars": [{
-			"name": "American Civil War"
-		}]
+		"wars": [
+			{
+				"name": "American Civil War"
+			}
+		]
 	},
 	{
 		"title": "Lincoln, Abraham",
@@ -369,9 +390,11 @@
 				"term": 20
 			}
 		],
-		"wars": [{
-			"name": "American Civil War"
-		}]
+		"wars": [
+			{
+				"name": "American Civil War"
+			}
+		]
 	},
 	{
 		"title": "Johnson, Andrew",
@@ -541,11 +564,14 @@
 				"term": 28
 			}
 		],
-		"wars": [{
-			"name": "Spanish-American War"
-		}, {
-			"name": "Boxer Rebellion"
-		}]
+		"wars": [
+			{
+				"name": "Spanish-American War"
+			},
+			{
+				"name": "Boxer Rebellion"
+			}
+		]
 	},
 	{
 		"title": "Roosevelt, Theodore",
@@ -615,9 +641,11 @@
 				"term": 33
 			}
 		],
-		"wars": [{
-			"name": "World War I"
-		}]
+		"wars": [
+			{
+				"name": "World War I"
+			}
+		]
 	},
 	{
 		"title": "Harding, Warren",
@@ -637,9 +665,11 @@
 				"term": 34
 			}
 		],
-		"wars": [{
-			"name": "World War I"
-		}]
+		"wars": [
+			{
+				"name": "World War I"
+			}
+		]
 	},
 	{
 		"title": "Coolidge, John",
@@ -714,9 +744,11 @@
 				"term": 39
 			}
 		],
-		"wars": [{
-			"name": "World War II"
-		}]
+		"wars": [
+			{
+				"name": "World War II"
+			}
+		]
 	},
 	{
 		"title": "Truman, Harry",
@@ -741,11 +773,14 @@
 				"term": 41
 			}
 		],
-		"wars": [{
-			"name": "World War II"
-		}, {
-			"name": "Korean War"
-		}]
+		"wars": [
+			{
+				"name": "World War II"
+			},
+			{
+				"name": "Korean War"
+			}
+		]
 	},
 	{
 		"title": "Eisenhower, Dwight",
@@ -770,9 +805,11 @@
 				"term": 43
 			}
 		],
-		"wars": [{
-			"name": "Korean War"
-		}]
+		"wars": [
+			{
+				"name": "Korean War"
+			}
+		]
 	},
 	{
 		"title": "Kennedy, John",
@@ -792,11 +829,14 @@
 				"term": 44
 			}
 		],
-		"wars": [{
-			"name": "Bay of Pigs"
-		}, {
-			"name": "Vietnam War"
-		}]
+		"wars": [
+			{
+				"name": "Bay of Pigs"
+			},
+			{
+				"name": "Vietnam War"
+			}
+		]
 	},
 	{
 		"title": "Johnson, Lyndon",
@@ -821,11 +861,14 @@
 				"term": 45
 			}
 		],
-		"wars": [{
-			"name": "Vietnam War"
-		}, {
-			"name": "Dominican Republic"
-		}]
+		"wars": [
+			{
+				"name": "Vietnam War"
+			},
+			{
+				"name": "Dominican Republic"
+			}
+		]
 	},
 	{
 		"title": "Nixon, Richard",
@@ -845,9 +888,11 @@
 				"term": 46
 			}
 		],
-		"wars": [{
-			"name": "Vietnam War"
-		}]
+		"wars": [
+			{
+				"name": "Vietnam War"
+			}
+		]
 	},
 	{
 		"title": "Ford, Gerald",
@@ -912,9 +957,11 @@
 				"term": 50
 			}
 		],
-		"wars": [{
-			"name": "Grenada invasion"
-		}]
+		"wars": [
+			{
+				"name": "Grenada invasion"
+			}
+		]
 	},
 	{
 		"title": "Bush, George",
@@ -934,11 +981,14 @@
 				"term": 51
 			}
 		],
-		"wars": [{
-			"name": "Invasion of Panama"
-		}, {
-			"name": "Persian Gulf War"
-		}]
+		"wars": [
+			{
+				"name": "Invasion of Panama"
+			},
+			{
+				"name": "Persian Gulf War"
+			}
+		]
 	},
 	{
 		"title": "Clinton, Bill",
@@ -988,11 +1038,14 @@
 				"term": 55
 			}
 		],
-		"wars": [{
-			"name": "Taliban war in Afghanistan"
-		}, {
-			"name": "Iraq War"
-		}]
+		"wars": [
+			{
+				"name": "Taliban war in Afghanistan"
+			},
+			{
+				"name": "Iraq War"
+			}
+		]
 	},
 	{
 		"title": "Obama, Barack",
@@ -1017,11 +1070,14 @@
 				"term": 57
 			}
 		],
-		"wars": [{
-			"name": "Taliban war in Afghanistan"
-		}, {
-			"name": "Iraq War"
-		}]
+		"wars": [
+			{
+				"name": "Taliban war in Afghanistan"
+			},
+			{
+				"name": "Iraq War"
+			}
+		]
 	},
 	{
 		"title": "Trump, Donald",
