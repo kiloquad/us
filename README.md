@@ -2,7 +2,7 @@
 
 ## presidents
 
-People who have held the position of the President of the United States of American
+People who have held the position of the President of the United States of America
 
 * General information: https://simple.wikipedia.org/wiki/List_of_Presidents_of_the_United_States
 * Executive Orders: http://www.presidency.ucsb.edu/data/orders.php
@@ -11,6 +11,12 @@ People who have held the position of the President of the United States of Ameri
 * Inaugural Addresses:
   * http://avalon.law.yale.edu/subject_menus/inaug.asp
   * http://www.presidency.ucsb.edu/inaugurals.php
+
+## vice_presidents
+
+People who have held the position of the Vice President of the United States of America
+
+* General information: https://en.wikipedia.org/wiki/List_of_Vice_Presidents_of_the_United_States
 
 ## states
 

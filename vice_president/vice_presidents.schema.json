@@ -1,11 +1,11 @@
 {
-  "title": "Presidents of the United States",
+  "title": "Vice Presidents of the United States",
   "type": "array",
   "uniqueItems": true,
   "items": {
     "type": "object",
-    "id": "president",
-    "title": "President",
+    "id": "vicePresident",
+    "title": "Vice Presidents",
     "headerTemplate": "{{ i1 }} - {{ self.title }}",
     "properties": {
       "title": {
@@ -14,58 +14,54 @@
         "propertyOrder": 10,
         "template": "{{ lastName }}, {{ firstName }}",
         "watch": {
-          "firstName": "president.firstName",
-          "lastName": "president.lastName"
+          "firstName": "vicePresident.firstName",
+          "lastName": "vicePresident.lastName"
         }
       },
       "firstName": {
         "title": "First Name",
         "type": "string",
         "propertyOrder": 20,
-        "description": "The president's first name"
+        "description": "The vice president's first name"
       },
       "lastName": {
         "title": "Last Name",
         "type": "string",
         "propertyOrder": 30,
-        "description": "The president's last name"
+        "description": "The vice president's last name"
       },
       "middleName": {
         "title": "Middle Name",
         "type": "string",
         "propertyOrder": 40,
-        "description": "The president's middle name"
+        "description": "The vice president's middle name"
       },
       "birthDate": {
         "title": "Birth Date",
         "type": "string",
         "propertyOrder": 50,
         "format": "date",
-        "description": "Year the president was born"
+        "description": "Year the vice president was born"
       },
       "deathDate": {
         "title": "Death Date",
         "type": "string",
         "propertyOrder": 60,
         "format": "date",
-        "description": "Year the president was died"
+        "description": "Year the vice president was died"
       },
       "state": {
         "title": "State",
         "type": "string",
         "propertyOrder": 70,
         "enum": [ "", "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Deleware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "New Hanpshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming", "Washington D.C." ],
-        "description": "State the president is from"
+        "description": "State the vice president is from"
       },
-      "totalExecutiveOrders": {
-        "title": "Total Executive Orders",
-        "type": "number",
-        "propertyOrder": 80
-      },
-      "impeached": {
-        "title": "Impeached",
+      "becamePresident": {
+        "title": "Became president",
         "type": "boolean",
-        "default": false
+        "propertyOrder": 80,
+        "description": "Became president at a later date"
       },
       "terms": {
         "title": "Terms",
@@ -89,14 +85,14 @@
               "type": "string",
               "propertyOrder": 20,
               "format": "date",
-              "description": "The date the president entered office"
+              "description": "The date the vice president entered office"
             },
             "termEnds": {
               "title": "End of Term",
               "type": "string",
               "propertyOrder": 30,
               "format": "date",
-              "description": "The date the president left office"
+              "description": "The date the vice president left office"
             },
             "term": {
               "title": "Term",
@@ -126,6 +122,6 @@
         }
       }
     },
-    "required": [ "title", "firstName", "lastName", "middleName", "birthDate", "deathDate", "state", "totalExecutiveOrders", "impeached", "terms", "wars" ]
+    "required": [ "title", "firstName", "lastName", "middleName", "birthDate", "deathDate", "state", "terms", "wars" ]
   }
 }

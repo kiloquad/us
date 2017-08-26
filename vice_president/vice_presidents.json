@@ -1,0 +1,974 @@
+[
+	{
+		"title": "Adams, John",
+		"firstName": "John",
+		"lastName": "Adams",
+		"middleName": "",
+		"birthDate": "1737-10-30",
+		"deathDate": "1826-07-04",
+		"state": "Massachusetts",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Pro-Administration",
+				"termStarts": "1789-04-12",
+				"termEnds": "1793-03-04",
+				"term": 1
+			},
+			{
+				"party": "Federalist",
+				"termStarts": "1793-03-04",
+				"termEnds": "1797-03-04",
+				"term": 2
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Jefferson, Thomas",
+		"firstName": "Thomas",
+		"lastName": "Jefferson",
+		"middleName": "",
+		"birthDate": "1743-04-13",
+		"deathDate": "1826-07-04",
+		"state": "Virginia",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Democratic-Republican",
+				"termStarts": "1797-03-04",
+				"termEnds": "1801-03-04",
+				"term": 3
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Burr, Aaron",
+		"firstName": "Aaron",
+		"lastName": "Burr",
+		"middleName": "",
+		"birthDate": "1756-02-06",
+		"deathDate": "1791-11-08",
+		"state": "New Jersey",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic-Republican",
+				"termStarts": "1801-03-04",
+				"termEnds": "1805-03-04",
+				"term": 4
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Clinton, George",
+		"firstName": "George",
+		"lastName": "Clinton",
+		"middleName": "",
+		"birthDate": "1739-07-26",
+		"deathDate": "1812-04-20",
+		"state": "New York",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic-Republican",
+				"termStarts": "1805-03-04",
+				"termEnds": "1812-04-21",
+				"term": 5
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Gerry, Elbridge",
+		"firstName": "Elbridge",
+		"lastName": "Gerry",
+		"middleName": "Thomas",
+		"birthDate": "1744-07-17",
+		"deathDate": "1814-11-23",
+		"state": "Massachusetts",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic-Republican",
+				"termStarts": "1813-03-04",
+				"termEnds": "1814-11-23",
+				"term": 7
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Tompkins, Daniel",
+		"firstName": "Daniel",
+		"lastName": "Tompkins",
+		"middleName": "D",
+		"birthDate": "1774-06-21",
+		"deathDate": "1825-06-11",
+		"state": "New York",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic-Republican",
+				"termStarts": "1817-03-04",
+				"termEnds": "1821-03-04",
+				"term": 8
+			},
+			{
+				"party": "Democratic-Republican",
+				"termStarts": "1821-03-04",
+				"termEnds": "1825-03-04",
+				"term": 9
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Calhoun, John",
+		"firstName": "John",
+		"lastName": "Calhoun",
+		"middleName": "Caldwell",
+		"birthDate": "1782-03-18",
+		"deathDate": "1850-03-31",
+		"state": "South Carolina",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic-Republican",
+				"termStarts": "1825-03-04",
+				"termEnds": "1829-03-04",
+				"term": 10
+			},
+			{
+				"party": "Democratic",
+				"termStarts": "1829-03-04",
+				"termEnds": "1832-12-08",
+				"term": 11
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "van Buren, Martin",
+		"firstName": "Martin",
+		"lastName": "van Buren",
+		"middleName": "",
+		"birthDate": "1782-12-05",
+		"deathDate": "1862-07-24",
+		"state": "New York",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1833-03-04",
+				"termEnds": "1837-03-04",
+				"term": 12
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Johnson, Richard",
+		"firstName": "Richard",
+		"lastName": "Johnson",
+		"middleName": "Mentor",
+		"birthDate": "1780-10-17",
+		"deathDate": "1850-11-19",
+		"state": "Virginia",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1837-03-04",
+				"termEnds": "1841-03-04",
+				"term": 13
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Tyler, John",
+		"firstName": "John",
+		"lastName": "Tyler",
+		"middleName": "",
+		"birthDate": "1790-03-29",
+		"deathDate": "1862-01-18",
+		"state": "Virginia",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Whig",
+				"termStarts": "1841-03-04",
+				"termEnds": "",
+				"term": 14
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Dallas, George",
+		"firstName": "George",
+		"lastName": "Dallas",
+		"middleName": "Mifflin",
+		"birthDate": "1792-07-10",
+		"deathDate": "1864-12-31",
+		"state": "Pennsylvania",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1845-03-04",
+				"termEnds": "1849-03-04",
+				"term": 15
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Fillmore, Millard",
+		"firstName": "Millard",
+		"lastName": "Fillmore",
+		"middleName": "",
+		"birthDate": "1800-01-07",
+		"deathDate": "1849-02-20",
+		"state": "New York",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Whig",
+				"termStarts": "1849-03-04",
+				"termEnds": "1850-07-09",
+				"term": 16
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "King, William",
+		"firstName": "William",
+		"lastName": "King",
+		"middleName": "Rufus DeVane",
+		"birthDate": "1786-04-07",
+		"deathDate": "1853-04-18",
+		"state": "North Carolina",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1853-03-04",
+				"termEnds": "1853-04-18",
+				"term": 17
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Breckinridge, John",
+		"firstName": "John",
+		"lastName": "Breckinridge",
+		"middleName": "Cabell",
+		"birthDate": "1821-01-16",
+		"deathDate": "1875-05-17",
+		"state": "Kentucky",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1857-03-04",
+				"termEnds": "1861-03-04",
+				"term": 18
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Hamlin, Hannibal",
+		"firstName": "Hannibal",
+		"lastName": "Hamlin",
+		"middleName": "",
+		"birthDate": "1809-08-27",
+		"deathDate": "1891-07-04",
+		"state": "Massachusetts",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1861-03-04",
+				"termEnds": "1865-03-04",
+				"term": 19
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Johnson, Andrew",
+		"firstName": "Andrew",
+		"lastName": "Johnson",
+		"middleName": "",
+		"birthDate": "1808-12-29",
+		"deathDate": "1875-07-31",
+		"state": "Tennessee",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1865-03-04",
+				"termEnds": "1865-04-15",
+				"term": 20
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Colfax, Schuyler",
+		"firstName": "Schuyler",
+		"lastName": "Colfax",
+		"middleName": "",
+		"birthDate": "1823-03-23",
+		"deathDate": "1885-01-13",
+		"state": "New York",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1869-03-04",
+				"termEnds": "1873-03-04",
+				"term": 21
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Wilson, Henry",
+		"firstName": "Henry",
+		"lastName": "Wilson",
+		"middleName": "",
+		"birthDate": "1812-02-16",
+		"deathDate": "1875-11-22",
+		"state": "New Hanpshire",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1873-03-04",
+				"termEnds": "1875-11-22",
+				"term": 22
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Wheeler, William",
+		"firstName": "William",
+		"lastName": "Wheeler",
+		"middleName": "Almon",
+		"birthDate": "1819-06-30",
+		"deathDate": "1887-06-04",
+		"state": "New York",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1877-03-04",
+				"termEnds": "1881-03-04",
+				"term": 23
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Arthur, Chester",
+		"firstName": "Chester",
+		"lastName": "Arthur",
+		"middleName": "Alan",
+		"birthDate": "1829-10-05",
+		"deathDate": "1886-11-18",
+		"state": "New York",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1881-03-04",
+				"termEnds": "1881-09-19",
+				"term": 24
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Hendricks, Thomas",
+		"firstName": "Thomas",
+		"lastName": "Hendricks",
+		"middleName": "Andrews",
+		"birthDate": "1819-09-07",
+		"deathDate": "1885-11-25",
+		"state": "Ohio",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1885-03-04",
+				"termEnds": "1885-11-25",
+				"term": 25
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Morton, Levi",
+		"firstName": "Levi",
+		"lastName": "Morton",
+		"middleName": "Parsons",
+		"birthDate": "1824-05-16",
+		"deathDate": "1920-05-16",
+		"state": "Vermont",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1889-03-04",
+				"termEnds": "1893-03-04",
+				"term": 26
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Stevenson, Adlai",
+		"firstName": "Adlai",
+		"lastName": "Stevenson",
+		"middleName": "Ewing",
+		"birthDate": "1835-10-23",
+		"deathDate": "1914-06-14",
+		"state": "Kentucky",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1893-03-04",
+				"termEnds": "1897-03-04",
+				"term": 27
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Hobart, Garret",
+		"firstName": "Garret",
+		"lastName": "Hobart",
+		"middleName": "Augustus",
+		"birthDate": "1844-06-03",
+		"deathDate": "1899-11-21",
+		"state": "New Jersey",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1897-03-04",
+				"termEnds": "1899-11-21",
+				"term": 28
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Roosevelt, Theodore",
+		"firstName": "Theodore",
+		"lastName": "Roosevelt",
+		"middleName": "",
+		"birthDate": "1858-10-27",
+		"deathDate": "1919-01-06",
+		"state": "New York",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1901-03-04",
+				"termEnds": "1901-09-14",
+				"term": 29
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Fairbanks, Charles",
+		"firstName": "Charles",
+		"lastName": "Fairbanks",
+		"middleName": "Warren",
+		"birthDate": "1852-05-11",
+		"deathDate": "1918-06-04",
+		"state": "Ohio",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1905-03-04",
+				"termEnds": "1909-03-04",
+				"term": 30
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Sherman, James",
+		"firstName": "James",
+		"lastName": "Sherman",
+		"middleName": "Schoolcraft",
+		"birthDate": "1855-10-24",
+		"deathDate": "1912-10-30",
+		"state": "New York",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1909-03-04",
+				"termEnds": "1912-10-30",
+				"term": 31
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Marshall, Thomas",
+		"firstName": "Thomas",
+		"lastName": "Marshall",
+		"middleName": "Riley",
+		"birthDate": "1854-03-14",
+		"deathDate": "1925-06-01",
+		"state": "Indiana",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1913-03-04",
+				"termEnds": "1917-03-04",
+				"term": 32
+			},
+			{
+				"party": "Democratic",
+				"termStarts": "1917-03-04",
+				"termEnds": "1921-03-04",
+				"term": 33
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Coolidge, John",
+		"firstName": "John",
+		"lastName": "Coolidge",
+		"middleName": "Calvin",
+		"birthDate": "1872-07-04",
+		"deathDate": "1933-01-05",
+		"state": "Massachusetts",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1921-03-04",
+				"termEnds": "1923-08-02",
+				"term": 34
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Dawes, Charles",
+		"firstName": "Charles",
+		"lastName": "Dawes",
+		"middleName": "Gates",
+		"birthDate": "1865-08-27",
+		"deathDate": "1951-04-23",
+		"state": "Ohio",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1925-03-04",
+				"termEnds": "1929-03-04",
+				"term": 35
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Curtis, Charles",
+		"firstName": "Charles",
+		"lastName": "Curtis",
+		"middleName": "",
+		"birthDate": "1860-01-25",
+		"deathDate": "1936-02-08",
+		"state": "Kansas",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1929-03-04",
+				"termEnds": "1933-03-04",
+				"term": 36
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Garner, John",
+		"firstName": "John",
+		"lastName": "Garner",
+		"middleName": "Nance",
+		"birthDate": "1868-11-22",
+		"deathDate": "1967-11-07",
+		"state": "Texas",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1933-03-04",
+				"termEnds": "1937-03-04",
+				"term": 37
+			},
+			{
+				"party": "Democratic",
+				"termStarts": "1937-03-04",
+				"termEnds": "1941-01-20",
+				"term": 38
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Wallace, Henry",
+		"firstName": "Henry",
+		"lastName": "Wallace",
+		"middleName": "Agard",
+		"birthDate": "1888-10-07",
+		"deathDate": "1965-11-18",
+		"state": "Iowa",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1941-01-20",
+				"termEnds": "1945-01-20",
+				"term": 39
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Truman, Harry",
+		"firstName": "Harry",
+		"lastName": "Truman",
+		"middleName": "S",
+		"birthDate": "1884-05-08",
+		"deathDate": "1972-12-26",
+		"state": "Missouri",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1945-01-20",
+				"termEnds": "1945-04-12",
+				"term": 40
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Barkley, Alben",
+		"firstName": "Alben",
+		"lastName": "Barkley",
+		"middleName": "William",
+		"birthDate": "1877-11-24",
+		"deathDate": "1956-04-30",
+		"state": "Kentucky",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1949-01-20",
+				"termEnds": "1953-01-20",
+				"term": 41
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Nixon, Richard",
+		"firstName": "Richard",
+		"lastName": "Nixon",
+		"middleName": "Milhous",
+		"birthDate": "1913-01-09",
+		"deathDate": "1994-04-22",
+		"state": "California",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1953-01-20",
+				"termEnds": "1957-01-20",
+				"term": 42
+			},
+			{
+				"party": "Republican",
+				"termStarts": "1957-01-20",
+				"termEnds": "1961-01-20",
+				"term": 43
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Johnson, Lyndon",
+		"firstName": "Lyndon",
+		"lastName": "Johnson",
+		"middleName": "Baines",
+		"birthDate": "1908-08-27",
+		"deathDate": "1973-01-22",
+		"state": "Texas",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1961-01-20",
+				"termEnds": "1963-11-22",
+				"term": 44
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Humphrey, Hubert",
+		"firstName": "Hubert",
+		"lastName": "Humphrey",
+		"middleName": "Horatio",
+		"birthDate": "1911-05-27",
+		"deathDate": "1978-01-13",
+		"state": "South Dakota",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1965-01-20",
+				"termEnds": "1969-01-20",
+				"term": 45
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Agnew, Spiro",
+		"firstName": "Spiro",
+		"lastName": "Agnew",
+		"middleName": "Theodore",
+		"birthDate": "1918-11-09",
+		"deathDate": "1996-09-17",
+		"state": "Maryland",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1969-01-20",
+				"termEnds": "1973-10-10",
+				"term": 46
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Ford, Gerald",
+		"firstName": "Gerald",
+		"lastName": "Ford",
+		"middleName": "Rudolph",
+		"birthDate": "",
+		"deathDate": "2006-12-26",
+		"state": "Michigan",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1973-12-06",
+				"termEnds": "1974-08-09",
+				"term": 47
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Rockefeller, Nelson",
+		"firstName": "Nelson",
+		"lastName": "Rockefeller",
+		"middleName": "Aldrich",
+		"birthDate": "1908-07-08",
+		"deathDate": "1979-01-26",
+		"state": "Maine",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1974-12-08",
+				"termEnds": "1977-01-20",
+				"term": 47
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Mondale, Walter",
+		"firstName": "Walter",
+		"lastName": "Mondale",
+		"middleName": "Frederick",
+		"birthDate": "1928-01-05",
+		"deathDate": "",
+		"state": "Minnesota",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1977-01-20",
+				"termEnds": "1981-01-20",
+				"term": 48
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Bush, George",
+		"firstName": "George",
+		"lastName": "Bush",
+		"middleName": "Herbert Walker",
+		"birthDate": "1924-06-12",
+		"deathDate": "",
+		"state": "Texas",
+		"becamePresident": true,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1981-01-20",
+				"termEnds": "1985-01-20",
+				"term": 49
+			},
+			{
+				"party": "Republican",
+				"termStarts": "1985-01-20",
+				"termEnds": "1989-01-20",
+				"term": 50
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Quayle, Dan",
+		"firstName": "Dan",
+		"lastName": "Quayle",
+		"middleName": "Danforth",
+		"birthDate": "1947-02-04",
+		"deathDate": "",
+		"state": "Indiana",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "1989-01-20",
+				"termEnds": "1993-01-20",
+				"term": 51
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Gore, Al",
+		"firstName": "Al",
+		"lastName": "Gore",
+		"middleName": "Arnold",
+		"birthDate": "1948-03-31",
+		"deathDate": "",
+		"state": "Washington D.C.",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "1993-01-20",
+				"termEnds": "1997-01-20",
+				"term": 52
+			},
+			{
+				"party": "Democratic",
+				"termStarts": "1997-01-20",
+				"termEnds": "2001-01-20",
+				"term": 53
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Cheney, Dick",
+		"firstName": "Dick",
+		"lastName": "Cheney",
+		"middleName": "Bruce",
+		"birthDate": "1941-01-30",
+		"deathDate": "",
+		"state": "Nebraska",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "2001-01-20",
+				"termEnds": "2005-01-20",
+				"term": 54
+			},
+			{
+				"party": "Republican",
+				"termStarts": "2005-01-20",
+				"termEnds": "2009-01-20",
+				"term": 55
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Biden, Joe",
+		"firstName": "Joe",
+		"lastName": "Biden",
+		"middleName": "Robinette",
+		"birthDate": "1942-11-20",
+		"deathDate": "",
+		"state": "Pennsylvania",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Democratic",
+				"termStarts": "2009-01-20",
+				"termEnds": "2013-01-20",
+				"term": 56
+			},
+			{
+				"party": "Democratic",
+				"termStarts": "2013-01-20",
+				"termEnds": "2017-01-20",
+				"term": 57
+			}
+		],
+		"wars": []
+	},
+	{
+		"title": "Pence, Mike",
+		"firstName": "Mike",
+		"lastName": "Pence",
+		"middleName": "Richard",
+		"birthDate": "1959-06-07",
+		"deathDate": "",
+		"state": "Indiana",
+		"becamePresident": false,
+		"terms": [
+			{
+				"party": "Republican",
+				"termStarts": "2017-01-20",
+				"termEnds": "",
+				"term": 58
+			}
+		],
+		"wars": []
+	}
+]
