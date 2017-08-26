@@ -30,7 +30,7 @@ People who have held the position of the Vice President of the United States of 
 
 Resized images with the following:
 
-    magick convert rose.jpg rose.png
+    magick mogrify -format jpg *.png
     rm *.png
     magick mogrify -resize 800x1024^ *.jpg
     magick mogrify -gravity north -crop 800x1024+0+0 *.jpg
