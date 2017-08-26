@@ -50,24 +50,17 @@
         "format": "date",
         "description": "Year the president was died"
       },
-      "party": {
-        "title": "Patry",
-        "type": "string",
-        "propertyOrder": 70,
-        "enum": [ "Democratic", "Republican", "Independent", "Whig", "Federalist", "Democratic-Republican", "Anti-Administration", "Pro-Administration" ],
-        "description": "The party affiliation"
-      },
       "state": {
         "title": "State",
         "type": "string",
-        "propertyOrder": 80,
+        "propertyOrder": 70,
         "enum": [ "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Deleware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "New Hanpshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming" ],
         "description": "State the president is from"
       },
       "totalExecutiveOrders": {
         "title": "Total Executive Orders",
         "type": "number",
-        "propertyOrder": 90
+        "propertyOrder": 80
       },
       "impeached": {
         "title": "Impeached",
@@ -77,31 +70,38 @@
       "terms": {
         "title": "Terms",
         "type": "array",
-        "propertyOrder": 100,
+        "propertyOrder": 90,
         "description": "Terms in office",
         "items": {
           "type": "object",
           "id": "year",
           "headerTemplate": "Term {{ self.term }}",
           "properties": {
+            "party": {
+              "title": "Patry",
+              "type": "string",
+              "propertyOrder": 10,
+              "enum": [ "Democratic", "Republican", "Independent", "Whig", "Federalist", "Democratic-Republican", "Anti-Administration", "Pro-Administration" ],
+              "description": "The party affiliation"
+            },
             "termStarts": {
               "title": "Start of Term",
               "type": "string",
-              "propertyOrder": 10,
+              "propertyOrder": 20,
               "format": "date",
               "description": "The date the president entered office"
             },
             "termEnds": {
               "title": "End of Term",
               "type": "string",
-              "propertyOrder": 20,
+              "propertyOrder": 30,
               "format": "date",
               "description": "The date the president left office"
             },
             "term": {
               "title": "Term",
               "type": "number",
-              "propertyOrder": 30,
+              "propertyOrder": 40,
               "description": "The term of office"
             }
           }
@@ -110,7 +110,7 @@
       "wars": {
         "title": "Wars",
         "type": "array",
-        "propertyOrder": 110,
+        "propertyOrder": 100,
         "description": "Wars while in office",
         "items": {
           "type": "object",

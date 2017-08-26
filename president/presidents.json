@@ -6,17 +6,18 @@
 		"middleName": "",
 		"birthDate": "1732-02-22",
 		"deathDate": "1799-12-14",
-		"party": "Independent",
 		"state": "Virginia",
 		"totalExecutiveOrders": 8,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Independent",
 				"termStarts": "1789-04-20",
 				"termEnds": "1793-03-04",
 				"term": 1
 			},
 			{
+				"party": "Independent",
 				"termStarts": "1793-03-04",
 				"termEnds": "1797-03-04",
 				"term": 2
@@ -35,12 +36,12 @@
 		"middleName": "",
 		"birthDate": "1737-10-30",
 		"deathDate": "1826-07-04",
-		"party": "Federalist",
 		"state": "Massachusetts",
 		"totalExecutiveOrders": 1,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Federalist",
 				"termStarts": "1797-03-04",
 				"termEnds": "1801-03-04",
 				"term": 3
@@ -55,17 +56,18 @@
 		"middleName": "",
 		"birthDate": "1743-04-13",
 		"deathDate": "1826-07-04",
-		"party": "Democratic-Republican",
 		"state": "Virginia",
 		"totalExecutiveOrders": 4,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic-Republican",
 				"termStarts": "1801-03-04",
 				"termEnds": "1805-03-04",
 				"term": 4
 			},
 			{
+				"party": "Democratic-Republican",
 				"termStarts": "1805-03-04",
 				"termEnds": "1809-03-04",
 				"term": 5
@@ -84,17 +86,18 @@
 		"middleName": "",
 		"birthDate": "1751-03-16",
 		"deathDate": "1836-06-28",
-		"party": "Democratic-Republican",
 		"state": "Virginia",
 		"totalExecutiveOrders": 1,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic-Republican",
 				"termStarts": "1809-03-04",
 				"termEnds": "1813-03-04",
 				"term": 6
 			},
 			{
+				"party": "Democratic-Republican",
 				"termStarts": "1813-03-04",
 				"termEnds": "1817-03-04",
 				"term": 7
@@ -113,17 +116,18 @@
 		"middleName": "",
 		"birthDate": "1758-04-28",
 		"deathDate": "1831-07-04",
-		"party": "Democratic-Republican",
 		"state": "Virginia",
 		"totalExecutiveOrders": 1,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic-Republican",
 				"termStarts": "1817-03-04",
 				"termEnds": "1821-03-04",
 				"term": 8
 			},
 			{
+				"party": "Democratic-Republican",
 				"termStarts": "1821-03-04",
 				"termEnds": "1825-03-04",
 				"term": 9
@@ -142,12 +146,12 @@
 		"middleName": "Quincy",
 		"birthDate": "1767-07-11",
 		"deathDate": "1848-02-23",
-		"party": "Democratic-Republican",
 		"state": "Massachusetts",
 		"totalExecutiveOrders": 3,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic-Republican",
 				"termStarts": "1825-03-04",
 				"termEnds": "1829-03-04",
 				"term": 10
@@ -162,17 +166,18 @@
 		"middleName": "",
 		"birthDate": "1767-03-15",
 		"deathDate": "1845-06-08",
-		"party": "Democratic",
 		"state": "Tennessee",
 		"totalExecutiveOrders": 12,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1829-03-04",
 				"termEnds": "1833-03-04",
 				"term": 11
 			},
 			{
+				"party": "Democratic",
 				"termStarts": "1833-03-04",
 				"termEnds": "1837-03-04",
 				"term": 12
@@ -191,12 +196,12 @@
 		"middleName": "",
 		"birthDate": "1782-12-05",
 		"deathDate": "1862-07-24",
-		"party": "Democratic",
 		"state": "New York",
 		"totalExecutiveOrders": 10,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1837-03-04",
 				"termEnds": "1841-03-04",
 				"term": 13
@@ -218,12 +223,12 @@
 		"middleName": "Henry",
 		"birthDate": "1773-02-09",
 		"deathDate": "1841-04-04",
-		"party": "Whig",
 		"state": "Ohio",
 		"totalExecutiveOrders": 0,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Whig",
 				"termStarts": "1841-03-04",
 				"termEnds": "1841-04-04",
 				"term": 14
@@ -242,17 +247,18 @@
 		"middleName": "",
 		"birthDate": "1790-03-29",
 		"deathDate": "1862-01-18",
-		"party": "Whig",
 		"state": "Virginia",
 		"totalExecutiveOrders": 17,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Whig",
 				"termStarts": "1841-04-04",
 				"termEnds": "1841-09-13",
 				"term": 14
 			},
 			{
+				"party": "Independent",
 				"termStarts": "1841-09-13",
 				"termEnds": "1845-03-04",
 				"term": 15
@@ -271,12 +277,12 @@
 		"middleName": "Knox",
 		"birthDate": "1795-11-02",
 		"deathDate": "1849-06-15",
-		"party": "Democratic",
 		"state": "Tennessee",
 		"totalExecutiveOrders": 18,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1845-03-04",
 				"termEnds": "1849-03-04",
 				"term": 16
@@ -295,12 +301,12 @@
 		"middleName": "",
 		"birthDate": "1784-11-24",
 		"deathDate": "1850-07-09",
-		"party": "Whig",
 		"state": "Louisiana",
 		"totalExecutiveOrders": 5,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Whig",
 				"termStarts": "1849-03-04",
 				"termEnds": "1850-07-09",
 				"term": 16
@@ -315,12 +321,12 @@
 		"middleName": "",
 		"birthDate": "1800-01-07",
 		"deathDate": "1849-02-20",
-		"party": "Whig",
 		"state": "New York",
 		"totalExecutiveOrders": 12,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Whig",
 				"termStarts": "1850-07-09",
 				"termEnds": "1853-03-04",
 				"term": 16
@@ -335,12 +341,12 @@
 		"middleName": "",
 		"birthDate": "1804-11-23",
 		"deathDate": "1869-10-08",
-		"party": "Democratic",
 		"state": "New Hanpshire",
 		"totalExecutiveOrders": 35,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1853-03-04",
 				"termEnds": "1857-03-04",
 				"term": 17
@@ -355,12 +361,12 @@
 		"middleName": "",
 		"birthDate": "1791-04-23",
 		"deathDate": "1868-06-01",
-		"party": "Democratic",
 		"state": "Pennsylvania",
 		"totalExecutiveOrders": 16,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1857-03-04",
 				"termEnds": "1861-03-04",
 				"term": 18
@@ -379,17 +385,18 @@
 		"middleName": "",
 		"birthDate": "1809-02-12",
 		"deathDate": "1865-04-15",
-		"party": "Republican",
 		"state": "Illinois",
 		"totalExecutiveOrders": 48,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1861-03-04",
 				"termEnds": "1865-03-04",
 				"term": 19
 			},
 			{
+				"party": "Republican",
 				"termStarts": "1865-03-04",
 				"termEnds": "1865-04-15",
 				"term": 20
@@ -408,12 +415,12 @@
 		"middleName": "",
 		"birthDate": "1808-12-29",
 		"deathDate": "1875-07-31",
-		"party": "Democratic",
 		"state": "Tennessee",
 		"totalExecutiveOrders": 79,
 		"impeached": true,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1865-04-15",
 				"termEnds": "1869-03-04",
 				"term": 20
@@ -428,17 +435,18 @@
 		"middleName": "Simpson",
 		"birthDate": "1822-04-27",
 		"deathDate": "1885-07-23",
-		"party": "Republican",
 		"state": "Illinois",
 		"totalExecutiveOrders": 217,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1869-03-04",
 				"termEnds": "1873-03-04",
 				"term": 21
 			},
 			{
+				"party": "Republican",
 				"termStarts": "1873-03-04",
 				"termEnds": "1877-03-04",
 				"term": 22
@@ -453,12 +461,12 @@
 		"middleName": "Birchard",
 		"birthDate": "1822-10-04",
 		"deathDate": "1893-01-17",
-		"party": "Republican",
 		"state": "Ohio",
 		"totalExecutiveOrders": 92,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1877-03-04",
 				"termEnds": "1881-04-04",
 				"term": 23
@@ -473,12 +481,12 @@
 		"middleName": "Abram",
 		"birthDate": "1831-11-19",
 		"deathDate": "1881-09-19",
-		"party": "Republican",
 		"state": "Ohio",
 		"totalExecutiveOrders": 6,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1881-03-04",
 				"termEnds": "1881-09-19",
 				"term": 24
@@ -493,12 +501,12 @@
 		"middleName": "Alan",
 		"birthDate": "1829-10-05",
 		"deathDate": "1886-11-18",
-		"party": "Republican",
 		"state": "New York",
 		"totalExecutiveOrders": 96,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1881-09-19",
 				"termEnds": "1885-03-04",
 				"term": 24
@@ -513,17 +521,18 @@
 		"middleName": "Grover",
 		"birthDate": "1837-03-18",
 		"deathDate": "1908-06-24",
-		"party": "Democratic",
 		"state": "New York",
 		"totalExecutiveOrders": 253,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1885-03-04",
 				"termEnds": "1889-03-04",
 				"term": 25
 			},
 			{
+				"party": "Democratic",
 				"termStarts": "1893-03-04",
 				"termEnds": "1897-03-04",
 				"term": 27
@@ -538,12 +547,12 @@
 		"middleName": "",
 		"birthDate": "1833-08-20",
 		"deathDate": "1901-03-13",
-		"party": "Republican",
 		"state": "Indiana",
 		"totalExecutiveOrders": 143,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1889-03-04",
 				"termEnds": "1893-03-04",
 				"term": 26
@@ -558,17 +567,18 @@
 		"middleName": "",
 		"birthDate": "1843-01-29",
 		"deathDate": "1901-09-14",
-		"party": "Republican",
 		"state": "Ohio",
 		"totalExecutiveOrders": 185,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1897-03-04",
 				"termEnds": "1901-03-04",
 				"term": 28
 			},
 			{
+				"party": "Republican",
 				"termStarts": "1901-03-04",
 				"termEnds": "1901-09-14",
 				"term": 29
@@ -590,17 +600,18 @@
 		"middleName": "",
 		"birthDate": "1858-10-27",
 		"deathDate": "1919-01-06",
-		"party": "Republican",
 		"state": "New York",
 		"totalExecutiveOrders": 1081,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1901-09-14",
 				"termEnds": "1905-03-04",
 				"term": 29
 			},
 			{
+				"party": "Republican",
 				"termStarts": "1905-03-04",
 				"termEnds": "1909-03-04",
 				"term": 30
@@ -615,12 +626,12 @@
 		"middleName": "Howard",
 		"birthDate": "1857-09-15",
 		"deathDate": "1930-03-08",
-		"party": "Republican",
 		"state": "Ohio",
 		"totalExecutiveOrders": 724,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1909-03-04",
 				"termEnds": "1913-03-04",
 				"term": 31
@@ -635,17 +646,18 @@
 		"middleName": "",
 		"birthDate": "1856-12-28",
 		"deathDate": "1924-02-03",
-		"party": "Democratic",
 		"state": "New Jersey",
 		"totalExecutiveOrders": 1803,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1913-03-04",
 				"termEnds": "1917-03-04",
 				"term": 32
 			},
 			{
+				"party": "Democratic",
 				"termStarts": "1917-03-04",
 				"termEnds": "1921-03-04",
 				"term": 33
@@ -664,12 +676,12 @@
 		"middleName": "Gamaliel",
 		"birthDate": "1865-11-02",
 		"deathDate": "1923-08-02",
-		"party": "Republican",
 		"state": "Ohio",
 		"totalExecutiveOrders": 522,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1921-03-04",
 				"termEnds": "1923-08-02",
 				"term": 34
@@ -688,17 +700,18 @@
 		"middleName": "Calvin",
 		"birthDate": "1872-07-04",
 		"deathDate": "1933-01-05",
-		"party": "Republican",
 		"state": "Massachusetts",
 		"totalExecutiveOrders": 1203,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1923-08-02",
 				"termEnds": "1925-03-04",
 				"term": 34
 			},
 			{
+				"party": "Republican",
 				"termStarts": "1925-03-04",
 				"termEnds": "1929-03-04",
 				"term": 35
@@ -713,12 +726,12 @@
 		"middleName": "Clark",
 		"birthDate": "1874-08-10",
 		"deathDate": "1964-10-20",
-		"party": "Republican",
 		"state": "California",
 		"totalExecutiveOrders": 968,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1925-03-04",
 				"termEnds": "1933-03-04",
 				"term": 36
@@ -733,27 +746,30 @@
 		"middleName": "Delano",
 		"birthDate": "1882-01-30",
 		"deathDate": "1945-04-12",
-		"party": "Democratic",
 		"state": "New York",
 		"totalExecutiveOrders": 3721,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1933-03-04",
 				"termEnds": "1937-03-04",
 				"term": 37
 			},
 			{
+				"party": "Democratic",
 				"termStarts": "1937-03-04",
 				"termEnds": "1941-03-04",
 				"term": 38
 			},
 			{
+				"party": "Democratic",
 				"termStarts": "1941-03-04",
 				"termEnds": "1945-03-04",
 				"term": 39
 			},
 			{
+				"party": "Democratic",
 				"termStarts": "1945-03-04",
 				"termEnds": "1945-04-12",
 				"term": 40
@@ -772,17 +788,18 @@
 		"middleName": "S",
 		"birthDate": "1884-05-08",
 		"deathDate": "1972-12-26",
-		"party": "Democratic",
 		"state": "Missouri",
 		"totalExecutiveOrders": 907,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1945-04-12",
 				"termEnds": "1949-03-04",
 				"term": 40
 			},
 			{
+				"party": "Democratic",
 				"termStarts": "1949-03-04",
 				"termEnds": "1953-03-04",
 				"term": 41
@@ -804,17 +821,18 @@
 		"middleName": "David",
 		"birthDate": "1890-10-14",
 		"deathDate": "1969-03-28",
-		"party": "Republican",
 		"state": "New York",
 		"totalExecutiveOrders": 484,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1953-03-04",
 				"termEnds": "1957-03-04",
 				"term": 42
 			},
 			{
+				"party": "Republican",
 				"termStarts": "1957-03-04",
 				"termEnds": "1961-01-20",
 				"term": 43
@@ -833,12 +851,12 @@
 		"middleName": "Fitzgerald",
 		"birthDate": "1917-05-29",
 		"deathDate": "1963-11-22",
-		"party": "Democratic",
 		"state": "Massachusetts",
 		"totalExecutiveOrders": 214,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1961-01-20",
 				"termEnds": "1963-11-22",
 				"term": 44
@@ -860,17 +878,18 @@
 		"middleName": "Baines",
 		"birthDate": "1908-08-27",
 		"deathDate": "1973-01-22",
-		"party": "Democratic",
 		"state": "Texas",
 		"totalExecutiveOrders": 325,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1963-11-22",
 				"termEnds": "1965-03-04",
 				"term": 44
 			},
 			{
+				"party": "Democratic",
 				"termStarts": "1965-03-04",
 				"termEnds": "1969-01-20",
 				"term": 45
@@ -892,12 +911,12 @@
 		"middleName": "Milhous",
 		"birthDate": "1913-01-09",
 		"deathDate": "1994-04-22",
-		"party": "Republican",
 		"state": "California",
 		"totalExecutiveOrders": 346,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1969-01-20",
 				"termEnds": "1974-08-09",
 				"term": 46
@@ -916,12 +935,12 @@
 		"middleName": "Rudolph",
 		"birthDate": "",
 		"deathDate": "2006-12-26",
-		"party": "Republican",
 		"state": "Michigan",
 		"totalExecutiveOrders": 169,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1974-08-09",
 				"termEnds": "1977-01-20",
 				"term": 47
@@ -936,12 +955,12 @@
 		"middleName": "",
 		"birthDate": "1924-10-01",
 		"deathDate": "",
-		"party": "Democratic",
 		"state": "Georgia",
 		"totalExecutiveOrders": 320,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1977-01-20",
 				"termEnds": "1981-01-20",
 				"term": 48
@@ -956,17 +975,18 @@
 		"middleName": "",
 		"birthDate": "1911-02-06",
 		"deathDate": "2004-06-05",
-		"party": "Republican",
 		"state": "California",
 		"totalExecutiveOrders": 381,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1981-01-20",
 				"termEnds": "1985-01-20",
 				"term": 49
 			},
 			{
+				"party": "Republican",
 				"termStarts": "1985-01-20",
 				"termEnds": "1989-01-20",
 				"term": 50
@@ -985,12 +1005,12 @@
 		"middleName": "Herbert Walker",
 		"birthDate": "1924-06-12",
 		"deathDate": "",
-		"party": "Republican",
 		"state": "Texas",
 		"totalExecutiveOrders": 166,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "1989-01-20",
 				"termEnds": "1993-01-20",
 				"term": 51
@@ -1012,17 +1032,18 @@
 		"middleName": "",
 		"birthDate": "1946-08-19",
 		"deathDate": "",
-		"party": "Democratic",
 		"state": "Arkansas",
 		"totalExecutiveOrders": 364,
 		"impeached": true,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "1993-01-20",
 				"termEnds": "1997-01-20",
 				"term": 52
 			},
 			{
+				"party": "Democratic",
 				"termStarts": "1997-01-20",
 				"termEnds": "2001-01-20",
 				"term": 53
@@ -1037,17 +1058,18 @@
 		"middleName": "Walker",
 		"birthDate": "1946-07-06",
 		"deathDate": "",
-		"party": "Republican",
 		"state": "Texas",
 		"totalExecutiveOrders": 291,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "2001-01-20",
 				"termEnds": "2005-01-20",
 				"term": 54
 			},
 			{
+				"party": "Republican",
 				"termStarts": "2005-01-20",
 				"termEnds": "2009-01-20",
 				"term": 55
@@ -1069,17 +1091,18 @@
 		"middleName": "",
 		"birthDate": "1961-08-04",
 		"deathDate": "",
-		"party": "Democratic",
 		"state": "Illinois",
 		"totalExecutiveOrders": 276,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Democratic",
 				"termStarts": "2009-01-20",
 				"termEnds": "2013-01-20",
 				"term": 56
 			},
 			{
+				"party": "Democratic",
 				"termStarts": "2013-01-20",
 				"termEnds": "2017-01-20",
 				"term": 57
@@ -1101,12 +1124,12 @@
 		"middleName": "John",
 		"birthDate": "1946-06-14",
 		"deathDate": "",
-		"party": "Republican",
 		"state": "New York",
 		"totalExecutiveOrders": 43,
 		"impeached": false,
 		"terms": [
 			{
+				"party": "Republican",
 				"termStarts": "2017-01-20",
 				"termEnds": "",
 				"term": 58
