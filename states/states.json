@@ -8,6 +8,8 @@
 		"totalAreaKM": 135767,
 		"landAreaKM": 131171,
 		"waterAreaKM": 4597,
+		"flower": "Camellia",
+		"bird": "Northern flicker",
 		"population": [
 			{
 				"year": 1900,
@@ -100,6 +102,8 @@
 		"totalAreaKM": 1723337,
 		"landAreaKM": 1477953,
 		"waterAreaKM": 245384,
+		"flower": "Forget-me-not",
+		"bird": "Willow ptarmigan",
 		"population": []
 	},
 	{
@@ -111,6 +115,8 @@
 		"totalAreaKM": 295234,
 		"landAreaKM": 294207,
 		"waterAreaKM": 1026,
+		"flower": "Saguaro cactus blossom",
+		"bird": "Cactus wren",
 		"population": [
 			{
 				"year": 1900,
@@ -203,6 +209,8 @@
 		"totalAreaKM": 137732,
 		"landAreaKM": 134771,
 		"waterAreaKM": 2961,
+		"flower": "Apple blossom",
+		"bird": "Northern mockingbird",
 		"population": [
 			{
 				"year": 1900,
@@ -295,6 +303,8 @@
 		"totalAreaKM": 423967,
 		"landAreaKM": 403466,
 		"waterAreaKM": 20501,
+		"flower": "California poppy",
+		"bird": "California quail",
 		"population": [
 			{
 				"year": 1900,
@@ -387,6 +397,8 @@
 		"totalAreaKM": 269601,
 		"landAreaKM": 268431,
 		"waterAreaKM": 1170,
+		"flower": "Rocky Mountain columbine",
+		"bird": "Lark bunting",
 		"population": [
 			{
 				"year": 1900,
@@ -479,6 +491,8 @@
 		"totalAreaKM": 14357,
 		"landAreaKM": 12542,
 		"waterAreaKM": 1816,
+		"flower": "Mountain laurel",
+		"bird": "American robin",
 		"population": [
 			{
 				"year": 1900,
@@ -571,6 +585,8 @@
 		"totalAreaKM": 6446,
 		"landAreaKM": 5047,
 		"waterAreaKM": 1399,
+		"flower": "Peach blossom",
+		"bird": "Delaware Blue Hen",
 		"population": [
 			{
 				"year": 1900,
@@ -663,6 +679,8 @@
 		"totalAreaKM": 170312,
 		"landAreaKM": 138887,
 		"waterAreaKM": 21424,
+		"flower": "Orange blossom",
+		"bird": "Northern mockingbird",
 		"population": [
 			{
 				"year": 1900,
@@ -755,6 +773,8 @@
 		"totalAreaKM": 153910,
 		"landAreaKM": 148959,
 		"waterAreaKM": 4951,
+		"flower": "Azalea",
+		"bird": "Brown thrasher",
 		"population": [
 			{
 				"year": 1900,
@@ -847,6 +867,8 @@
 		"totalAreaKM": 28313,
 		"landAreaKM": 16635,
 		"waterAreaKM": 11678,
+		"flower": "Hawaiian hibiscus",
+		"bird": "Nēnē",
 		"population": []
 	},
 	{
@@ -858,6 +880,8 @@
 		"totalAreaKM": 216442,
 		"landAreaKM": 214045,
 		"waterAreaKM": 2398,
+		"flower": "Syringa, mock orange",
+		"bird": "Mountain bluebird",
 		"population": [
 			{
 				"year": 1900,
@@ -950,6 +974,8 @@
 		"totalAreaKM": 149995,
 		"landAreaKM": 143793,
 		"waterAreaKM": 6202,
+		"flower": "Violet",
+		"bird": "Northern cardinal",
 		"population": [
 			{
 				"year": 1900,
@@ -1042,6 +1068,8 @@
 		"totalAreaKM": 94326,
 		"landAreaKM": 92789,
 		"waterAreaKM": 1537,
+		"flower": "Peony",
+		"bird": "Northern cardinal",
 		"population": [
 			{
 				"year": 1900,
@@ -1134,6 +1162,8 @@
 		"totalAreaKM": 145746,
 		"landAreaKM": 144669,
 		"waterAreaKM": 1077,
+		"flower": "Wild prairie rose",
+		"bird": "Eastern goldfinch",
 		"population": [
 			{
 				"year": 1900,
@@ -1226,6 +1256,8 @@
 		"totalAreaKM": 213100,
 		"landAreaKM": 211754,
 		"waterAreaKM": 1346,
+		"flower": "Sunflower",
+		"bird": "Western meadowlark",
 		"population": [
 			{
 				"year": 1900,
@@ -1318,6 +1350,8 @@
 		"totalAreaKM": 104656,
 		"landAreaKM": 102269,
 		"waterAreaKM": 2387,
+		"flower": "Goldenrod",
+		"bird": "Northern cardinal",
 		"population": [
 			{
 				"year": 1900,
@@ -1410,6 +1444,8 @@
 		"totalAreaKM": 135659,
 		"landAreaKM": 111898,
 		"waterAreaKM": 23761,
+		"flower": "Magnolia",
+		"bird": "Brown pelican",
 		"population": [
 			{
 				"year": 1900,
@@ -1502,6 +1538,8 @@
 		"totalAreaKM": 91633,
 		"landAreaKM": 79883,
 		"waterAreaKM": 11750,
+		"flower": "White pine cone and tassel",
+		"bird": "Black-capped chickadee",
 		"population": [
 			{
 				"year": 1900,
@@ -1594,6 +1632,8 @@
 		"totalAreaKM": 32131,
 		"landAreaKM": 25142,
 		"waterAreaKM": 6990,
+		"flower": "Black-eyed susan",
+		"bird": "Baltimore oriole",
 		"population": [
 			{
 				"year": 1900,
@@ -1686,6 +1726,8 @@
 		"totalAreaKM": 27336,
 		"landAreaKM": 20202,
 		"waterAreaKM": 7134,
+		"flower": "Mayflower",
+		"bird": "Black-capped chickadee",
 		"population": [
 			{
 				"year": 1900,
@@ -1778,6 +1820,8 @@
 		"totalAreaKM": 250487,
 		"landAreaKM": 146435,
 		"waterAreaKM": 104052,
+		"flower": "Apple blossom",
+		"bird": "American robin",
 		"population": [
 			{
 				"year": 1900,
@@ -1870,6 +1914,8 @@
 		"totalAreaKM": 225163,
 		"landAreaKM": 206232,
 		"waterAreaKM": 18930,
+		"flower": "Pink and white layd's slipper",
+		"bird": "Common loon",
 		"population": [
 			{
 				"year": 1900,
@@ -1962,6 +2008,8 @@
 		"totalAreaKM": 125438,
 		"landAreaKM": 121531,
 		"waterAreaKM": 3907,
+		"flower": "Magnolia",
+		"bird": "Northern mockingbird",
 		"population": [
 			{
 				"year": 1900,
@@ -2054,6 +2102,8 @@
 		"totalAreaKM": 180540,
 		"landAreaKM": 178040,
 		"waterAreaKM": 2501,
+		"flower": "Hawthorn",
+		"bird": "Eastern bluebird",
 		"population": [
 			{
 				"year": 1900,
@@ -2146,6 +2196,8 @@
 		"totalAreaKM": 380831,
 		"landAreaKM": 376962,
 		"waterAreaKM": 3869,
+		"flower": "Bitterroot",
+		"bird": "Western meadowlark",
 		"population": [
 			{
 				"year": 1900,
@@ -2238,6 +2290,8 @@
 		"totalAreaKM": 200330,
 		"landAreaKM": 198974,
 		"waterAreaKM": 1356,
+		"flower": "Goldenrod",
+		"bird": "Western meadowlark",
 		"population": [
 			{
 				"year": 1900,
@@ -2330,6 +2384,8 @@
 		"totalAreaKM": 286380,
 		"landAreaKM": 284332,
 		"waterAreaKM": 2048,
+		"flower": "Sagebrush",
+		"bird": "Mountain bluebird",
 		"population": [
 			{
 				"year": 1900,
@@ -2422,6 +2478,8 @@
 		"totalAreaKM": 24214,
 		"landAreaKM": 23187,
 		"waterAreaKM": 1027,
+		"flower": "Purple lilac",
+		"bird": "Purple finch",
 		"population": [
 			{
 				"year": 1900,
@@ -2514,6 +2572,8 @@
 		"totalAreaKM": 22591,
 		"landAreaKM": 19047,
 		"waterAreaKM": 3544,
+		"flower": "Violet",
+		"bird": "Eastern goldfinch",
 		"population": [
 			{
 				"year": 1900,
@@ -2606,6 +2666,8 @@
 		"totalAreaKM": 314917,
 		"landAreaKM": 314161,
 		"waterAreaKM": 757,
+		"flower": "Yucca flower",
+		"bird": "Roadrunner",
 		"population": [
 			{
 				"year": 1900,
@@ -2698,6 +2760,8 @@
 		"totalAreaKM": 141297,
 		"landAreaKM": 122057,
 		"waterAreaKM": 19240,
+		"flower": "Rose",
+		"bird": "Eastern bluebird",
 		"population": [
 			{
 				"year": 1900,
@@ -2790,6 +2854,8 @@
 		"totalAreaKM": 139391,
 		"landAreaKM": 125920,
 		"waterAreaKM": 12471,
+		"flower": "Flowering dogwood",
+		"bird": "Northern cardinal",
 		"population": [
 			{
 				"year": 1900,
@@ -2882,6 +2948,8 @@
 		"totalAreaKM": 183108,
 		"landAreaKM": 178711,
 		"waterAreaKM": 4397,
+		"flower": "Wild prairie rose",
+		"bird": "Western meadowlark",
 		"population": [
 			{
 				"year": 1900,
@@ -2974,6 +3042,8 @@
 		"totalAreaKM": 116098,
 		"landAreaKM": 105829,
 		"waterAreaKM": 10269,
+		"flower": "Scarlet carnation",
+		"bird": "Northern cardinal",
 		"population": [
 			{
 				"year": 1900,
@@ -3066,6 +3136,8 @@
 		"totalAreaKM": 181037,
 		"landAreaKM": 177660,
 		"waterAreaKM": 3377,
+		"flower": "Oklahoma rose",
+		"bird": "Scissor-tailed flycatcher",
 		"population": [
 			{
 				"year": 1900,
@@ -3158,6 +3230,8 @@
 		"totalAreaKM": 254799,
 		"landAreaKM": 248608,
 		"waterAreaKM": 6191,
+		"flower": "Oregon grape",
+		"bird": "Western meadowlark",
 		"population": [
 			{
 				"year": 1900,
@@ -3250,6 +3324,8 @@
 		"totalAreaKM": 119280,
 		"landAreaKM": 115883,
 		"waterAreaKM": 3397,
+		"flower": "Mountain laurel",
+		"bird": "Ruffed grouse",
 		"population": [
 			{
 				"year": 1900,
@@ -3342,6 +3418,8 @@
 		"totalAreaKM": 4001,
 		"landAreaKM": 2678,
 		"waterAreaKM": 1324,
+		"flower": "Violet",
+		"bird": "Rhode Island Red",
 		"population": [
 			{
 				"year": 1900,
@@ -3434,6 +3512,8 @@
 		"totalAreaKM": 82933,
 		"landAreaKM": 77857,
 		"waterAreaKM": 5076,
+		"flower": "Yellow jessamine",
+		"bird": "Carolina wren",
 		"population": [
 			{
 				"year": 1900,
@@ -3526,6 +3606,8 @@
 		"totalAreaKM": 199729,
 		"landAreaKM": 196350,
 		"waterAreaKM": 3379,
+		"flower": "Pasque flower",
+		"bird": "Ring-necked pheasant",
 		"population": [
 			{
 				"year": 1900,
@@ -3618,6 +3700,8 @@
 		"totalAreaKM": 109153,
 		"landAreaKM": 106798,
 		"waterAreaKM": 2355,
+		"flower": "Purple passionflower",
+		"bird": "Northern mockingbird",
 		"population": [
 			{
 				"year": 1900,
@@ -3710,6 +3794,8 @@
 		"totalAreaKM": 695662,
 		"landAreaKM": 676587,
 		"waterAreaKM": 19075,
+		"flower": "Bluebonnet sp.",
+		"bird": "Norther mockingbird",
 		"population": [
 			{
 				"year": 1900,
@@ -3802,6 +3888,8 @@
 		"totalAreaKM": 219882,
 		"landAreaKM": 212818,
 		"waterAreaKM": 7064,
+		"flower": "Sego lily",
+		"bird": "California gull",
 		"population": [
 			{
 				"year": 1900,
@@ -3894,6 +3982,8 @@
 		"totalAreaKM": 24906,
 		"landAreaKM": 23871,
 		"waterAreaKM": 1035,
+		"flower": "Red clover",
+		"bird": "Hermit thrush",
 		"population": [
 			{
 				"year": 1900,
@@ -3986,6 +4076,8 @@
 		"totalAreaKM": 110787,
 		"landAreaKM": 102279,
 		"waterAreaKM": 8508,
+		"flower": "American dogwood",
+		"bird": "Northern cardinal",
 		"population": [
 			{
 				"year": 1900,
@@ -4078,6 +4170,8 @@
 		"totalAreaKM": 184661,
 		"landAreaKM": 172119,
 		"waterAreaKM": 12542,
+		"flower": "Coast rhododendron",
+		"bird": "Willow goldfinch",
 		"population": [
 			{
 				"year": 1900,
@@ -4170,6 +4264,8 @@
 		"totalAreaKM": 62756,
 		"landAreaKM": 61159,
 		"waterAreaKM": 497,
+		"flower": "Rhododendron",
+		"bird": "Northern cardinal",
 		"population": [
 			{
 				"year": 1900,
@@ -4262,6 +4358,8 @@
 		"totalAreaKM": 169635,
 		"landAreaKM": 140268,
 		"waterAreaKM": 29367,
+		"flower": "Wood violet",
+		"bird": "American robin",
 		"population": [
 			{
 				"year": 1900,
@@ -4346,7 +4444,7 @@
 		]
 	},
 	{
-		"name": "Wyomin",
+		"name": "Wyoming",
 		"abbreviation": "WY",
 		"type": "State",
 		"capital": "Cheyenne",
@@ -4354,6 +4452,8 @@
 		"totalAreaKM": 253335,
 		"landAreaKM": 251470,
 		"waterAreaKM": 29367,
+		"flower": "Indian paintbrush",
+		"bird": "Western meadowlark",
 		"population": [
 			{
 				"year": 1900,
@@ -4446,6 +4546,8 @@
 		"totalAreaKM": 176,
 		"landAreaKM": 158,
 		"waterAreaKM": 18,
+		"flower": "American Beauty Rose",
+		"bird": "Wood thrush",
 		"population": [
 			{
 				"year": 1900,
@@ -4538,6 +4640,8 @@
 		"totalAreaKM": 1505,
 		"landAreaKM": 198,
 		"waterAreaKM": 1307,
+		"flower": "Paogo",
+		"bird": "",
 		"population": []
 	},
 	{
@@ -4549,6 +4653,8 @@
 		"totalAreaKM": 1478,
 		"landAreaKM": 542,
 		"waterAreaKM": 935,
+		"flower": "Bougainvillea spectabilis",
+		"bird": "Guam rail",
 		"population": []
 	},
 	{
@@ -4560,6 +4666,8 @@
 		"totalAreaKM": 5117,
 		"landAreaKM": 472,
 		"waterAreaKM": 4644,
+		"flower": "Flores mayo",
+		"bird": "Mariana fruit-dove",
 		"population": []
 	},
 	{
@@ -4571,6 +4679,8 @@
 		"totalAreaKM": 13791,
 		"landAreaKM": 8868,
 		"waterAreaKM": 4924,
+		"flower": "Mango",
+		"bird": "Puerto Rican spindalis",
 		"population": []
 	},
 	{
@@ -4582,6 +4692,8 @@
 		"totalAreaKM": 1898,
 		"landAreaKM": 348,
 		"waterAreaKM": 1550,
+		"flower": "Yellow Elder",
+		"bird": "Bananaquit",
 		"population": []
 	},
 	{
@@ -4593,6 +4705,8 @@
 		"totalAreaKM": 0,
 		"landAreaKM": 2.2,
 		"waterAreaKM": 0,
+		"flower": "",
+		"bird": "",
 		"population": []
 	},
 	{
@@ -4604,6 +4718,8 @@
 		"totalAreaKM": 0,
 		"landAreaKM": 1.6,
 		"waterAreaKM": 0,
+		"flower": "",
+		"bird": "",
 		"population": []
 	},
 	{
@@ -4615,6 +4731,8 @@
 		"totalAreaKM": 0,
 		"landAreaKM": 5.7,
 		"waterAreaKM": 0,
+		"flower": "",
+		"bird": "",
 		"population": []
 	},
 	{
@@ -4626,6 +4744,8 @@
 		"totalAreaKM": 0,
 		"landAreaKM": 2.6,
 		"waterAreaKM": 0,
+		"flower": "",
+		"bird": "",
 		"population": []
 	},
 	{
@@ -4637,6 +4757,8 @@
 		"totalAreaKM": 0,
 		"landAreaKM": 0.01,
 		"waterAreaKM": 0,
+		"flower": "",
+		"bird": "",
 		"population": []
 	},
 	{
@@ -4648,6 +4770,8 @@
 		"totalAreaKM": 0,
 		"landAreaKM": 7.8,
 		"waterAreaKM": 0,
+		"flower": "",
+		"bird": "",
 		"population": []
 	},
 	{
@@ -4659,6 +4783,8 @@
 		"totalAreaKM": 0,
 		"landAreaKM": 7.8,
 		"waterAreaKM": 0,
+		"flower": "",
+		"bird": "",
 		"population": []
 	},
 	{
@@ -4670,6 +4796,8 @@
 		"totalAreaKM": 0,
 		"landAreaKM": 3.9,
 		"waterAreaKM": 0,
+		"flower": "",
+		"bird": "",
 		"population": []
 	},
 	{
@@ -4681,6 +4809,8 @@
 		"totalAreaKM": 0,
 		"landAreaKM": 6.5,
 		"waterAreaKM": 0,
+		"flower": "",
+		"bird": "",
 		"population": []
 	}
 ]

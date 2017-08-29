@@ -58,10 +58,22 @@
         "propertyOrder": 90,
         "description": "Total area of water in km2"
       },
+      "flower": {
+        "title": "State Flower",
+        "type": "string",
+        "propertyOrder": 100,
+        "description": "The state flower"
+      },
+      "bird": {
+        "title": "State Bird",
+        "type": "string",
+        "propertyOrder": 110,
+        "description": "The state bird"
+      },
       "population": {
         "title": "Population by year",
         "type": "array",
-        "propertyOrder": 100,
+        "propertyOrder": 120,
         "description": "Estimates of the total resident population",
         "items": {
           "type": "object",
@@ -84,6 +96,6 @@
         }
       }
     },
-    "required": [ "name", "abbreviation", "type", "capital", "established", "totalAreaKM", "landAreaKM", "waterAreaKM", "population" ]
+    "required": [ "name", "abbreviation", "type", "capital", "established", "totalAreaKM", "landAreaKM", "waterAreaKM", "flower", "bird", "population" ]
   }
 }

@@ -21,6 +21,9 @@ People who have held the position of the Vice President of the United States of 
 ## states
 
 * General information from wikipedia: https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States.
+* State flowers: https://en.wikipedia.org/wiki/List_of_U.S._state_and_territory_flowers
+  * Order of preference: State Flower, State Wildflower
+* State birds: https://en.wikipedia.org/wiki/List_of_U.S._state_birds
 * Population data from US census:
   * 1900-1909: https://www2.census.gov/programs-surveys/popest/tables/1980-1990/state/asrh/st0009ts.txt
   * 1910-1919: https://www2.census.gov/programs-surveys/popest/tables/1980-1990/state/asrh/st1019ts.txt
