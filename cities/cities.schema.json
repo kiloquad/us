@@ -1,0 +1,27 @@
+{
+  "title": "Cities",
+  "type": "array",
+  "uniqueItems": true,
+  "items": {
+    "type": "object",
+    "id": "member",
+    "title": "City",
+    "headerTemplate": "{{ i1 }} - ({{ self.state }}) - {{ self.name }}",
+    "properties": {
+      "city": {
+        "title": "City",
+        "type": "string",
+        "propertyOrder": 20,
+        "description": "Name of the city"
+      },
+      "state": {
+        "title": "State",
+        "type": "string",
+        "propertyOrder": 30,
+        "enum": [ "", "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Deleware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "New Hanpshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming", "Washington D.C." ],
+        "description": "State the city is in"
+      }
+    },
+    "required": [ "city", "state" ]
+  }
+}
