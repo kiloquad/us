@@ -31,6 +31,7 @@ People who have held the position of the Vice President of the United States of 
 ## cities
 
 * Alabama: https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Alabama
+* Alaska: https://en.wikipedia.org/wiki/List_of_cities_in_Alaska
 
 ## Notes
 

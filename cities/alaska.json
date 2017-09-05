@@ -1,0 +1,578 @@
+[
+  {
+		"city": "Adak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Akhiok",
+		"state": "Alaska"
+	},
+  {
+		"city": "Akiak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Akutan",
+		"state": "Alaska"
+	},
+  {
+		"city": "Alakanuk",
+		"state": "Alaska"
+	},
+  {
+		"city": "Aleknagik",
+		"state": "Alaska"
+	},
+  {
+		"city": "Allakaket",
+		"state": "Alaska"
+	},
+  {
+		"city": "Ambler",
+		"state": "Alaska"
+	},
+  {
+		"city": "Anaktuvuk Pass",
+		"state": "Alaska"
+	},
+  {
+		"city": "Anchorage",
+		"state": "Alaska"
+	},
+  {
+		"city": "Anderson",
+		"state": "Alaska"
+	},
+  {
+		"city": "Angoon",
+		"state": "Alaska"
+	},
+  {
+		"city": "Aniak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Anvik",
+		"state": "Alaska"
+	},
+  {
+		"city": "Atka",
+		"state": "Alaska"
+	},
+  {
+		"city": "Atqasuk",
+		"state": "Alaska"
+	},
+  {
+		"city": "Barrow",
+		"state": "Alaska"
+	},
+  {
+		"city": "Bethel",
+		"state": "Alaska"
+	},
+  {
+		"city": "Bettles",
+		"state": "Alaska"
+	},
+  {
+		"city": "Brevig Mission",
+		"state": "Alaska"
+	},
+  {
+		"city": "Buckland",
+		"state": "Alaska"
+	},
+  {
+		"city": "Chefornak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Chevak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Chignik",
+		"state": "Alaska"
+	},
+  {
+		"city": "Chuathbaluk",
+		"state": "Alaska"
+	},
+  {
+		"city": "Clark's Point",
+		"state": "Alaska"
+	},
+  {
+		"city": "Coffman Cove",
+		"state": "Alaska"
+	},
+  {
+		"city": "Cold Bay",
+		"state": "Alaska"
+	},
+  {
+		"city": "Cordova",
+		"state": "Alaska"
+	},
+  {
+		"city": "Craig",
+		"state": "Alaska"
+	},
+  {
+		"city": "Deering",
+		"state": "Alaska"
+	},
+  {
+		"city": "Delta Junction",
+		"state": "Alaska"
+	},
+  {
+		"city": "Dillingham",
+		"state": "Alaska"
+	},
+  {
+		"city": "Eagle",
+		"state": "Alaska"
+	},
+  {
+		"city": "Edna Bay",
+		"state": "Alaska"
+	},
+  {
+		"city": "Eek",
+		"state": "Alaska"
+	},
+  {
+		"city": "Egegik",
+		"state": "Alaska"
+	},
+  {
+		"city": "Ekwok",
+		"state": "Alaska"
+	},
+  {
+		"city": "Elim",
+		"state": "Alaska"
+	},
+  {
+		"city": "Emmonak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Fairbanks",
+		"state": "Alaska"
+	},
+  {
+		"city": "False Pass",
+		"state": "Alaska"
+	},
+  {
+		"city": "Fort Yukon",
+		"state": "Alaska"
+	},
+  {
+		"city": "Galena",
+		"state": "Alaska"
+	},
+  {
+		"city": "Goodnews Bay",
+		"state": "Alaska"
+	},
+  {
+		"city": "Grayling",
+		"state": "Alaska"
+	},
+  {
+		"city": "Gustavus",
+		"state": "Alaska"
+	},
+  {
+		"city": "Holy Cross",
+		"state": "Alaska"
+	},
+  {
+		"city": "Homer",
+		"state": "Alaska"
+	},
+  {
+		"city": "Hoonah",
+		"state": "Alaska"
+	},
+  {
+		"city": "Hooper Bay",
+		"state": "Alaska"
+	},
+  {
+		"city": "Houston",
+		"state": "Alaska"
+	},
+  {
+		"city": "Hughes",
+		"state": "Alaska"
+	},
+  {
+		"city": "Huslia",
+		"state": "Alaska"
+	},
+  {
+		"city": "Hydaburg",
+		"state": "Alaska"
+	},
+  {
+		"city": "Juneau",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kachemak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kake",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kaktovik",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kaltag",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kasaan",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kenai",
+		"state": "Alaska"
+	},
+  {
+		"city": "Ketchikan",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kiana",
+		"state": "Alaska"
+	},
+  {
+		"city": "King Cove",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kivalina",
+		"state": "Alaska"
+	},
+  {
+		"city": "Klawock",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kobuk",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kodiak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kotzebue",
+		"state": "Alaska"
+	},
+  {
+		"city": "Koyuk",
+		"state": "Alaska"
+	},
+  {
+		"city": "Koyukuk",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kupreanof",
+		"state": "Alaska"
+	},
+  {
+		"city": "Kwethluk",
+		"state": "Alaska"
+	},
+  {
+		"city": "Larsen Bay",
+		"state": "Alaska"
+	},
+  {
+		"city": "Lower Kalskag",
+		"state": "Alaska"
+	},
+  {
+		"city": "Manokotak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Marshall",
+		"state": "Alaska"
+	},
+  {
+		"city": "McGrath",
+		"state": "Alaska"
+	},
+  {
+		"city": "Mekoryuk",
+		"state": "Alaska"
+	},
+  {
+		"city": "Mountain Village",
+		"state": "Alaska"
+	},
+  {
+		"city": "Napakiak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Napaskiak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Nenana",
+		"state": "Alaska"
+	},
+  {
+		"city": "New Stuyahok",
+		"state": "Alaska"
+	},
+  {
+		"city": "Newhalen",
+		"state": "Alaska"
+	},
+  {
+		"city": "Nightmute",
+		"state": "Alaska"
+	},
+  {
+		"city": "Nikolai",
+		"state": "Alaska"
+	},
+  {
+		"city": "Nome",
+		"state": "Alaska"
+	},
+  {
+		"city": "Nondalton",
+		"state": "Alaska"
+	},
+  {
+		"city": "Noorvik",
+		"state": "Alaska"
+	},
+  {
+		"city": "North Pole",
+		"state": "Alaska"
+	},
+  {
+		"city": "Nuiqsut",
+		"state": "Alaska"
+	},
+  {
+		"city": "Nulato",
+		"state": "Alaska"
+	},
+  {
+		"city": "Nunam Iqua",
+		"state": "Alaska"
+	},
+  {
+		"city": "Nunapitchuk",
+		"state": "Alaska"
+	},
+  {
+		"city": "Old Harbor",
+		"state": "Alaska"
+	},
+  {
+		"city": "Ouzinkie",
+		"state": "Alaska"
+	},
+  {
+		"city": "Plamer",
+		"state": "Alaska"
+	},
+  {
+		"city": "Pelican",
+		"state": "Alaska"
+	},
+  {
+		"city": "Pilot Point",
+		"state": "Alaska"
+	},
+  {
+		"city": "Pilot Station",
+		"state": "Alaska"
+	},
+  {
+		"city": "Platinum",
+		"state": "Alaska"
+	},
+  {
+		"city": "Point Hope",
+		"state": "Alaska"
+	},
+  {
+		"city": "Port Alexander",
+		"state": "Alaska"
+	},
+  {
+		"city": "Port Heiden",
+		"state": "Alaska"
+	},
+  {
+		"city": "Port Lions",
+		"state": "Alaska"
+	},
+  {
+		"city": "Quinhagak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Ruby",
+		"state": "Alaska"
+	},
+  {
+		"city": "Russion Mission",
+		"state": "Alaska"
+	},
+  {
+		"city": "Saint Paul",
+		"state": "Alaska"
+	},
+  {
+		"city": "Sand Point",
+		"state": "Alaska"
+	},
+  {
+		"city": "Savoonga",
+		"state": "Alaska"
+	},
+  {
+		"city": "Saxman",
+		"state": "Alaska"
+	},
+  {
+		"city": "Scammon Bay",
+		"state": "Alaska"
+	},
+  {
+		"city": "Selawik",
+		"state": "Alaska"
+	},
+  {
+		"city": "Seldovia",
+		"state": "Alaska"
+	},
+  {
+		"city": "Seward",
+		"state": "Alaska"
+	},
+  {
+		"city": "Shageluk",
+		"state": "Alaska"
+	},
+  {
+		"city": "Shaktoolik",
+		"state": "Alaska"
+	},
+  {
+		"city": "Shishmaref",
+		"state": "Alaska"
+	},
+  {
+		"city": "Shungnak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Sitka",
+		"state": "Alaska"
+	},
+  {
+		"city": "Soldotna",
+		"state": "Alaska"
+	},
+  {
+		"city": "St. George",
+		"state": "Alaska"
+	},
+  {
+		"city": "St. Mary's",
+		"state": "Alaska"
+	},
+  {
+		"city": "St. Michael",
+		"state": "Alaska"
+	},
+  {
+		"city": "Stebbins",
+		"state": "Alaska"
+	},
+  {
+		"city": "Tanana",
+		"state": "Alaska"
+	},
+  {
+		"city": "Teller",
+		"state": "Alaska"
+	},
+  {
+		"city": "Tenakee Springs",
+		"state": "Alaska"
+	},
+  {
+		"city": "Thorne Bay",
+		"state": "Alaska"
+	},
+  {
+		"city": "Togiak",
+		"state": "Alaska"
+	},
+  {
+		"city": "Toksook Bay",
+		"state": "Alaska"
+	},
+  {
+		"city": "Unalakleet",
+		"state": "Alaska"
+	},
+  {
+		"city": "Unalaska",
+		"state": "Alaska"
+	},
+  {
+		"city": "Upper Kalskag",
+		"state": "Alaska"
+	},
+  {
+		"city": "Valdez",
+		"state": "Alaska"
+	},
+  {
+		"city": "Wainwright",
+		"state": "Alaska"
+	},
+  {
+		"city": "Wales",
+		"state": "Alaska"
+	},
+  {
+		"city": "Wasilla",
+		"state": "Alaska"
+	},
+  {
+		"city": "White Mountain",
+		"state": "Alaska"
+	},
+  {
+		"city": "Whittier",
+		"state": "Alaska"
+	},
+  {
+		"city": "Wrangell",
+		"state": "Alaska"
+	}
+]
