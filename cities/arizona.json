@@ -1,0 +1,366 @@
+[
+  {
+		"city": "Apache Junction",
+		"state": "Arizona"
+	},
+  {
+		"city": "Avondale",
+		"state": "Arizona"
+	},
+  {
+		"city": "Benson",
+		"state": "Arizona"
+	},
+  {
+		"city": "Bisbee",
+		"state": "Arizona"
+	},
+  {
+		"city": "Buckeye",
+		"state": "Arizona"
+	},
+  {
+		"city": "Bullhead City",
+		"state": "Arizona"
+	},
+  {
+		"city": "Camp Verde",
+		"state": "Arizona"
+	},
+  {
+		"city": "Carefree",
+		"state": "Arizona"
+	},
+  {
+		"city": "Casa Grande",
+		"state": "Arizona"
+	},
+  {
+		"city": "Cave Creek",
+		"state": "Arizona"
+	},
+  {
+		"city": "Chandler",
+		"state": "Arizona"
+	},
+  {
+		"city": "Chino Valley",
+		"state": "Arizona"
+	},
+  {
+		"city": "Clarkdale",
+		"state": "Arizona"
+	},
+  {
+		"city": "Clifton",
+		"state": "Arizona"
+	},
+  {
+		"city": "Colorado City",
+		"state": "Arizona"
+	},
+  {
+		"city": "Coolidge",
+		"state": "Arizona"
+	},
+  {
+		"city": "Cottonwood",
+		"state": "Arizona"
+	},
+  {
+		"city": "Dewey-Humboldt",
+		"state": "Arizona"
+	},
+  {
+		"city": "Douglas",
+		"state": "Arizona"
+	},
+  {
+		"city": "Duncan",
+		"state": "Arizona"
+	},
+  {
+		"city": "Eagar",
+		"state": "Arizona"
+	},
+  {
+		"city": "El Mirage",
+		"state": "Arizona"
+	},
+  {
+		"city": "Eloy",
+		"state": "Arizona"
+	},
+  {
+		"city": "Flagstaff",
+		"state": "Arizona"
+	},
+  {
+		"city": "Florence",
+		"state": "Arizona"
+	},
+  {
+		"city": "Fountain Hills",
+		"state": "Arizona"
+	},
+  {
+		"city": "Fredonia",
+		"state": "Arizona"
+	},
+  {
+		"city": "Gila Bend",
+		"state": "Arizona"
+	},
+  {
+		"city": "Gilbert",
+		"state": "Arizona"
+	},
+  {
+		"city": "Glendale",
+		"state": "Arizona"
+	},
+  {
+		"city": "Globe",
+		"state": "Arizona"
+	},
+  {
+		"city": "Goodyear",
+		"state": "Arizona"
+	},
+  {
+		"city": "Guadalupe",
+		"state": "Arizona"
+	},
+  {
+		"city": "Hayden",
+		"state": "Arizona"
+	},
+  {
+		"city": "Holbrook",
+		"state": "Arizona"
+	},
+  {
+		"city": "Huachuca City",
+		"state": "Arizona"
+	},
+  {
+		"city": "Jerome",
+		"state": "Arizona"
+	},
+  {
+		"city": "Kearny",
+		"state": "Arizona"
+	},
+  {
+		"city": "Kingman",
+		"state": "Arizona"
+	},
+  {
+		"city": "Lake Havasu City",
+		"state": "Arizona"
+	},
+  {
+		"city": "Litchfield Park",
+		"state": "Arizona"
+	},
+  {
+		"city": "Mammoth",
+		"state": "Arizona"
+	},
+  {
+		"city": "Marana",
+		"state": "Arizona"
+	},
+  {
+		"city": "Maricopa",
+		"state": "Arizona"
+	},
+  {
+		"city": "Mesa",
+		"state": "Arizona"
+	},
+  {
+		"city": "Miami",
+		"state": "Arizona"
+	},
+  {
+		"city": "Nogales",
+		"state": "Arizona"
+	},
+  {
+		"city": "Oro Valley",
+		"state": "Arizona"
+	},
+  {
+		"city": "Page",
+		"state": "Arizona"
+	},
+  {
+		"city": "Paradise Valley",
+		"state": "Arizona"
+	},
+  {
+		"city": "Parker",
+		"state": "Arizona"
+	},
+  {
+		"city": "Patagonia",
+		"state": "Arizona"
+	},
+  {
+		"city": "Payson",
+		"state": "Arizona"
+	},
+  {
+		"city": "Peoria",
+		"state": "Arizona"
+	},
+  {
+		"city": "Phoenix",
+		"state": "Arizona"
+	},
+  {
+		"city": "Pima",
+		"state": "Arizona"
+	},
+  {
+		"city": "Pinetop-Lakeside",
+		"state": "Arizona"
+	},
+  {
+		"city": "Prescott",
+		"state": "Arizona"
+	},
+  {
+		"city": "Prescott Valley",
+		"state": "Arizona"
+	},
+  {
+		"city": "Quartzsite",
+		"state": "Arizona"
+	},
+  {
+		"city": "Queen Creek",
+		"state": "Arizona"
+	},
+  {
+		"city": "Safford",
+		"state": "Arizona"
+	},
+  {
+		"city": "Sahuarita",
+		"state": "Arizona"
+	},
+  {
+		"city": "San Luis",
+		"state": "Arizona"
+	},
+  {
+		"city": "Scottsdale",
+		"state": "Arizona"
+	},
+  {
+		"city": "Sedona",
+		"state": "Arizona"
+	},
+  {
+		"city": "Show Low",
+		"state": "Arizona"
+	},
+  {
+		"city": "Sierra Vista",
+		"state": "Arizona"
+	},
+  {
+		"city": "Snowflake",
+		"state": "Arizona"
+	},
+  {
+		"city": "Somerton",
+		"state": "Arizona"
+	},
+  {
+		"city": "South Tucson",
+		"state": "Arizona"
+	},
+  {
+		"city": "Springville",
+		"state": "Arizona"
+	},
+  {
+		"city": "St. Johns",
+		"state": "Arizona"
+	},
+  {
+		"city": "Star Valley",
+		"state": "Arizona"
+	},
+  {
+		"city": "Superior",
+		"state": "Arizona"
+	},
+  {
+		"city": "Surprise",
+		"state": "Arizona"
+	},
+  {
+		"city": "Taylor",
+		"state": "Arizona"
+	},
+  {
+		"city": "Tempe",
+		"state": "Arizona"
+	},
+  {
+		"city": "Thatcher",
+		"state": "Arizona"
+	},
+  {
+		"city": "Tolleson",
+		"state": "Arizona"
+	},
+  {
+		"city": "Tombstone",
+		"state": "Arizona"
+	},
+  {
+		"city": "Tucson",
+		"state": "Arizona"
+	},
+  {
+		"city": "Tusayan",
+		"state": "Arizona"
+	},
+  {
+		"city": "Wellton",
+		"state": "Arizona"
+	},
+  {
+		"city": "Wickenburg",
+		"state": "Arizona"
+	},
+  {
+		"city": "Willcox",
+		"state": "Arizona"
+	},
+  {
+		"city": "Williams",
+		"state": "Arizona"
+	},
+  {
+		"city": "Winkelman",
+		"state": "Arizona"
+	},
+  {
+		"city": "Winslow",
+		"state": "Arizona"
+	},
+  {
+		"city": "Youngtown",
+		"state": "Arizona"
+	},
+  {
+		"city": "Yuma",
+		"state": "Arizona"
+	}
+]
