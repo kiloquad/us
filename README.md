@@ -27,7 +27,8 @@ People who have held the position of the Vice President of the United States of 
 * Population data from US census:
   * 1900-1909: https://www2.census.gov/programs-surveys/popest/tables/1980-1990/state/asrh/st0009ts.txt
   * 1910-1919: https://www2.census.gov/programs-surveys/popest/tables/1980-1990/state/asrh/st1019ts.txt
-
+  * 1920-1929: https://www2.census.gov/programs-surveys/popest/tables/1980-1990/state/asrh/st2029ts.txt
+  
 ## cities
 
 * Alabama: https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Alabama
