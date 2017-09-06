@@ -1,0 +1,870 @@
+[
+  {
+		"city": "Alexander",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Alma",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Altheimer",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Amagon",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Arkadelphia",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Ash Flat",
+		"state": "Arkansas"
+	},
+  {
+		"city": "AShdown",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Atkins",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Augusta",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Austin",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Blad Knob",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Barling",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Batesville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Bay",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Bearden",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Beebe",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Bella Vista",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Benton",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Bentonville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Berryville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Bethel Heights",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Blytheville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Bono",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Boonville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Brinkley",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Brookland",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Bryant",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Bull Shoals",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Cabot",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Calico Rock",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Camden",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Caraway",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Carlisle",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Cave City",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Cave Springs",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Cedarville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Centerton",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Charleston",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Cherokee Village",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Clarendon",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Clarksville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Clinton",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Coal Hill",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Conway",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Corning",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Cotter",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Crossett",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Danville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Dardanelle",
+		"state": "Arkansas"
+	},
+  {
+		"city": "De Queen",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Decatur",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Dermott",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Des Arc",
+		"state": "Arkansas"
+	},
+  {
+		"city": "DeWitt",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Diaz",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Dierks",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Dover",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Dumas",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Dyer",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Earle",
+		"state": "Arkansas"
+	},
+  {
+		"city": "East Camden",
+		"state": "Arkansas"
+	},
+  {
+		"city": "El Dorado",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Elkins",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Elm Springs",
+		"state": "Arkansas"
+	},
+  {
+		"city": "England",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Eudora",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Eureka Springs",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Farfield Bay",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Farmington",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Fayetteville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Flippin",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Fordyce",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Foreman",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Forrest City",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Fort Smith",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Fouke",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Gassville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Gentry",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Glenwood",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Goshen",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Gosnell",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Gould",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Gravette",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Green Forest",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Greenbrier",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Greenland",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Greenwood",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Ggreers Ferry",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Gurdon",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Hackett",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Hamburg",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Hampton",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Harrisburg",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Harrison",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Haskell",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Hazen",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Heber Springs",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Helena-West Helena",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Hermitage",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Highland",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Hope",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Horatio",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Horsehoe Bend",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Hot Springs",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Hot Springs Village",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Hoxie",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Hughes",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Humphrey",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Huntsville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Jacksonville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Johnson",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Jonesboro",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Judsonia",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Kensett",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Kibler",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Lake City",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Lake Village",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Lamar",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Lavaca",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Leachville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Lepanto",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Lewisville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Lincoln",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Little Flock",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Little Rock",
+		"state": "Arkansas"
+	},
+  {
+		"city": "London",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Lonoke",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Lowell",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Luxora",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Magazine",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Magnolia",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Malvern",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Mammoth Springs",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Manila",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Mansfield",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Marianna",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Marion",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Marked Tree",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Marmaduke",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Marshell",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Marvell",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Maumelle",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Mayflower",
+		"state": "Arkansas"
+	},
+  {
+		"city": "McCrory",
+		"state": "Arkansas"
+	},
+  {
+		"city": "McGehee",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Melbourne",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Menea",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Mineral Springs",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Monette",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Monticello",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Morrilton",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Mount Ida",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Mountain Home",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Mountian View",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Mulberry",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Murfreesboro",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Nashville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Newark",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Newport",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Norphlet",
+		"state": "Arkansas"
+	},
+  {
+		"city": "North Little Rock",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Oak Grove Heights",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Ola",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Osceola",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Ozark",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Paragould",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Paris",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Parkins",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Pea Ridge",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Perryville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Piggott",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Pine Bluff",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Plumerville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Pocahontas",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Pottsville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Prairie Grove",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Prescott",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Rector",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Redfield",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Rison",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Rockport",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Rogers",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Russellville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Salem",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Searcy",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Shannon Hills",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Sheridan",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Sherrill",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Sherwood",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Siloan Springs",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Smackover",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Springdale",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Stamps",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Star City",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Stephens",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Stuttgart",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Swifton",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Texarkana",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Tontitown",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Trumann",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Tuckerman",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Van Buren",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Vilonia",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Wabbaseka",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Waldo",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Waldron",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Walnut Ridge",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Ward",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Warren",
+		"state": "Arkansas"
+	},
+  {
+		"city": "West Fork",
+		"state": "Arkansas"
+	},
+  {
+		"city": "West Memphis",
+		"state": "Arkansas"
+	},
+  {
+		"city": "White Hall",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Wilson",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Wooster",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Wrightsville",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Wynne",
+		"state": "Arkansas"
+	},
+  {
+		"city": "Yellville",
+		"state": "Arkansas"
+	}
+]
