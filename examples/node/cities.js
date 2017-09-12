@@ -5,8 +5,9 @@ var alabama = require('../../cities/alabama.json');
 var alaska = require('../../cities/alaska.json');
 var arizona = require('../../cities/arizona.json');
 var arkansas = require('../../cities/arkansas.json');
+var california = require('../../cities/california.json');
 
-var data = _.concat(alabama, alaska, arizona, arkansas);
+var data = _.concat(alabama, alaska, arizona, arkansas, california);
 
 var commonCityName = _.chain(data).groupBy('name').mapValues(function (p) {
   return p.length;
