@@ -8,7 +8,7 @@
     "title": "City",
     "headerTemplate": "{{ i1 }} - ({{ self.state }}) - {{ self.name }}",
     "properties": {
-      "city": {
+      "name": {
         "title": "City",
         "type": "string",
         "propertyOrder": 20,
@@ -20,6 +20,31 @@
         "propertyOrder": 30,
         "enum": [ "", "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Deleware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "New Hanpshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming", "Washington D.C." ],
         "description": "State the city is in"
+      },
+      "population": {
+        "title": "Population by year",
+        "type": "array",
+        "propertyOrder": 120,
+        "description": "Estimates of the total resident population",
+        "items": {
+          "type": "object",
+          "id": "year",
+          "title": "Year",
+          "properties": {
+            "year": {
+              "title": "Year",
+              "type": "number",
+              "propertyOrder": 10,
+              "description": "Population year"
+            },
+            "population": {
+              "title": "Population",
+              "type": "number",
+              "propertyOrder": 20,
+              "description": "Estimated population"
+            }
+          }
+        }
       }
     },
     "required": [ "city", "state" ]

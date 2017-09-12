@@ -1,1814 +1,6390 @@
 [
 	{
-		"city": "Abbeville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Adamsville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Addison",
-		"state": "Alabama"
-	},
-	{
-		"city": "Akron",
-		"state": "Alabama"
-	},
-	{
-		"city": "Alabaster",
-		"state": "Alabama"
-	},
-	{
-		"city": "Alberta",
-		"state": "Alabama"
-	},
-	{
-		"city": "Alexander City",
-		"state": "Alabama"
-	},
-	{
-		"city": "Aliceville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Allgood",
-		"state": "Alabama"
-	},
-	{
-		"city": "Altoona",
-		"state": "Alabama"
-	},
-	{
-		"city": "Andalusia",
-		"state": "Alabama"
-	},
-	{
-		"city": "Anderson",
-		"state": "Alabama"
-	},
-	{
-		"city": "Anniston",
-		"state": "Alabama"
-	},
-	{
-		"city": "Arab",
-		"state": "Alabama"
-	},
-	{
-		"city": "Ardmore",
-		"state": "Alabama"
-	},
-	{
-		"city": "Argo",
-		"state": "Alabama"
-	},
-	{
-		"city": "Ariton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Arley",
-		"state": "Alabama"
-	},
-	{
-		"city": "Ashford",
-		"state": "Alabama"
-	},
-	{
-		"city": "Ashland",
-		"state": "Alabama"
-	},
-	{
-		"city": "Ashville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Athens",
-		"state": "Alabama"
-	},
-	{
-		"city": "Atmore",
-		"state": "Alabama"
-	},
-	{
-		"city": "Attalla",
-		"state": "Alabama"
-	},
-	{
-		"city": "Aubrun",
-		"state": "Alabama"
-	},
-	{
-		"city": "Autaugaville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Avon",
-		"state": "Alabama"
-	},
-	{
-		"city": "Babbie",
-		"state": "Alabama"
-	},
-	{
-		"city": "Baileyton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Bakerhill",
-		"state": "Alabama"
-	},
-	{
-		"city": "Banks",
-		"state": "Alabama"
-	},
-	{
-		"city": "Bay Minette",
-		"state": "Alabama"
-	},
-	{
-		"city": "Bayou La Batre",
-		"state": "Alabama"
-	},
-	{
-		"city": "Bear Creek",
-		"state": "Alabama"
-	},
-	{
-		"city": "Beatrice",
-		"state": "Alabama"
-	},
-	{
-		"city": "Beaverton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Belk",
-		"state": "Alabama"
-	},
-	{
-		"city": "Benton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Berry",
-		"state": "Alabama"
-	},
-	{
-		"city": "Bessemer",
-		"state": "Alabama"
-	},
-	{
-		"city": "Billingsley",
-		"state": "Alabama"
-	},
-	{
-		"city": "Birmingham",
-		"state": "Alabama"
-	},
-	{
-		"city": "Black",
-		"state": "Alabama"
-	},
-	{
-		"city": "Blountsville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Blue Springs",
-		"state": "Alabama"
-	},
-	{
-		"city": "Boaz",
-		"state": "Alabama"
-	},
-	{
-		"city": "Boligee",
-		"state": "Alabama"
-	},
-	{
-		"city": "Bon Air",
-		"state": "Alabama"
-	},
-	{
-		"city": "Brantley",
-		"state": "Alabama"
-	},
-	{
-		"city": "Brent",
-		"state": "Alabama"
-	},
-	{
-		"city": "Brewton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Bridgeport",
-		"state": "Alabama"
-	},
-	{
-		"city": "Brington",
-		"state": "Alabama"
-	},
-	{
-		"city": "Brilliant",
-		"state": "Alabama"
-	},
-	{
-		"city": "Brookside",
-		"state": "Alabama"
-	},
-	{
-		"city": "Brookwood",
-		"state": "Alabama"
-	},
-	{
-		"city": "Brundidge",
-		"state": "Alabama"
-	},
-	{
-		"city": "Butler",
-		"state": "Alabama"
-	},
-	{
-		"city": "Calera",
-		"state": "Alabama"
-	},
-	{
-		"city": "Camden",
-		"state": "Alabama"
-	},
-	{
-		"city": "Camp Hill",
-		"state": "Alabama"
-	},
-	{
-		"city": "Carbon Hill",
-		"state": "Alabama"
-	},
-	{
-		"city": "Cardiff",
-		"state": "Alabama"
-	},
-	{
-		"city": "Carolina",
-		"state": "Alabama"
-	},
-	{
-		"city": "Carrollton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Castleberry",
-		"state": "Alabama"
-	},
-	{
-		"city": "Cedar Bluff",
-		"state": "Alabama"
-	},
-	{
-		"city": "Center Point",
-		"state": "Alabama"
-	},
-	{
-		"city": "Centre",
-		"state": "Alabama"
-	},
-	{
-		"city": "Centreville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Chatom",
-		"state": "Alabama"
-	},
-	{
-		"city": "Chelsea",
-		"state": "Alabama"
-	},
-	{
-		"city": "Cherokee",
-		"state": "Alabama"
-	},
-	{
-		"city": "Chickasaw",
-		"state": "Alabama"
-	},
-	{
-		"city": "Childersburg",
-		"state": "Alabama"
-	},
-	{
-		"city": "Citronelle",
-		"state": "Alabama"
-	},
-	{
-		"city": "Clanton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Clay",
-		"state": "Alabama"
-	},
-	{
-		"city": "Clayhatchee",
-		"state": "Alabama"
-	},
-	{
-		"city": "Clayton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Cleveland",
-		"state": "Alabama"
-	},
-	{
-		"city": "Clio",
-		"state": "Alabama"
-	},
-	{
-		"city": "Coaling",
-		"state": "Alabama"
-	},
-	{
-		"city": "Coffee Springs",
-		"state": "Alabama"
-	},
-	{
-		"city": "Coffeeville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Coker",
-		"state": "Alabama"
-	},
-	{
-		"city": "Collinsville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Colony",
-		"state": "Alabama"
-	},
-	{
-		"city": "Columbia",
-		"state": "Alabama"
-	},
-	{
-		"city": "columbiana",
-		"state": "Alabama"
-	},
-	{
-		"city": "Coosada",
-		"state": "Alabama"
-	},
-	{
-		"city": "Cordova",
-		"state": "Alabama"
-	},
-	{
-		"city": "Cottonwood",
-		"state": "Alabama"
-	},
-	{
-		"city": "County Line",
-		"state": "Alabama"
-	},
-	{
-		"city": "Coutland",
-		"state": "Alabama"
-	},
-	{
-		"city": "Cowarts",
-		"state": "Alabama"
-	},
-	{
-		"city": "Creola",
-		"state": "Alabama"
-	},
-	{
-		"city": "Crossville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Cuba",
-		"state": "Alabama"
-	},
-	{
-		"city": "Cullman",
-		"state": "Alabama"
-	},
-	{
-		"city": "Cusseta",
-		"state": "Alabama"
-	},
-	{
-		"city": "Dadeville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Daleville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Daphne",
-		"state": "Alabama"
-	},
-	{
-		"city": "Dauphin Island",
-		"state": "Alabama"
-	},
-	{
-		"city": "Daviston",
-		"state": "Alabama"
-	},
-	{
-		"city": "Dayton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Deatsville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Decatue",
-		"state": "Alabama"
-	},
-	{
-		"city": "Demopolis",
-		"state": "Alabama"
-	},
-	{
-		"city": "Detroit",
-		"state": "Alabama"
-	},
-	{
-		"city": "Dodge City",
-		"state": "Alabama"
-	},
-	{
-		"city": "Dora",
-		"state": "Alabama"
-	},
-	{
-		"city": "Dothan",
-		"state": "Alabama"
-	},
-	{
-		"city": "Double Springs",
-		"state": "Alabama"
-	},
-	{
-		"city": "Douglass",
-		"state": "Alabama"
-	},
-	{
-		"city": "Dozier",
-		"state": "Alabama"
-	},
-	{
-		"city": "Dutton",
-		"state": "Alabama"
-	},
-	{
-		"city": "East Brewton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Eclectic",
-		"state": "Alabama"
-	},
-	{
-		"city": "Edwardsville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Elba",
-		"state": "Alabama"
-	},
-	{
-		"city": "Elberta",
-		"state": "Alabama"
-	},
-	{
-		"city": "Eldridge",
-		"state": "Alabama"
-	},
-	{
-		"city": "Elkmont",
-		"state": "Alabama"
-	},
-	{
-		"city": "Elmore",
-		"state": "Alabama"
-	},
-	{
-		"city": "Emelle",
-		"state": "Alabama"
-	},
-	{
-		"city": "Enterprise",
-		"state": "Alabama"
-	},
-	{
-		"city": "Epes",
-		"state": "Alabama"
-	},
-	{
-		"city": "Ethelsville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Eufaula",
-		"state": "Alabama"
-	},
-	{
-		"city": "Eutaw",
-		"state": "Alabama"
-	},
-	{
-		"city": "Eva",
-		"state": "Alabama"
-	},
-	{
-		"city": "Evergreen",
-		"state": "Alabama"
-	},
-	{
-		"city": "Excel",
-		"state": "Alabama"
-	},
-	{
-		"city": "Fairfield",
-		"state": "Alabama"
-	},
-	{
-		"city": "Fairhope",
-		"state": "Alabama"
-	},
-	{
-		"city": "Fairview",
-		"state": "Alabama"
-	},
-	{
-		"city": "Falkville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Faunsdale",
-		"state": "Alabama"
-	},
-	{
-		"city": "Fayette",
-		"state": "Alabama"
-	},
-	{
-		"city": "Five Points",
-		"state": "Alabama"
-	},
-	{
-		"city": "Flomaton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Florala",
-		"state": "Alabama"
-	},
-	{
-		"city": "Florence",
-		"state": "Alabama"
-	},
-	{
-		"city": "Foley",
-		"state": "Alabama"
-	},
-	{
-		"city": "Forkland",
-		"state": "Alabama"
-	},
-	{
-		"city": "Fort Deposit",
-		"state": "Alabama"
-	},
-	{
-		"city": "Fort Payne",
-		"state": "Alabama"
-	},
-	{
-		"city": "Franklin",
-		"state": "Alabama"
-	},
-	{
-		"city": "Frisco City",
-		"state": "Alabama"
-	},
-	{
-		"city": "Fruithurst",
-		"state": "Alabama"
-	},
-	{
-		"city": "Fulton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Fultondale",
-		"state": "Alabama"
-	},
-	{
-		"city": "Fyffe",
-		"state": "Alabama"
-	},
-	{
-		"city": "Gadsden",
-		"state": "Alabama"
-	},
-	{
-		"city": "Gainesville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Gantt",
-		"state": "Alabama"
-	},
-	{
-		"city": "Garden City",
-		"state": "Alabama"
-	},
-	{
-		"city": "Gardendale",
-		"state": "Alabama"
-	},
-	{
-		"city": "Gaylesville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Geiger",
-		"state": "Alabama"
-	},
-	{
-		"city": "Geneva",
-		"state": "Alabama"
-	},
-	{
-		"city": "Georgiana",
-		"state": "Alabama"
-	},
-	{
-		"city": "Geraldine",
-		"state": "Alabama"
-	},
-	{
-		"city": "Gilbertown",
-		"state": "Alabama"
-	},
-	{
-		"city": "Glen Allen",
-		"state": "Alabama"
-	},
-	{
-		"city": "Glencoe",
-		"state": "Alabama"
-	},
-	{
-		"city": "Glanwood",
-		"state": "Alabama"
-	},
-	{
-		"city": "Goldville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Goshen",
-		"state": "Alabama"
-	},
-	{
-		"city": "Grant",
-		"state": "Alabama"
-	},
-	{
-		"city": "Graysville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Greensboro",
-		"state": "Alabama"
-	},
-	{
-		"city": "Greenville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Grimes",
-		"state": "Alabama"
-	},
-	{
-		"city": "Grove Hill",
-		"state": "Alabama"
-	},
-	{
-		"city": "Guin",
-		"state": "Alabama"
-	},
-	{
-		"city": "Gulf Shores",
-		"state": "Alabama"
-	},
-	{
-		"city": "Guntersville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Gurley",
-		"state": "Alabama"
-	},
-	{
-		"city": "Gu-Win",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hackleburg",
-		"state": "Alabama"
-	},
-	{
-		"city": "Haleburg",
-		"state": "Alabama"
-	},
-	{
-		"city": "Haleyville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hamilton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hammondville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hanceville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Harpersville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hartford",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hartselle",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hayden",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hayneville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Headland",
-		"state": "Alabama"
-	},
-	{
-		"city": "Heath",
-		"state": "Alabama"
-	},
-	{
-		"city": "Heflin",
-		"state": "Alabama"
-	},
-	{
-		"city": "Helena",
-		"state": "Alabama"
-	},
-	{
-		"city": "Henagar",
-		"state": "Alabama"
-	},
-	{
-		"city": "Highland Lake",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hillsboro",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hobson City",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hodges",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hokes Bluff",
-		"state": "Alabama"
-	},
-	{
-		"city": "Holly Pond",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hollywood",
-		"state": "Alabama"
-	},
-	{
-		"city": "Homewood",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hoover",
-		"state": "Alabama"
-	},
-	{
-		"city": "Horn Hill",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hueytown",
-		"state": "Alabama"
-	},
-	{
-		"city": "Huntsville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hurtsboro",
-		"state": "Alabama"
-	},
-	{
-		"city": "Hytop",
-		"state": "Alabama"
-	},
-	{
-		"city": "Ider",
-		"state": "Alabama"
-	},
-	{
-		"city": "Indian Springs Village",
-		"state": "Alabama"
-	},
-	{
-		"city": "Irondale",
-		"state": "Alabama"
-	},
-	{
-		"city": "Jackson",
-		"state": "Alabama"
-	},
-	{
-		"city": "Jackson's Gap",
-		"state": "Alabama"
-	},
-	{
-		"city": "Jacksonville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Jasper",
-		"state": "Alabama"
-	},
-	{
-		"city": "Jemison",
-		"state": "Alabama"
-	},
-	{
-		"city": "Kansas",
-		"state": "Alabama"
-	},
-	{
-		"city": "Kellyton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Kennedy",
-		"state": "Alabama"
-	},
-	{
-		"city": "Killen",
-		"state": "Alabama"
-	},
-	{
-		"city": "Kimberly",
-		"state": "Alabama"
-	},
-	{
-		"city": "Kinsey",
-		"state": "Alabama"
-	},
-	{
-		"city": "Kinston",
-		"state": "Alabama"
-	},
-	{
-		"city": "La Fayette",
-		"state": "Alabama"
-	},
-	{
-		"city": "Lake View",
-		"state": "Alabama"
-	},
-	{
-		"city": "Lakeview",
-		"state": "Alabama"
-	},
-	{
-		"city": "Lanette",
-		"state": "Alabama"
-	},
-	{
-		"city": "Langston",
-		"state": "Alabama"
-	},
-	{
-		"city": "Leeds",
-		"state": "Alabama"
-	},
-	{
-		"city": "Leesburg",
-		"state": "Alabama"
-	},
-	{
-		"city": "Leighton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Lester",
-		"state": "Alabama"
-	},
-	{
-		"city": "Level Plains",
-		"state": "Alabama"
-	},
-	{
-		"city": "Lexington",
-		"state": "Alabama"
-	},
-	{
-		"city": "Libertyville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Lincoln",
-		"state": "Alabama"
-	},
-	{
-		"city": "Linden",
-		"state": "Alabama"
-	},
-	{
-		"city": "Lineville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Lipscomb",
-		"state": "Alabama"
-	},
-	{
-		"city": "Lisman",
-		"state": "Alabama"
-	},
-	{
-		"city": "Littleville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Livingston",
-		"state": "Alabama"
-	},
-	{
-		"city": "Loachapoka",
-		"state": "Alabama"
-	},
-	{
-		"city": "Lockhart",
-		"state": "Alabama"
-	},
-	{
-		"city": "Locust Fork",
-		"state": "Alabama"
-	},
-	{
-		"city": "Louisville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Lowndesboro",
-		"state": "Alabama"
-	},
-	{
-		"city": "Loxley",
-		"state": "Alabama"
-	},
-	{
-		"city": "Luverne",
-		"state": "Alabama"
-	},
-	{
-		"city": "Lynn",
-		"state": "Alabama"
-	},
-	{
-		"city": "Madison",
-		"state": "Alabama"
-	},
-	{
-		"city": "Madrid",
-		"state": "Alabama"
-	},
-	{
-		"city": "Magnolia Springs",
-		"state": "Alabama"
-	},
-	{
-		"city": "Malvern",
-		"state": "Alabama"
-	},
-	{
-		"city": "Maplesville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Margaret",
-		"state": "Alabama"
-	},
-	{
-		"city": "Marion",
-		"state": "Alabama"
-	},
-	{
-		"city": "Maytown",
-		"state": "Alabama"
-	},
-	{
-		"city": "McIntosh",
-		"state": "Alabama"
-	},
-	{
-		"city": "McKenzie",
-		"state": "Alabama"
-	},
-	{
-		"city": "McMullen",
-		"state": "Alabama"
-	},
-	{
-		"city": "Memphis",
-		"state": "Alabama"
-	},
-	{
-		"city": "Mentone",
-		"state": "Alabama"
-	},
-	{
-		"city": "Midfield",
-		"state": "Alabama"
-	},
-	{
-		"city": "Midland City",
-		"state": "Alabama"
-	},
-	{
-		"city": "Midway",
-		"state": "Alabama"
-	},
-	{
-		"city": "Millbrook",
-		"state": "Alabama"
-	},
-	{
-		"city": "Millport",
-		"state": "Alabama"
-	},
-	{
-		"city": "Millry",
-		"state": "Alabama"
-	},
-	{
-		"city": "Mobile",
-		"state": "Alabama"
-	},
-	{
-		"city": "Monroeville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Montevallo",
-		"state": "Alabama"
-	},
-	{
-		"city": "Montgomery",
-		"state": "Alabama"
-	},
-	{
-		"city": "Moody",
-		"state": "Alabama"
-	},
-	{
-		"city": "Mooresville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Morris",
-		"state": "Alabama"
-	},
-	{
-		"city": "Mosses",
-		"state": "Alabama"
-	},
-	{
-		"city": "Moulton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Moundville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Mount Vernon",
-		"state": "Alabama"
-	},
-	{
-		"city": "Mountain Brook",
-		"state": "Alabama"
-	},
-	{
-		"city": "Mulga",
-		"state": "Alabama"
-	},
-	{
-		"city": "Munford",
-		"state": "Alabama"
-	},
-	{
-		"city": "Muscle Shoals",
-		"state": "Alabama"
-	},
-	{
-		"city": "Myrtlewood",
-		"state": "Alabama"
-	},
-	{
-		"city": "Napier Field",
-		"state": "Alabama"
-	},
-	{
-		"city": "Natual Bridge",
-		"state": "Alabama"
-	},
-	{
-		"city": "Nauvoo",
-		"state": "Alabama"
-	},
-	{
-		"city": "Nectar",
-		"state": "Alabama"
-	},
-	{
-		"city": "Needham",
-		"state": "Alabama"
-	},
-	{
-		"city": "New Brockton",
-		"state": "Alabama"
-	},
-	{
-		"city": "New Hope",
-		"state": "Alabama"
-	},
-	{
-		"city": "New Site",
-		"state": "Alabama"
-	},
-	{
-		"city": "Newbern",
-		"state": "Alabama"
-	},
-	{
-		"city": "Newton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Newville",
-		"state": "Alabama"
-	},
-	{
-		"city": "North Courtland",
-		"state": "Alabama"
-	},
-	{
-		"city": "North Johns",
-		"state": "Alabama"
-	},
-	{
-		"city": "Northport",
-		"state": "Alabama"
-	},
-	{
-		"city": "Notasulga",
-		"state": "Alabama"
-	},
-	{
-		"city": "Oak Grove",
-		"state": "Alabama"
-	},
-	{
-		"city": "Oak Hill",
-		"state": "Alabama"
-	},
-	{
-		"city": "Oakman",
-		"state": "Alabama"
-	},
-	{
-		"city": "Odenville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Ohatchee",
-		"state": "Alabama"
-	},
-	{
-		"city": "Oneonta",
-		"state": "Alabama"
-	},
-	{
-		"city": "Onycha",
-		"state": "Alabama"
-	},
-	{
-		"city": "Opelika",
-		"state": "Alabama"
-	},
-	{
-		"city": "Opp",
-		"state": "Alabama"
-	},
-	{
-		"city": "Orange Beach",
-		"state": "Alabama"
-	},
-	{
-		"city": "Orrville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Ownes Cross Roads",
-		"state": "Alabama"
-	},
-	{
-		"city": "Oxford",
-		"state": "Alabama"
-	},
-	{
-		"city": "Ozark",
-		"state": "Alabama"
-	},
-	{
-		"city": "Paint Rock",
-		"state": "Alabama"
-	},
-	{
-		"city": "Parrish",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pilham",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pell City",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pennington",
-		"state": "Alabama"
-	},
-	{
-		"city": "Perdido Beach",
-		"state": "Alabama"
-	},
-	{
-		"city": "Petrey",
-		"state": "Alabama"
-	},
-	{
-		"city": "Phenix City",
-		"state": "Alabama"
-	},
-	{
-		"city": "Phil Campbell",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pickensville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Peidmont",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pike Road",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pinckard",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pine Apple",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pine Hill",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pine Ridge",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pinson",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pisgah",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pleasant Grove",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pleasant Groves",
-		"state": "Alabama"
-	},
-	{
-		"city": "Pollard",
-		"state": "Alabama"
-	},
-	{
-		"city": "Powell",
-		"state": "Alabama"
-	},
-	{
-		"city": "Prattville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Princeville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Prichard",
-		"state": "Alabama"
-	},
-	{
-		"city": "Providence",
-		"state": "Alabama"
-	},
-	{
-		"city": "Ragland",
-		"state": "Alabama"
-	},
-	{
-		"city": "Rainbow City",
-		"state": "Alabama"
-	},
-	{
-		"city": "Rainsville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Ranburne",
-		"state": "Alabama"
-	},
-	{
-		"city": "Red Bay",
-		"state": "Alabama"
-	},
-	{
-		"city": "Red Level",
-		"state": "Alabama"
-	},
-	{
-		"city": "Reece City",
-		"state": "Alabama"
-	},
-	{
-		"city": "Reform",
-		"state": "Alabama"
-	},
-	{
-		"city": "Rehobeth",
-		"state": "Alabama"
-	},
-	{
-		"city": "Repton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Redgeville",
-		"state": "Alabama"
-	},
-	{
-		"city": "River Falls",
-		"state": "Alabama"
-	},
-	{
-		"city": "Riverside",
-		"state": "Alabama"
-	},
-	{
-		"city": "Roanoke",
-		"state": "Alabama"
-	},
-	{
-		"city": "Robersdale",
-		"state": "Alabama"
-	},
-	{
-		"city": "Rockford",
-		"state": "Alabama"
-	},
-	{
-		"city": "Rogersville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Rosa",
-		"state": "Alabama"
-	},
-	{
-		"city": "Russellville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Rutledge",
-		"state": "Alabama"
-	},
-	{
-		"city": "St. Florian",
-		"state": "Alabama"
-	},
-	{
-		"city": "Samson",
-		"state": "Alabama"
-	},
-	{
-		"city": "Sand Rock",
-		"state": "Alabama"
-	},
-	{
-		"city": "Sanford",
-		"state": "Alabama"
-	},
-	{
-		"city": "Saraland",
-		"state": "Alabama"
-	},
-	{
-		"city": "Sardis City",
-		"state": "Alabama"
-	},
-	{
-		"city": "Satsuma",
-		"state": "Alabama"
-	},
-	{
-		"city": "Scottsboro",
-		"state": "Alabama"
-	},
-	{
-		"city": "Section",
-		"state": "Alabama"
-	},
-	{
-		"city": "Selma",
-		"state": "Alabama"
-	},
-	{
-		"city": "Sheffield",
-		"state": "Alabama"
-	},
-	{
-		"city": "Shiloh",
-		"state": "Alabama"
-	},
-	{
-		"city": "Shorter",
-		"state": "Alabama"
-	},
-	{
-		"city": "Silas",
-		"state": "Alabama"
-	},
-	{
-		"city": "Silverhill",
-		"state": "Alabama"
-	},
-	{
-		"city": "Sipsey",
-		"state": "Alabama"
-	},
-	{
-		"city": "Skyline",
-		"state": "Alabama"
-	},
-	{
-		"city": "Slocomb",
-		"state": "Alabama"
-	},
-	{
-		"city": "Smiths Station",
-		"state": "Alabama"
-	},
-	{
-		"city": "Snead",
-		"state": "Alabama"
-	},
-	{
-		"city": "Somerville",
-		"state": "Alabama"
-	},
-	{
-		"city": "South Vinemont",
-		"state": "Alabama"
-	},
-	{
-		"city": "Southside",
-		"state": "Alabama"
-	},
-	{
-		"city": "Spanish Fort",
-		"state": "Alabama"
-	},
-	{
-		"city": "Springville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Steele",
-		"state": "Alabama"
-	},
-	{
-		"city": "Stevenson",
-		"state": "Alabama"
-	},
-	{
-		"city": "Sulligent",
-		"state": "Alabama"
-	},
-	{
-		"city": "Sumiton",
-		"state": "Alabama"
-	},
-	{
-		"city": "Summerdale",
-		"state": "Alabama"
-	},
-	{
-		"city": "Susan Moore",
-		"state": "Alabama"
-	},
-	{
-		"city": "Sweet Water",
-		"state": "Alabama"
-	},
-	{
-		"city": "Sylacauga",
-		"state": "Alabama"
-	},
-	{
-		"city": "Sylvan Spring",
-		"state": "Alabama"
-	},
-	{
-		"city": "Sylvania",
-		"state": "Alabama"
-	},
-	{
-		"city": "Talladega Springs",
-		"state": "Alabama"
-	},
-	{
-		"city": "Talladega",
-		"state": "Alabama"
-	},
-	{
-		"city": "Tallassee",
-		"state": "Alabama"
-	},
-	{
-		"city": "Tarrant",
-		"state": "Alabama"
-	},
-	{
-		"city": "Taylor",
-		"state": "Alabama"
-	},
-	{
-		"city": "Thomaston",
-		"state": "Alabama"
-	},
-	{
-		"city": "Thomasville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Thorsby",
-		"state": "Alabama"
-	},
-	{
-		"city": "Thown Creek",
-		"state": "Alabama"
-	},
-	{
-		"city": "Toxey",
-		"state": "Alabama"
-	},
-	{
-		"city": "Trafford",
-		"state": "Alabama"
-	},
-	{
-		"city": "Triana",
-		"state": "Alabama"
-	},
-	{
-		"city": "Trinity",
-		"state": "Alabama"
-	},
-	{
-		"city": "Troy",
-		"state": "Alabama"
-	},
-	{
-		"city": "Trussville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Tuscalossa",
-		"state": "Alabama"
-	},
-	{
-		"city": "Tuscumbia",
-		"state": "Alabama"
-	},
-	{
-		"city": "Tuskegee",
-		"state": "Alabama"
-	},
-	{
-		"city": "Twin",
-		"state": "Alabama"
-	},
-	{
-		"city": "Union Grove",
-		"state": "Alabama"
-	},
-	{
-		"city": "Union Springs",
-		"state": "Alabama"
-	},
-	{
-		"city": "Union",
-		"state": "Alabama"
-	},
-	{
-		"city": "Uniontown",
-		"state": "Alabama"
-	},
-	{
-		"city": "Valley",
-		"state": "Alabama"
-	},
-	{
-		"city": "Valley Grande",
-		"state": "Alabama"
-	},
-	{
-		"city": "Valley Head",
-		"state": "Alabama"
-	},
-	{
-		"city": "Vance",
-		"state": "Alabama"
-	},
-	{
-		"city": "Vernon",
-		"state": "Alabama"
-	},
-	{
-		"city": "Vestavia Hills",
-		"state": "Alabama"
-	},
-	{
-		"city": "Vina",
-		"state": "Alabama"
-	},
-	{
-		"city": "Vincent",
-		"state": "Alabama"
-	},
-	{
-		"city": "Vredenburgh",
-		"state": "Alabama"
-	},
-	{
-		"city": "Wadley",
-		"state": "Alabama"
-	},
-	{
-		"city": "Waldo",
-		"state": "Alabama"
-	},
-	{
-		"city": "Walnut Grove",
-		"state": "Alabama"
-	},
-	{
-		"city": "Warrior",
-		"state": "Alabama"
-	},
-	{
-		"city": "Waterloo",
-		"state": "Alabama"
-	},
-	{
-		"city": "Waverly",
-		"state": "Alabama"
-	},
-	{
-		"city": "Weaver",
-		"state": "Alabama"
-	},
-	{
-		"city": "Webb",
-		"state": "Alabama"
-	},
-	{
-		"city": "Wedowee",
-		"state": "Alabama"
-	},
-	{
-		"city": "West Blocton",
-		"state": "Alabama"
-	},
-	{
-		"city": "West Jefferson",
-		"state": "Alabama"
-	},
-	{
-		"city": "West Point",
-		"state": "Alabama"
-	},
-	{
-		"city": "Westover",
-		"state": "Alabama"
-	},
-	{
-		"city": "Wetumpka",
-		"state": "Alabama"
-	},
-	{
-		"city": "White Hall",
-		"state": "Alabama"
-	},
-	{
-		"city": "Wilconville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Winfield",
-		"state": "Alabama"
-	},
-	{
-		"city": "Woodland",
-		"state": "Alabama"
-	},
-	{
-		"city": "Woodstock",
-		"state": "Alabama"
-	},
-	{
-		"city": "Woodville",
-		"state": "Alabama"
-	},
-	{
-		"city": "Yellow Bluff",
-		"state": "Alabama"
-	},
-	{
-		"city": "York",
-		"state": "Alabama"
+		"name": "Abbeville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2987
+			},
+			{
+				"year": 2010,
+				"population": 2688
+			}
+		]
+	},
+	{
+		"name": "Adamsville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4522
+			},
+			{
+				"year": 2010,
+				"population": 4522
+			}
+		]
+	},
+	{
+		"name": "Addison",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 723
+			},
+			{
+				"year": 2010,
+				"population": 758
+			}
+		]
+	},
+	{
+		"name": "Akron",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 356
+			},
+			{
+				"year": 2010,
+				"population": 521
+			}
+		]
+	},
+	{
+		"name": "Alabaster",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 22619
+			},
+			{
+				"year": 2010,
+				"population": 30352
+			}
+		]
+	},
+	{
+		"name": "Albertville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 17247
+			},
+			{
+				"year": 2010,
+				"population": 21160
+			}
+		]
+	},
+	{
+		"name": "Alexander City",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 15008
+			},
+			{
+				"year": 2010,
+				"population": 14875
+			}
+		]
+	},
+	{
+		"name": "Aliceville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2567
+			},
+			{
+				"year": 2010,
+				"population": 2486
+			}
+		]
+	},
+	{
+		"name": "Allgood",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 629
+			},
+			{
+				"year": 2010,
+				"population": 622
+			}
+		]
+	},
+	{
+		"name": "Altoona",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 984
+			},
+			{
+				"year": 2010,
+				"population": 933
+			}
+		]
+	},
+	{
+		"name": "Andalusia",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 8794
+			},
+			{
+				"year": 2010,
+				"population": 9015
+			}
+		]
+	},
+	{
+		"name": "Anderson",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 354
+			},
+			{
+				"year": 2010,
+				"population": 282
+			}
+		]
+	},
+	{
+		"name": "Anniston",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 24276
+			},
+			{
+				"year": 2010,
+				"population": 23106
+			}
+		]
+	},
+	{
+		"name": "Arab",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7174
+			},
+			{
+				"year": 2010,
+				"population": 8050
+			}
+		]
+	},
+	{
+		"name": "Ardmore",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1034
+			},
+			{
+				"year": 2010,
+				"population": 1194
+			}
+		]
+	},
+	{
+		"name": "Argo",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1780
+			},
+			{
+				"year": 2010,
+				"population": 4071
+			}
+		]
+	},
+	{
+		"name": "Ariton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 772
+			},
+			{
+				"year": 2010,
+				"population": 764
+			}
+		]
+	},
+	{
+		"name": "Arley",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 290
+			},
+			{
+				"year": 2010,
+				"population": 357
+			}
+		]
+	},
+	{
+		"name": "Ashford",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1853
+			},
+			{
+				"year": 2010,
+				"population": 2148
+			}
+		]
+	},
+	{
+		"name": "Ashland",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1965
+			},
+			{
+				"year": 2010,
+				"population": 2037
+			}
+		]
+	},
+	{
+		"name": "Ashville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2260
+			},
+			{
+				"year": 2010,
+				"population": 2212
+			}
+		]
+	},
+	{
+		"name": "Athens",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 18967
+			},
+			{
+				"year": 2010,
+				"population": 21897
+			}
+		]
+	},
+	{
+		"name": "Atmore",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7676
+			},
+			{
+				"year": 2010,
+				"population": 10194
+			}
+		]
+	},
+	{
+		"name": "Attalla",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 6592
+			},
+			{
+				"year": 2010,
+				"population": 6048
+			}
+		]
+	},
+	{
+		"name": "Aubrun",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 42987
+			},
+			{
+				"year": 2010,
+				"population": 53380
+			}
+		]
+	},
+	{
+		"name": "Autaugaville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 820
+			},
+			{
+				"year": 2010,
+				"population": 870
+			}
+		]
+	},
+	{
+		"name": "Avon",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 466
+			},
+			{
+				"year": 2010,
+				"population": 543
+			}
+		]
+	},
+	{
+		"name": "Babbie",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 627
+			},
+			{
+				"year": 2010,
+				"population": 603
+			}
+		]
+	},
+	{
+		"name": "Baileyton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 684
+			},
+			{
+				"year": 2010,
+				"population": 610
+			}
+		]
+	},
+	{
+		"name": "Bakerhill",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 279
+			}
+		]
+	},
+	{
+		"name": "Banks",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 224
+			},
+			{
+				"year": 2010,
+				"population": 179
+			}
+		]
+	},
+	{
+		"name": "Bay Minette",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7820
+			},
+			{
+				"year": 2010,
+				"population": 8044
+			}
+		]
+	},
+	{
+		"name": "Bayou La Batre",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2313
+			},
+			{
+				"year": 2010,
+				"population": 2558
+			}
+		]
+	},
+	{
+		"name": "Bear Creek",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1053
+			},
+			{
+				"year": 2010,
+				"population": 1070
+			}
+		]
+	},
+	{
+		"name": "Beatrice",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 412
+			},
+			{
+				"year": 2010,
+				"population": 301
+			}
+		]
+	},
+	{
+		"name": "Beaverton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 226
+			},
+			{
+				"year": 2010,
+				"population": 201
+			}
+		]
+	},
+	{
+		"name": "Belk",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 214
+			},
+			{
+				"year": 2010,
+				"population": 215
+			}
+		]
+	},
+	{
+		"name": "Benton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 47
+			},
+			{
+				"year": 2010,
+				"population": 49
+			}
+		]
+	},
+	{
+		"name": "Berry",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1238
+			},
+			{
+				"year": 2010,
+				"population": 1148
+			}
+		]
+	},
+	{
+		"name": "Bessemer",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 29672
+			},
+			{
+				"year": 2010,
+				"population": 27456
+			}
+		]
+	},
+	{
+		"name": "Billingsley",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 116
+			},
+			{
+				"year": 2010,
+				"population": 144
+			}
+		]
+	},
+	{
+		"name": "Birmingham",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 242840
+			},
+			{
+				"year": 2010,
+				"population": 212237
+			}
+		]
+	},
+	{
+		"name": "Black",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 202
+			},
+			{
+				"year": 2010,
+				"population": 207
+			}
+		]
+	},
+	{
+		"name": "Blountsville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1768
+			},
+			{
+				"year": 2010,
+				"population": 1684
+			}
+		]
+	},
+	{
+		"name": "Blue Springs",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 121
+			},
+			{
+				"year": 2010,
+				"population": 96
+			}
+		]
+	},
+	{
+		"name": "Boaz",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7411
+			},
+			{
+				"year": 2010,
+				"population": 9551
+			}
+		]
+	},
+	{
+		"name": "Boligee",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 369
+			},
+			{
+				"year": 2010,
+				"population": 328
+			}
+		]
+	},
+	{
+		"name": "Bon Air",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 96
+			},
+			{
+				"year": 2010,
+				"population": 116
+			}
+		]
+	},
+	{
+		"name": "Brantley",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 920
+			},
+			{
+				"year": 2010,
+				"population": 809
+			}
+		]
+	},
+	{
+		"name": "Brent",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4024
+			},
+			{
+				"year": 2010,
+				"population": 4947
+			}
+		]
+	},
+	{
+		"name": "Brewton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 5498
+			},
+			{
+				"year": 2010,
+				"population": 5408
+			}
+		]
+	},
+	{
+		"name": "Bridgeport",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2728
+			},
+			{
+				"year": 2010,
+				"population": 2418
+			}
+		]
+	},
+	{
+		"name": "Brington",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3640
+			},
+			{
+				"year": 2010,
+				"population": 2945
+			}
+		]
+	},
+	{
+		"name": "Brilliant",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 762
+			},
+			{
+				"year": 2010,
+				"population": 900
+			}
+		]
+	},
+	{
+		"name": "Brookside",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1393
+			},
+			{
+				"year": 2010,
+				"population": 1363
+			}
+		]
+	},
+	{
+		"name": "Brookwood",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1483
+			},
+			{
+				"year": 2010,
+				"population": 1828
+			}
+		]
+	},
+	{
+		"name": "Brundidge",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2341
+			},
+			{
+				"year": 2010,
+				"population": 2076
+			}
+		]
+	},
+	{
+		"name": "Butler",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1952
+			},
+			{
+				"year": 2010,
+				"population": 1894
+			}
+		]
+	},
+	{
+		"name": "Calera",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3158
+			},
+			{
+				"year": 2010,
+				"population": 11620
+			}
+		]
+	},
+	{
+		"name": "Camden",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2257
+			},
+			{
+				"year": 2010,
+				"population": 2020
+			}
+		]
+	},
+	{
+		"name": "Camp Hill",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1273
+			},
+			{
+				"year": 2010,
+				"population": 1014
+			}
+		]
+	},
+	{
+		"name": "Carbon Hill",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2071
+			},
+			{
+				"year": 2010,
+				"population": 2021
+			}
+		]
+	},
+	{
+		"name": "Cardiff",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 82
+			},
+			{
+				"year": 2010,
+				"population": 55
+			}
+		]
+	},
+	{
+		"name": "Carolina",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 248
+			},
+			{
+				"year": 2010,
+				"population": 297
+			}
+		]
+	},
+	{
+		"name": "Carrollton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 987
+			},
+			{
+				"year": 2010,
+				"population": 1019
+			}
+		]
+	},
+	{
+		"name": "Castleberry",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 590
+			},
+			{
+				"year": 2010,
+				"population": 583
+			}
+		]
+	},
+	{
+		"name": "Cedar Bluff",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1467
+			},
+			{
+				"year": 2010,
+				"population": 1820
+			}
+		]
+	},
+	{
+		"name": "Center Point",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 16921
+			}
+		]
+	},
+	{
+		"name": "Centre",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3216
+			},
+			{
+				"year": 2010,
+				"population": 3489
+			}
+		]
+	},
+	{
+		"name": "Centreville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2466
+			},
+			{
+				"year": 2010,
+				"population": 2778
+			}
+		]
+	},
+	{
+		"name": "Chatom",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1193
+			},
+			{
+				"year": 2010,
+				"population": 1288
+			}
+		]
+	},
+	{
+		"name": "Chelsea",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2949
+			},
+			{
+				"year": 2010,
+				"population": 10183
+			}
+		]
+	},
+	{
+		"name": "Cherokee",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1237
+			},
+			{
+				"year": 2010,
+				"population": 1048
+			}
+		]
+	},
+	{
+		"name": "Chickasaw",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 6364
+			},
+			{
+				"year": 2010,
+				"population": 6106
+			}
+		]
+	},
+	{
+		"name": "Childersburg",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4927
+			},
+			{
+				"year": 2010,
+				"population": 5175
+			}
+		]
+	},
+	{
+		"name": "Citronelle",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3659
+			},
+			{
+				"year": 2010,
+				"population": 3905
+			}
+		]
+	},
+	{
+		"name": "Clanton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7800
+			},
+			{
+				"year": 2010,
+				"population": 8619
+			}
+		]
+	},
+	{
+		"name": "Clay",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 9708
+			}
+		]
+	},
+	{
+		"name": "Clayhatchee",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 501
+			},
+			{
+				"year": 2010,
+				"population": 589
+			}
+		]
+	},
+	{
+		"name": "Clayton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1475
+			},
+			{
+				"year": 2010,
+				"population": 3008
+			}
+		]
+	},
+	{
+		"name": "Cleveland",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1241
+			},
+			{
+				"year": 2010,
+				"population": 1303
+			}
+		]
+	},
+	{
+		"name": "Clio",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2206
+			},
+			{
+				"year": 2010,
+				"population": 1399
+			}
+		]
+	},
+	{
+		"name": "Coaling",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1115
+			},
+			{
+				"year": 2010,
+				"population": 1657
+			}
+		]
+	},
+	{
+		"name": "Coffee Springs",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 251
+			},
+			{
+				"year": 2010,
+				"population": 228
+			}
+		]
+	},
+	{
+		"name": "Coffeeville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 360
+			},
+			{
+				"year": 2010,
+				"population": 352
+			}
+		]
+	},
+	{
+		"name": "Coker",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 808
+			},
+			{
+				"year": 2010,
+				"population": 979
+			}
+		]
+	},
+	{
+		"name": "Collinsville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1644
+			},
+			{
+				"year": 2010,
+				"population": 1983
+			}
+		]
+	},
+	{
+		"name": "Colony",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 385
+			},
+			{
+				"year": 2010,
+				"population": 268
+			}
+		]
+	},
+	{
+		"name": "Columbia",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 804
+			},
+			{
+				"year": 2010,
+				"population": 740
+			}
+		]
+	},
+	{
+		"name": "columbiana",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3316
+			},
+			{
+				"year": 2010,
+				"population": 4197
+			}
+		]
+	},
+	{
+		"name": "Coosada",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1382
+			},
+			{
+				"year": 2010,
+				"population": 1224
+			}
+		]
+	},
+	{
+		"name": "Cordova",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2423
+			},
+			{
+				"year": 2010,
+				"population": 2095
+			}
+		]
+	},
+	{
+		"name": "Cottonwood",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1170
+			},
+			{
+				"year": 2010,
+				"population": 1289
+			}
+		]
+	},
+	{
+		"name": "County Line",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 257
+			},
+			{
+				"year": 2010,
+				"population": 258
+			}
+		]
+	},
+	{
+		"name": "Coutland",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 769
+			},
+			{
+				"year": 2010,
+				"population": 609
+			}
+		]
+	},
+	{
+		"name": "Cowarts",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1546
+			},
+			{
+				"year": 2010,
+				"population": 1871
+			}
+		]
+	},
+	{
+		"name": "Creola",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2002
+			},
+			{
+				"year": 2010,
+				"population": 1926
+			}
+		]
+	},
+	{
+		"name": "Crossville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1431
+			},
+			{
+				"year": 2010,
+				"population": 1862
+			}
+		]
+	},
+	{
+		"name": "Cuba",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 363
+			},
+			{
+				"year": 2010,
+				"population": 346
+			}
+		]
+	},
+	{
+		"name": "Cullman",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 13995
+			},
+			{
+				"year": 2010,
+				"population": 14775
+			}
+		]
+	},
+	{
+		"name": "Cusseta",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 123
+			}
+		]
+	},
+	{
+		"name": "Dadeville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3212
+			},
+			{
+				"year": 2010,
+				"population": 3230
+			}
+		]
+	},
+	{
+		"name": "Daleville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4653
+			},
+			{
+				"year": 2010,
+				"population": 5295
+			}
+		]
+	},
+	{
+		"name": "Daphne",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 16581
+			},
+			{
+				"year": 2010,
+				"population": 21570
+			}
+		]
+	},
+	{
+		"name": "Dauphin Island",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1371
+			},
+			{
+				"year": 2010,
+				"population": 1238
+			}
+		]
+	},
+	{
+		"name": "Daviston",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 267
+			},
+			{
+				"year": 2010,
+				"population": 214
+			}
+		]
+	},
+	{
+		"name": "Dayton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 60
+			},
+			{
+				"year": 2010,
+				"population": 52
+			}
+		]
+	},
+	{
+		"name": "Deatsville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 340
+			},
+			{
+				"year": 2010,
+				"population": 1154
+			}
+		]
+	},
+	{
+		"name": "Decatue",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 53929
+			},
+			{
+				"year": 2010,
+				"population": 55683
+			}
+		]
+	},
+	{
+		"name": "Demopolis",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7540
+			},
+			{
+				"year": 2010,
+				"population": 7483
+			}
+		]
+	},
+	{
+		"name": "Detroit",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 247
+			},
+			{
+				"year": 2010,
+				"population": 237
+			}
+		]
+	},
+	{
+		"name": "Dodge City",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 612
+			},
+			{
+				"year": 2010,
+				"population": 593
+			}
+		]
+	},
+	{
+		"name": "Dora",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2413
+			},
+			{
+				"year": 2010,
+				"population": 2025
+			}
+		]
+	},
+	{
+		"name": "Dothan",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 57737
+			},
+			{
+				"year": 2010,
+				"population": 65496
+			}
+		]
+	},
+	{
+		"name": "Double Springs",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1003
+			},
+			{
+				"year": 2010,
+				"population": 1083
+			}
+		]
+	},
+	{
+		"name": "Douglass",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 530
+			},
+			{
+				"year": 2010,
+				"population": 744
+			}
+		]
+	},
+	{
+		"name": "Dozier",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 391
+			},
+			{
+				"year": 2010,
+				"population": 329
+			}
+		]
+	},
+	{
+		"name": "Dutton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 310
+			},
+			{
+				"year": 2010,
+				"population": 315
+			}
+		]
+	},
+	{
+		"name": "East Brewton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2496
+			},
+			{
+				"year": 2010,
+				"population": 2478
+			}
+		]
+	},
+	{
+		"name": "Eclectic",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1037
+			},
+			{
+				"year": 2010,
+				"population": 1001
+			}
+		]
+	},
+	{
+		"name": "Edwardsville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 186
+			},
+			{
+				"year": 2010,
+				"population": 202
+			}
+		]
+	},
+	{
+		"name": "Elba",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4185
+			},
+			{
+				"year": 2010,
+				"population": 3940
+			}
+		]
+	},
+	{
+		"name": "Elberta",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 552
+			},
+			{
+				"year": 2010,
+				"population": 1498
+			}
+		]
+	},
+	{
+		"name": "Eldridge",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 184
+			},
+			{
+				"year": 2010,
+				"population": 130
+			}
+		]
+	},
+	{
+		"name": "Elkmont",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 470
+			},
+			{
+				"year": 2010,
+				"population": 434
+			}
+		]
+	},
+	{
+		"name": "Elmore",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 199
+			},
+			{
+				"year": 2010,
+				"population": 1262
+			}
+		]
+	},
+	{
+		"name": "Emelle",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 31
+			},
+			{
+				"year": 2010,
+				"population": 53
+			}
+		]
+	},
+	{
+		"name": "Enterprise",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 21178
+			},
+			{
+				"year": 2010,
+				"population": 26562
+			}
+		]
+	},
+	{
+		"name": "Epes",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 206
+			},
+			{
+				"year": 2010,
+				"population": 192
+			}
+		]
+	},
+	{
+		"name": "Ethelsville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 81
+			},
+			{
+				"year": 2010,
+				"population": 81
+			}
+		]
+	},
+	{
+		"name": "Eufaula",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 13908
+			},
+			{
+				"year": 2010,
+				"population": 13137
+			}
+		]
+	},
+	{
+		"name": "Eutaw",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1878
+			},
+			{
+				"year": 2010,
+				"population": 2934
+			}
+		]
+	},
+	{
+		"name": "Eva",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 491
+			},
+			{
+				"year": 2010,
+				"population": 519
+			}
+		]
+	},
+	{
+		"name": "Evergreen",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3630
+			},
+			{
+				"year": 2010,
+				"population": 3944
+			}
+		]
+	},
+	{
+		"name": "Excel",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 582
+			},
+			{
+				"year": 2010,
+				"population": 723
+			}
+		]
+	},
+	{
+		"name": "Fairfield",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 12381
+			},
+			{
+				"year": 2010,
+				"population": 11117
+			}
+		]
+	},
+	{
+		"name": "Fairhope",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 12480
+			},
+			{
+				"year": 2010,
+				"population": 15326
+			}
+		]
+	},
+	{
+		"name": "Fairview",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 522
+			},
+			{
+				"year": 2010,
+				"population": 446
+			}
+		]
+	},
+	{
+		"name": "Falkville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1202
+			},
+			{
+				"year": 2010,
+				"population": 1279
+			}
+		]
+	},
+	{
+		"name": "Faunsdale",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 87
+			},
+			{
+				"year": 2010,
+				"population": 98
+			}
+		]
+	},
+	{
+		"name": "Fayette",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4922
+			},
+			{
+				"year": 2010,
+				"population": 4619
+			}
+		]
+	},
+	{
+		"name": "Five Points",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 146
+			},
+			{
+				"year": 2010,
+				"population": 141
+			}
+		]
+	},
+	{
+		"name": "Flomaton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1588
+			},
+			{
+				"year": 2010,
+				"population": 1440
+			}
+		]
+	},
+	{
+		"name": "Florala",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1964
+			},
+			{
+				"year": 2010,
+				"population": 1980
+			}
+		]
+	},
+	{
+		"name": "Florence",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 36264
+			},
+			{
+				"year": 2010,
+				"population": 39319
+			}
+		]
+	},
+	{
+		"name": "Foley",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7590
+			},
+			{
+				"year": 2010,
+				"population": 14618
+			}
+		]
+	},
+	{
+		"name": "Forkland",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 629
+			},
+			{
+				"year": 2010,
+				"population": 649
+			}
+		]
+	},
+	{
+		"name": "Fort Deposit",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1270
+			},
+			{
+				"year": 2010,
+				"population": 1344
+			}
+		]
+	},
+	{
+		"name": "Fort Payne",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 12938
+			},
+			{
+				"year": 2010,
+				"population": 14012
+			}
+		]
+	},
+	{
+		"name": "Franklin",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 149
+			},
+			{
+				"year": 2010,
+				"population": 149
+			}
+		]
+	},
+	{
+		"name": "Frisco City",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1460
+			},
+			{
+				"year": 2010,
+				"population": 1309
+			}
+		]
+	},
+	{
+		"name": "Fruithurst",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 270
+			},
+			{
+				"year": 2010,
+				"population": 284
+			}
+		]
+	},
+	{
+		"name": "Fulton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 308
+			},
+			{
+				"year": 2010,
+				"population": 272
+			}
+		]
+	},
+	{
+		"name": "Fultondale",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 6595
+			},
+			{
+				"year": 2010,
+				"population": 8380
+			}
+		]
+	},
+	{
+		"name": "Fyffe",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 971
+			},
+			{
+				"year": 2010,
+				"population": 1018
+			}
+		]
+	},
+	{
+		"name": "Gadsden",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 38978
+			},
+			{
+				"year": 2010,
+				"population": 36856
+			}
+		]
+	},
+	{
+		"name": "Gainesville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 220
+			},
+			{
+				"year": 2010,
+				"population": 208
+			}
+		]
+	},
+	{
+		"name": "Gantt",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 241
+			},
+			{
+				"year": 2010,
+				"population": 222
+			}
+		]
+	},
+	{
+		"name": "Garden City",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 564
+			},
+			{
+				"year": 2010,
+				"population": 492
+			}
+		]
+	},
+	{
+		"name": "Gardendale",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 11626
+			},
+			{
+				"year": 2010,
+				"population": 13893
+			}
+		]
+	},
+	{
+		"name": "Gaylesville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 140
+			},
+			{
+				"year": 2010,
+				"population": 144
+			}
+		]
+	},
+	{
+		"name": "Geiger",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 161
+			},
+			{
+				"year": 2010,
+				"population": 170
+			}
+		]
+	},
+	{
+		"name": "Geneva",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4388
+			},
+			{
+				"year": 2010,
+				"population": 4452
+			}
+		]
+	},
+	{
+		"name": "Georgiana",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1737
+			},
+			{
+				"year": 2010,
+				"population": 1738
+			}
+		]
+	},
+	{
+		"name": "Geraldine",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 786
+			},
+			{
+				"year": 2010,
+				"population": 896
+			}
+		]
+	},
+	{
+		"name": "Gilbertown",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 187
+			},
+			{
+				"year": 2010,
+				"population": 215
+			}
+		]
+	},
+	{
+		"name": "Glen Allen",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 442
+			},
+			{
+				"year": 2010,
+				"population": 510
+			}
+		]
+	},
+	{
+		"name": "Glencoe",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 5152
+			},
+			{
+				"year": 2010,
+				"population": 5160
+			}
+		]
+	},
+	{
+		"name": "Glenwood",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 191
+			},
+			{
+				"year": 2010,
+				"population": 187
+			}
+		]
+	},
+	{
+		"name": "Goldville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 37
+			},
+			{
+				"year": 2010,
+				"population": 55
+			}
+		]
+	},
+	{
+		"name": "Good Hope",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1966
+			},
+			{
+				"year": 2010,
+				"population": 2264
+			}
+		]
+	},
+	{
+		"name": "Goodwater",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1633
+			},
+			{
+				"year": 2010,
+				"population": 1475
+			}
+		]
+	},
+	{
+		"name": "Gordo",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1677
+			},
+			{
+				"year": 2010,
+				"population": 1750
+			}
+		]
+	},
+	{
+		"name": "Gordon",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 408
+			},
+			{
+				"year": 2010,
+				"population": 332
+			}
+		]
+	},
+	{
+		"name": "Gordonville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 318
+			},
+			{
+				"year": 2010,
+				"population": 326
+			}
+		]
+	},
+	{
+		"name": "Goshen",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 300
+			},
+			{
+				"year": 2010,
+				"population": 266
+			}
+		]
+	},
+	{
+		"name": "Grant",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 665
+			},
+			{
+				"year": 2010,
+				"population": 896
+			}
+		]
+	},
+	{
+		"name": "Graysville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2344
+			},
+			{
+				"year": 2010,
+				"population": 2165
+			}
+		]
+	},
+	{
+		"name": "Greensboro",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2731
+			},
+			{
+				"year": 2010,
+				"population": 2497
+			}
+		]
+	},
+	{
+		"name": "Greenville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7228
+			},
+			{
+				"year": 2010,
+				"population": 8135
+			}
+		]
+	},
+	{
+		"name": "Grimes",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 459
+			},
+			{
+				"year": 2010,
+				"population": 558
+			}
+		]
+	},
+	{
+		"name": "Grove Hill",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1438
+			},
+			{
+				"year": 2010,
+				"population": 1570
+			}
+		]
+	},
+	{
+		"name": "Guin",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2389
+			},
+			{
+				"year": 2010,
+				"population": 2376
+			}
+		]
+	},
+	{
+		"name": "Gulf Shores",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 5044
+			},
+			{
+				"year": 2010,
+				"population": 9741
+			}
+		]
+	},
+	{
+		"name": "Guntersville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7395
+			},
+			{
+				"year": 2010,
+				"population": 8197
+			}
+		]
+	},
+	{
+		"name": "Gurley",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 876
+			},
+			{
+				"year": 2010,
+				"population": 801
+			}
+		]
+	},
+	{
+		"name": "Gu-Win",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 204
+			},
+			{
+				"year": 2010,
+				"population": 176
+			}
+		]
+	},
+	{
+		"name": "Hackleburg",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1527
+			},
+			{
+				"year": 2010,
+				"population": 1516
+			}
+		]
+	},
+	{
+		"name": "Haleburg",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 108
+			},
+			{
+				"year": 2010,
+				"population": 103
+			}
+		]
+	},
+	{
+		"name": "Haleyville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4182
+			},
+			{
+				"year": 2010,
+				"population": 4173
+			}
+		]
+	},
+	{
+		"name": "Hamilton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 6786
+			},
+			{
+				"year": 2010,
+				"population": 6885
+			}
+		]
+	},
+	{
+		"name": "Hammondville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 486
+			},
+			{
+				"year": 2010,
+				"population": 488
+			}
+		]
+	},
+	{
+		"name": "Hanceville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2951
+			},
+			{
+				"year": 2010,
+				"population": 2982
+			}
+		]
+	},
+	{
+		"name": "Harpersville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1620
+			},
+			{
+				"year": 2010,
+				"population": 1637
+			}
+		]
+	},
+	{
+		"name": "Hartford",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2369
+			},
+			{
+				"year": 2010,
+				"population": 2624
+			}
+		]
+	},
+	{
+		"name": "Hartselle",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 12019
+			},
+			{
+				"year": 2010,
+				"population": 14255
+			}
+		]
+	},
+	{
+		"name": "Hayden",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 470
+			},
+			{
+				"year": 2010,
+				"population": 444
+			}
+		]
+	},
+	{
+		"name": "Hayneville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1177
+			},
+			{
+				"year": 2010,
+				"population": 932
+			}
+		]
+	},
+	{
+		"name": "Headland",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3523
+			},
+			{
+				"year": 2010,
+				"population": 4510
+			}
+		]
+	},
+	{
+		"name": "Heath",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 249
+			},
+			{
+				"year": 2010,
+				"population": 254
+			}
+		]
+	},
+	{
+		"name": "Heflin",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3002
+			},
+			{
+				"year": 2010,
+				"population": 3480
+			}
+		]
+	},
+	{
+		"name": "Helena",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 10296
+			},
+			{
+				"year": 2010,
+				"population": 16793
+			}
+		]
+	},
+	{
+		"name": "Henagar",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2400
+			},
+			{
+				"year": 2010,
+				"population": 2344
+			}
+		]
+	},
+	{
+		"name": "Highland Lake",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 408
+			},
+			{
+				"year": 2010,
+				"population": 412
+			}
+		]
+	},
+	{
+		"name": "Hillsboro",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 608
+			},
+			{
+				"year": 2010,
+				"population": 552
+			}
+		]
+	},
+	{
+		"name": "Hobson City",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 878
+			},
+			{
+				"year": 2010,
+				"population": 771
+			}
+		]
+	},
+	{
+		"name": "Hodges",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 261
+			},
+			{
+				"year": 2010,
+				"population": 288
+			}
+		]
+	},
+	{
+		"name": "Hokes Bluff",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4149
+			},
+			{
+				"year": 2010,
+				"population": 4286
+			}
+		]
+	},
+	{
+		"name": "Holly Pond",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 645
+			},
+			{
+				"year": 2010,
+				"population": 798
+			}
+		]
+	},
+	{
+		"name": "Hollywood",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 950
+			},
+			{
+				"year": 2010,
+				"population": 1000
+			}
+		]
+	},
+	{
+		"name": "Homewood",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 25043
+			},
+			{
+				"year": 2010,
+				"population": 25167
+			}
+		]
+	},
+	{
+		"name": "Hoover",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 62742
+			},
+			{
+				"year": 2010,
+				"population": 81619
+			}
+		]
+	},
+	{
+		"name": "Horn Hill",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 235
+			},
+			{
+				"year": 2010,
+				"population": 228
+			}
+		]
+	},
+	{
+		"name": "Hueytown",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 15364
+			},
+			{
+				"year": 2010,
+				"population": 16105
+			}
+		]
+	},
+	{
+		"name": "Huntsville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 158216
+			},
+			{
+				"year": 2010,
+				"population": 180105
+			}
+		]
+	},
+	{
+		"name": "Hurtsboro",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 592
+			},
+			{
+				"year": 2010,
+				"population": 553
+			}
+		]
+	},
+	{
+		"name": "Hytop",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 315
+			},
+			{
+				"year": 2010,
+				"population": 354
+			}
+		]
+	},
+	{
+		"name": "Ider",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 664
+			},
+			{
+				"year": 2010,
+				"population": 723
+			}
+		]
+	},
+	{
+		"name": "Indian Springs Village",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2225
+			},
+			{
+				"year": 2010,
+				"population": 2363
+			}
+		]
+	},
+	{
+		"name": "Irondale",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 9813
+			},
+			{
+				"year": 2010,
+				"population": 12349
+			}
+		]
+	},
+	{
+		"name": "Jackson",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 5419
+			},
+			{
+				"year": 2010,
+				"population": 5228
+			}
+		]
+	},
+	{
+		"name": "Jackson's Gap",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 762
+			},
+			{
+				"year": 2010,
+				"population": 829
+			}
+		]
+	},
+	{
+		"name": "Jacksonville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 8404
+			},
+			{
+				"year": 2010,
+				"population": 12548
+			}
+		]
+	},
+	{
+		"name": "Jasper",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 14052
+			},
+			{
+				"year": 2010,
+				"population": 13857
+			}
+		]
+	},
+	{
+		"name": "Jemison",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2248
+			},
+			{
+				"year": 2010,
+				"population": 2585
+			}
+		]
+	},
+	{
+		"name": "Kansas",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 260
+			},
+			{
+				"year": 2010,
+				"population": 226
+			}
+		]
+	},
+	{
+		"name": "Kellyton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 217
+			}
+		]
+	},
+	{
+		"name": "Kennedy",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 541
+			},
+			{
+				"year": 2010,
+				"population": 447
+			}
+		]
+	},
+	{
+		"name": "Killen",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1119
+			},
+			{
+				"year": 2010,
+				"population": 1108
+			}
+		]
+	},
+	{
+		"name": "Kimberly",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1801
+			},
+			{
+				"year": 2010,
+				"population": 2711
+			}
+		]
+	},
+	{
+		"name": "Kinsey",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1796
+			},
+			{
+				"year": 2010,
+				"population": 2198
+			}
+		]
+	},
+	{
+		"name": "Kinston",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 602
+			},
+			{
+				"year": 2010,
+				"population": 540
+			}
+		]
+	},
+	{
+		"name": "La Fayette",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3234
+			},
+			{
+				"year": 2010,
+				"population": 3003
+			}
+		]
+	},
+	{
+		"name": "Lake View",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1357
+			},
+			{
+				"year": 2010,
+				"population": 1943
+			}
+		]
+	},
+	{
+		"name": "Lakeview",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 163
+			},
+			{
+				"year": 2010,
+				"population": 143
+			}
+		]
+	},
+	{
+		"name": "Lanette",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7897
+			},
+			{
+				"year": 2010,
+				"population": 6468
+			}
+		]
+	},
+	{
+		"name": "Langston",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 254
+			},
+			{
+				"year": 2010,
+				"population": 270
+			}
+		]
+	},
+	{
+		"name": "Leeds",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 10455
+			},
+			{
+				"year": 2010,
+				"population": 11773
+			}
+		]
+	},
+	{
+		"name": "Leesburg",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 799
+			},
+			{
+				"year": 2010,
+				"population": 1027
+			}
+		]
+	},
+	{
+		"name": "Leighton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 849
+			},
+			{
+				"year": 2010,
+				"population": 729
+			}
+		]
+	},
+	{
+		"name": "Lester",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 107
+			},
+			{
+				"year": 2010,
+				"population": 111
+			}
+		]
+	},
+	{
+		"name": "Level Plains",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1544
+			},
+			{
+				"year": 2010,
+				"population": 2085
+			}
+		]
+	},
+	{
+		"name": "Lexington",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 840
+			},
+			{
+				"year": 2010,
+				"population": 735
+			}
+		]
+	},
+	{
+		"name": "Libertyville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 106
+			},
+			{
+				"year": 2010,
+				"population": 117
+			}
+		]
+	},
+	{
+		"name": "Lincoln",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4577
+			},
+			{
+				"year": 2010,
+				"population": 6266
+			}
+		]
+	},
+	{
+		"name": "Linden",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2424
+			},
+			{
+				"year": 2010,
+				"population": 2123
+			}
+		]
+	},
+	{
+		"name": "Lineville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2401
+			},
+			{
+				"year": 2010,
+				"population": 2395
+			}
+		]
+	},
+	{
+		"name": "Lipscomb",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2458
+			},
+			{
+				"year": 2010,
+				"population": 2210
+			}
+		]
+	},
+	{
+		"name": "Lisman",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 653
+			},
+			{
+				"year": 2010,
+				"population": 539
+			}
+		]
+	},
+	{
+		"name": "Littleville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 978
+			},
+			{
+				"year": 2010,
+				"population": 1011
+			}
+		]
+	},
+	{
+		"name": "Livingston",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3297
+			},
+			{
+				"year": 2010,
+				"population": 3485
+			}
+		]
+	},
+	{
+		"name": "Loachapoka",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 165
+			},
+			{
+				"year": 2010,
+				"population": 180
+			}
+		]
+	},
+	{
+		"name": "Lockhart",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 548
+			},
+			{
+				"year": 2010,
+				"population": 516
+			}
+		]
+	},
+	{
+		"name": "Locust Fork",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1016
+			},
+			{
+				"year": 2010,
+				"population": 1186
+			}
+		]
+	},
+	{
+		"name": "Louisville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 612
+			},
+			{
+				"year": 2010,
+				"population": 519
+			}
+		]
+	},
+	{
+		"name": "Lowndesboro",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 140
+			},
+			{
+				"year": 2010,
+				"population": 115
+			}
+		]
+	},
+	{
+		"name": "Loxley",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1348
+			},
+			{
+				"year": 2010,
+				"population": 1632
+			}
+		]
+	},
+	{
+		"name": "Luverne",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2635
+			},
+			{
+				"year": 2010,
+				"population": 2800
+			}
+		]
+	},
+	{
+		"name": "Lynn",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 597
+			},
+			{
+				"year": 2010,
+				"population": 659
+			}
+		]
+	},
+	{
+		"name": "Madison",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 29329
+			},
+			{
+				"year": 2010,
+				"population": 42938
+			}
+		]
+	},
+	{
+		"name": "Madrid",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 303
+			},
+			{
+				"year": 2010,
+				"population": 350
+			}
+		]
+	},
+	{
+		"name": "Magnolia Springs",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 723
+			}
+		]
+	},
+	{
+		"name": "Malvern",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1215
+			},
+			{
+				"year": 2010,
+				"population": 1448
+			}
+		]
+	},
+	{
+		"name": "Maplesville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 672
+			},
+			{
+				"year": 2010,
+				"population": 708
+			}
+		]
+	},
+	{
+		"name": "Margaret",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1169
+			},
+			{
+				"year": 2010,
+				"population": 4428
+			}
+		]
+	},
+	{
+		"name": "Marion",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3511
+			},
+			{
+				"year": 2010,
+				"population": 3686
+			}
+		]
+	},
+	{
+		"name": "Maytown",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 435
+			},
+			{
+				"year": 2010,
+				"population": 385
+			}
+		]
+	},
+	{
+		"name": "McIntosh",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 244
+			},
+			{
+				"year": 2010,
+				"population": 238
+			}
+		]
+	},
+	{
+		"name": "McKenzie",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 644
+			},
+			{
+				"year": 2010,
+				"population": 530
+			}
+		]
+	},
+	{
+		"name": "McMullen",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 66
+			},
+			{
+				"year": 2010,
+				"population": 10
+			}
+		]
+	},
+	{
+		"name": "Memphis",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 33
+			},
+			{
+				"year": 2010,
+				"population": 29
+			}
+		]
+	},
+	{
+		"name": "Mentone",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 451
+			},
+			{
+				"year": 2010,
+				"population": 360
+			}
+		]
+	},
+	{
+		"name": "Midfield",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 5626
+			},
+			{
+				"year": 2010,
+				"population": 5365
+			}
+		]
+	},
+	{
+		"name": "Midland City",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1703
+			},
+			{
+				"year": 2010,
+				"population": 2344
+			}
+		]
+	},
+	{
+		"name": "Midway",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 457
+			},
+			{
+				"year": 2010,
+				"population": 499
+			}
+		]
+	},
+	{
+		"name": "Millbrook",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 10386
+			},
+			{
+				"year": 2010,
+				"population": 14640
+			}
+		]
+	},
+	{
+		"name": "Millport",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1160
+			},
+			{
+				"year": 2010,
+				"population": 1049
+			}
+		]
+	},
+	{
+		"name": "Millry",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 615
+			},
+			{
+				"year": 2010,
+				"population": 546
+			}
+		]
+	},
+	{
+		"name": "Mobile",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 198915
+			},
+			{
+				"year": 2010,
+				"population": 195111
+			}
+		]
+	},
+	{
+		"name": "Monroeville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 6862
+			},
+			{
+				"year": 2010,
+				"population": 6519
+			}
+		]
+	},
+	{
+		"name": "Montevallo",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4825
+			},
+			{
+				"year": 2010,
+				"population": 6323
+			}
+		]
+	},
+	{
+		"name": "Montgomery",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 201568
+			},
+			{
+				"year": 2010,
+				"population": 205764
+			}
+		]
+	},
+	{
+		"name": "Moody",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 8053
+			},
+			{
+				"year": 2010,
+				"population": 11726
+			}
+		]
+	},
+	{
+		"name": "Mooresville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 59
+			},
+			{
+				"year": 2010,
+				"population": 53
+			}
+		]
+	},
+	{
+		"name": "Morris",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1827
+			},
+			{
+				"year": 2010,
+				"population": 1859
+			}
+		]
+	},
+	{
+		"name": "Mosses",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1101
+			},
+			{
+				"year": 2010,
+				"population": 1029
+			}
+		]
+	},
+	{
+		"name": "Moulton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3260
+			},
+			{
+				"year": 2010,
+				"population": 3471
+			}
+		]
+	},
+	{
+		"name": "Moundville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1809
+			},
+			{
+				"year": 2010,
+				"population": 2427
+			}
+		]
+	},
+	{
+		"name": "Mount Vernon",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 844
+			},
+			{
+				"year": 2010,
+				"population": 1574
+			}
+		]
+	},
+	{
+		"name": "Mountain Brook",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 20604
+			},
+			{
+				"year": 2010,
+				"population": 20413
+			}
+		]
+	},
+	{
+		"name": "Mulga",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 973
+			},
+			{
+				"year": 2010,
+				"population": 836
+			}
+		]
+	},
+	{
+		"name": "Munford",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 1292
+			}
+		]
+	},
+	{
+		"name": "Muscle Shoals",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 11924
+			},
+			{
+				"year": 2010,
+				"population": 13146
+			}
+		]
+	},
+	{
+		"name": "Myrtlewood",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 139
+			},
+			{
+				"year": 2010,
+				"population": 130
+			}
+		]
+	},
+	{
+		"name": "Napier Field",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 404
+			},
+			{
+				"year": 2010,
+				"population": 354
+			}
+		]
+	},
+	{
+		"name": "Natual Bridge",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 28
+			},
+			{
+				"year": 2010,
+				"population": 37
+			}
+		]
+	},
+	{
+		"name": "Nauvoo",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 284
+			},
+			{
+				"year": 2010,
+				"population": 221
+			}
+		]
+	},
+	{
+		"name": "Nectar",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 372
+			},
+			{
+				"year": 2010,
+				"population": 345
+			}
+		]
+	},
+	{
+		"name": "Needham",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 97
+			},
+			{
+				"year": 2010,
+				"population": 94
+			}
+		]
+	},
+	{
+		"name": "New Brockton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1250
+			},
+			{
+				"year": 2010,
+				"population": 1146
+			}
+		]
+	},
+	{
+		"name": "New Hope",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2539
+			},
+			{
+				"year": 2010,
+				"population": 2810
+			}
+		]
+	},
+	{
+		"name": "New Site",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 848
+			},
+			{
+				"year": 2010,
+				"population": 773
+			}
+		]
+	},
+	{
+		"name": "Newbern",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 231
+			},
+			{
+				"year": 2010,
+				"population": 186
+			}
+		]
+	},
+	{
+		"name": "Newton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1708
+			},
+			{
+				"year": 2010,
+				"population": 1511
+			}
+		]
+	},
+	{
+		"name": "Newville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 553
+			},
+			{
+				"year": 2010,
+				"population": 539
+			}
+		]
+	},
+	{
+		"name": "North Courtland",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 799
+			},
+			{
+				"year": 2010,
+				"population": 632
+			}
+		]
+	},
+	{
+		"name": "North Johns",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 142
+			},
+			{
+				"year": 2010,
+				"population": 145
+			}
+		]
+	},
+	{
+		"name": "Northport",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 19435
+			},
+			{
+				"year": 2010,
+				"population": 23330
+			}
+		]
+	},
+	{
+		"name": "Notasulga",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 916
+			},
+			{
+				"year": 2010,
+				"population": 965
+			}
+		]
+	},
+	{
+		"name": "Oak Grove",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 457
+			},
+			{
+				"year": 2010,
+				"population": 528
+			}
+		]
+	},
+	{
+		"name": "Oak Hill",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 37
+			},
+			{
+				"year": 2010,
+				"population": 26
+			}
+		]
+	},
+	{
+		"name": "Oakman",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 944
+			},
+			{
+				"year": 2010,
+				"population": 789
+			}
+		]
+	},
+	{
+		"name": "Odenville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1131
+			},
+			{
+				"year": 2010,
+				"population": 3585
+			}
+		]
+	},
+	{
+		"name": "Ohatchee",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1215
+			},
+			{
+				"year": 2010,
+				"population": 1170
+			}
+		]
+	},
+	{
+		"name": "Oneonta",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 5576
+			},
+			{
+				"year": 2010,
+				"population": 6567
+			}
+		]
+	},
+	{
+		"name": "Onycha",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 208
+			},
+			{
+				"year": 2010,
+				"population": 184
+			}
+		]
+	},
+	{
+		"name": "Opelika",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 23498
+			},
+			{
+				"year": 2010,
+				"population": 26477
+			}
+		]
+	},
+	{
+		"name": "Opp",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 6607
+			},
+			{
+				"year": 2010,
+				"population": 6659
+			}
+		]
+	},
+	{
+		"name": "Orange Beach",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3784
+			},
+			{
+				"year": 2010,
+				"population": 5441
+			}
+		]
+	},
+	{
+		"name": "Orrville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 230
+			},
+			{
+				"year": 2010,
+				"population": 204
+			}
+		]
+	},
+	{
+		"name": "Ownes Cross Roads",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1124
+			},
+			{
+				"year": 2010,
+				"population": 1521
+			}
+		]
+	},
+	{
+		"name": "Oxford",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 14592
+			},
+			{
+				"year": 2010,
+				"population": 21348
+			}
+		]
+	},
+	{
+		"name": "Ozark",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 15119
+			},
+			{
+				"year": 2010,
+				"population": 14907
+			}
+		]
+	},
+	{
+		"name": "Paint Rock",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 185
+			},
+			{
+				"year": 2010,
+				"population": 210
+			}
+		]
+	},
+	{
+		"name": "Parrish",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1268
+			},
+			{
+				"year": 2010,
+				"population": 982
+			}
+		]
+	},
+	{
+		"name": "Pilham",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 14369
+			},
+			{
+				"year": 2010,
+				"population": 21352
+			}
+		]
+	},
+	{
+		"name": "Pell City",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 9565
+			},
+			{
+				"year": 2010,
+				"population": 12695
+			}
+		]
+	},
+	{
+		"name": "Pennington",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 353
+			},
+			{
+				"year": 2010,
+				"population": 221
+			}
+		]
+	},
+	{
+		"name": "Perdido Beach",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 581
+			}
+		]
+	},
+	{
+		"name": "Petrey",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 63
+			},
+			{
+				"year": 2010,
+				"population": 58
+			}
+		]
+	},
+	{
+		"name": "Phenix City",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 28265
+			},
+			{
+				"year": 2010,
+				"population": 32822
+			}
+		]
+	},
+	{
+		"name": "Phil Campbell",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1091
+			},
+			{
+				"year": 2010,
+				"population": 1148
+			}
+		]
+	},
+	{
+		"name": "Pickensville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 662
+			},
+			{
+				"year": 2010,
+				"population": 608
+			}
+		]
+	},
+	{
+		"name": "Peidmont",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 5120
+			},
+			{
+				"year": 2010,
+				"population": 4878
+			}
+		]
+	},
+	{
+		"name": "Pike Road",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 310
+			},
+			{
+				"year": 2010,
+				"population": 5406
+			}
+		]
+	},
+	{
+		"name": "Pinckard",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 667
+			},
+			{
+				"year": 2010,
+				"population": 647
+			}
+		]
+	},
+	{
+		"name": "Pine Apple",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 145
+			},
+			{
+				"year": 2010,
+				"population": 132
+			}
+		]
+	},
+	{
+		"name": "Pine Hill",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 966
+			},
+			{
+				"year": 2010,
+				"population": 975
+			}
+		]
+	},
+	{
+		"name": "Pine Ridge",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 243
+			},
+			{
+				"year": 2010,
+				"population": 282
+			}
+		]
+	},
+	{
+		"name": "Pinson",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 7163
+			}
+		]
+	},
+	{
+		"name": "Pisgah",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 706
+			},
+			{
+				"year": 2010,
+				"population": 722
+			}
+		]
+	},
+	{
+		"name": "Pleasant Grove",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 9983
+			},
+			{
+				"year": 2010,
+				"population": 10110
+			}
+		]
+	},
+	{
+		"name": "Pleasant Groves",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 447
+			},
+			{
+				"year": 2010,
+				"population": 420
+			}
+		]
+	},
+	{
+		"name": "Pollard",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 120
+			},
+			{
+				"year": 2010,
+				"population": 137
+			}
+		]
+	},
+	{
+		"name": "Powell",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 926
+			},
+			{
+				"year": 2010,
+				"population": 955
+			}
+		]
+	},
+	{
+		"name": "Prattville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 24303
+			},
+			{
+				"year": 2010,
+				"population": 33960
+			}
+		]
+	},
+	{
+		"name": "Princeville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1631
+			},
+			{
+				"year": 2010,
+				"population": 2658
+			}
+		]
+	},
+	{
+		"name": "Prichard",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 28633
+			},
+			{
+				"year": 2010,
+				"population": 22659
+			}
+		]
+	},
+	{
+		"name": "Providence",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 311
+			},
+			{
+				"year": 2010,
+				"population": 223
+			}
+		]
+	},
+	{
+		"name": "Ragland",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1918
+			},
+			{
+				"year": 2010,
+				"population": 1639
+			}
+		]
+	},
+	{
+		"name": "Rainbow City",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 8428
+			},
+			{
+				"year": 2010,
+				"population": 9602
+			}
+		]
+	},
+	{
+		"name": "Rainsville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4499
+			},
+			{
+				"year": 2010,
+				"population": 4948
+			}
+		]
+	},
+	{
+		"name": "Ranburne",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 459
+			},
+			{
+				"year": 2010,
+				"population": 409
+			}
+		]
+	},
+	{
+		"name": "Red Bay",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3374
+			},
+			{
+				"year": 2010,
+				"population": 3158
+			}
+		]
+	},
+	{
+		"name": "Red Level",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 556
+			},
+			{
+				"year": 2010,
+				"population": 487
+			}
+		]
+	},
+	{
+		"name": "Reece City",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 634
+			},
+			{
+				"year": 2010,
+				"population": 653
+			}
+		]
+	},
+	{
+		"name": "Reform",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1978
+			},
+			{
+				"year": 2010,
+				"population": 1702
+			}
+		]
+	},
+	{
+		"name": "Rehobeth",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 993
+			},
+			{
+				"year": 2010,
+				"population": 1297
+			}
+		]
+	},
+	{
+		"name": "Repton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 280
+			},
+			{
+				"year": 2010,
+				"population": 282
+			}
+		]
+	},
+	{
+		"name": "Redgeville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 158
+			},
+			{
+				"year": 2010,
+				"population": 112
+			}
+		]
+	},
+	{
+		"name": "River Falls",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 616
+			},
+			{
+				"year": 2010,
+				"population": 526
+			}
+		]
+	},
+	{
+		"name": "Riverside",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1564
+			},
+			{
+				"year": 2010,
+				"population": 2208
+			}
+		]
+	},
+	{
+		"name": "Riverview",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 99
+			},
+			{
+				"year": 2010,
+				"population": 184
+			}
+		]
+	},
+	{
+		"name": "Roanoke",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 6563
+			},
+			{
+				"year": 2010,
+				"population": 6074
+			}
+		]
+	},
+	{
+		"name": "Robersdale",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3782
+			},
+			{
+				"year": 2010,
+				"population": 5276
+			}
+		]
+	},
+	{
+		"name": "Rockford",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 428
+			},
+			{
+				"year": 2010,
+				"population": 477
+			}
+		]
+	},
+	{
+		"name": "Rogersville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1199
+			},
+			{
+				"year": 2010,
+				"population": 1257
+			}
+		]
+	},
+	{
+		"name": "Rosa",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 313
+			},
+			{
+				"year": 2010,
+				"population": 316
+			}
+		]
+	},
+	{
+		"name": "Russellville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 8971
+			},
+			{
+				"year": 2010,
+				"population": 9830
+			}
+		]
+	},
+	{
+		"name": "Rutledge",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 476
+			},
+			{
+				"year": 2010,
+				"population": 467
+			}
+		]
+	},
+	{
+		"name": "St. Florian",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 335
+			},
+			{
+				"year": 2010,
+				"population": 413
+			}
+		]
+	},
+	{
+		"name": "Samson",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2071
+			},
+			{
+				"year": 2010,
+				"population": 1940
+			}
+		]
+	},
+	{
+		"name": "Sand Rock",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 509
+			},
+			{
+				"year": 2010,
+				"population": 560
+			}
+		]
+	},
+	{
+		"name": "Sanford",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 269
+			},
+			{
+				"year": 2010,
+				"population": 241
+			}
+		]
+	},
+	{
+		"name": "Saraland",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 12288
+			},
+			{
+				"year": 2010,
+				"population": 13405
+			}
+		]
+	},
+	{
+		"name": "Sardis City",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1438
+			},
+			{
+				"year": 2010,
+				"population": 1704
+			}
+		]
+	},
+	{
+		"name": "Satsuma",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 5687
+			},
+			{
+				"year": 2010,
+				"population": 6168
+			}
+		]
+	},
+	{
+		"name": "Scottsboro",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 14762
+			},
+			{
+				"year": 2010,
+				"population": 14770
+			}
+		]
+	},
+	{
+		"name": "Section",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 769
+			},
+			{
+				"year": 2010,
+				"population": 770
+			}
+		]
+	},
+	{
+		"name": "Selma",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 20512
+			},
+			{
+				"year": 2010,
+				"population": 20756
+			}
+		]
+	},
+	{
+		"name": "Sheffield",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 9652
+			},
+			{
+				"year": 2010,
+				"population": 9039
+			}
+		]
+	},
+	{
+		"name": "Shiloh",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 289
+			},
+			{
+				"year": 2010,
+				"population": 274
+			}
+		]
+	},
+	{
+		"name": "Shorter",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 355
+			},
+			{
+				"year": 2010,
+				"population": 474
+			}
+		]
+	},
+	{
+		"name": "Silas",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 529
+			},
+			{
+				"year": 2010,
+				"population": 452
+			}
+		]
+	},
+	{
+		"name": "Silverhill",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 616
+			},
+			{
+				"year": 2010,
+				"population": 706
+			}
+		]
+	},
+	{
+		"name": "Sipsey",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 552
+			},
+			{
+				"year": 2010,
+				"population": 437
+			}
+		]
+	},
+	{
+		"name": "Skyline",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 843
+			},
+			{
+				"year": 2010,
+				"population": 851
+			}
+		]
+	},
+	{
+		"name": "Slocomb",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2052
+			},
+			{
+				"year": 2010,
+				"population": 1980
+			}
+		]
+	},
+	{
+		"name": "Smiths Station",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 4926
+			}
+		]
+	},
+	{
+		"name": "Snead",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 748
+			},
+			{
+				"year": 2010,
+				"population": 835
+			}
+		]
+	},
+	{
+		"name": "Somerville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 347
+			},
+			{
+				"year": 2010,
+				"population": 724
+			}
+		]
+	},
+	{
+		"name": "South Vinemont",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 425
+			},
+			{
+				"year": 2010,
+				"population": 749
+			}
+		]
+	},
+	{
+		"name": "Southside",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7036
+			},
+			{
+				"year": 2010,
+				"population": 8412
+			}
+		]
+	},
+	{
+		"name": "Spanish Fort",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 5423
+			},
+			{
+				"year": 2010,
+				"population": 6798
+			}
+		]
+	},
+	{
+		"name": "Springville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2521
+			},
+			{
+				"year": 2010,
+				"population": 4080
+			}
+		]
+	},
+	{
+		"name": "Steele",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1093
+			},
+			{
+				"year": 2010,
+				"population": 1043
+			}
+		]
+	},
+	{
+		"name": "Stevenson",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1770
+			},
+			{
+				"year": 2010,
+				"population": 2046
+			}
+		]
+	},
+	{
+		"name": "Sulligent",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2151
+			},
+			{
+				"year": 2010,
+				"population": 1927
+			}
+		]
+	},
+	{
+		"name": "Sumiton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2665
+			},
+			{
+				"year": 2010,
+				"population": 2520
+			}
+		]
+	},
+	{
+		"name": "Summerdale",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 655
+			},
+			{
+				"year": 2010,
+				"population": 862
+			}
+		]
+	},
+	{
+		"name": "Susan Moore",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 721
+			},
+			{
+				"year": 2010,
+				"population": 763
+			}
+		]
+	},
+	{
+		"name": "Sweet Water",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 234
+			},
+			{
+				"year": 2010,
+				"population": 258
+			}
+		]
+	},
+	{
+		"name": "Sylacauga",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 12616
+			},
+			{
+				"year": 2010,
+				"population": 12749
+			}
+		]
+	},
+	{
+		"name": "Sylvan Spring",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1465
+			},
+			{
+				"year": 2010,
+				"population": 1542
+			}
+		]
+	},
+	{
+		"name": "Sylvania",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1186
+			},
+			{
+				"year": 2010,
+				"population": 1837
+			}
+		]
+	},
+	{
+		"name": "Talladega Springs",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 124
+			},
+			{
+				"year": 2010,
+				"population": 166
+			}
+		]
+	},
+	{
+		"name": "Talladega",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 15143
+			},
+			{
+				"year": 2010,
+				"population": 15676
+			}
+		]
+	},
+	{
+		"name": "Tallassee",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4934
+			},
+			{
+				"year": 2010,
+				"population": 4819
+			}
+		]
+	},
+	{
+		"name": "Tarrant",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7022
+			},
+			{
+				"year": 2010,
+				"population": 6397
+			}
+		]
+	},
+	{
+		"name": "Taylor",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1898
+			},
+			{
+				"year": 2010,
+				"population": 2375
+			}
+		]
+	},
+	{
+		"name": "Thomaston",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 383
+			},
+			{
+				"year": 2010,
+				"population": 417
+			}
+		]
+	},
+	{
+		"name": "Thomasville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4649
+			},
+			{
+				"year": 2010,
+				"population": 4209
+			}
+		]
+	},
+	{
+		"name": "Thorsby",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1820
+			},
+			{
+				"year": 2010,
+				"population": 1980
+			}
+		]
+	},
+	{
+		"name": "Thown Creek",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1216
+			},
+			{
+				"year": 2010,
+				"population": 1100
+			}
+		]
+	},
+	{
+		"name": "Toxey",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 152
+			},
+			{
+				"year": 2010,
+				"population": 137
+			}
+		]
+	},
+	{
+		"name": "Trafford",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 523
+			},
+			{
+				"year": 2010,
+				"population": 646
+			}
+		]
+	},
+	{
+		"name": "Triana",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 458
+			},
+			{
+				"year": 2010,
+				"population": 496
+			}
+		]
+	},
+	{
+		"name": "Trinity",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1841
+			},
+			{
+				"year": 2010,
+				"population": 2095
+			}
+		]
+	},
+	{
+		"name": "Troy",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 13935
+			},
+			{
+				"year": 2010,
+				"population": 18033
+			}
+		]
+	},
+	{
+		"name": "Trussville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 12924
+			},
+			{
+				"year": 2010,
+				"population": 19933
+			}
+		]
+	},
+	{
+		"name": "Tuscalossa",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 77906
+			},
+			{
+				"year": 2010,
+				"population": 90468
+			}
+		]
+	},
+	{
+		"name": "Tuscumbia",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 7856
+			},
+			{
+				"year": 2010,
+				"population": 8423
+			}
+		]
+	},
+	{
+		"name": "Tuskegee",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 11846
+			},
+			{
+				"year": 2010,
+				"population": 9865
+			}
+		]
+	},
+	{
+		"name": "Twin",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 399
+			}
+		]
+	},
+	{
+		"name": "Union Grove",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 94
+			},
+			{
+				"year": 2010,
+				"population": 77
+			}
+		]
+	},
+	{
+		"name": "Union Springs",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3670
+			},
+			{
+				"year": 2010,
+				"population": 3980
+			}
+		]
+	},
+	{
+		"name": "Union",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 227
+			},
+			{
+				"year": 2010,
+				"population": 237
+			}
+		]
+	},
+	{
+		"name": "Uniontown",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1636
+			},
+			{
+				"year": 2010,
+				"population": 1775
+			}
+		]
+	},
+	{
+		"name": "Valley",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 9198
+			},
+			{
+				"year": 2010,
+				"population": 9524
+			}
+		]
+	},
+	{
+		"name": "Valley Grande",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 4020
+			}
+		]
+	},
+	{
+		"name": "Valley Head",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 611
+			},
+			{
+				"year": 2010,
+				"population": 558
+			}
+		]
+	},
+	{
+		"name": "Vance",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 500
+			},
+			{
+				"year": 2010,
+				"population": 1529
+			}
+		]
+	},
+	{
+		"name": "Vernon",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2143
+			},
+			{
+				"year": 2010,
+				"population": 2000
+			}
+		]
+	},
+	{
+		"name": "Vestavia Hills",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 24476
+			},
+			{
+				"year": 2010,
+				"population": 34033
+			}
+		]
+	},
+	{
+		"name": "Vina",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 400
+			},
+			{
+				"year": 2010,
+				"population": 358
+			}
+		]
+	},
+	{
+		"name": "Vincent",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1853
+			},
+			{
+				"year": 2010,
+				"population": 1988
+			}
+		]
+	},
+	{
+		"name": "Vredenburgh",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 327
+			},
+			{
+				"year": 2010,
+				"population": 312
+			}
+		]
+	},
+	{
+		"name": "Wadley",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 640
+			},
+			{
+				"year": 2010,
+				"population": 751
+			}
+		]
+	},
+	{
+		"name": "Waldo",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 281
+			},
+			{
+				"year": 2010,
+				"population": 283
+			}
+		]
+	},
+	{
+		"name": "Walnut Grove",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 710
+			},
+			{
+				"year": 2010,
+				"population": 698
+			}
+		]
+	},
+	{
+		"name": "Warrior",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 3169
+			},
+			{
+				"year": 2010,
+				"population": 3176
+			}
+		]
+	},
+	{
+		"name": "Waterloo",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 208
+			},
+			{
+				"year": 2010,
+				"population": 203
+			}
+		]
+	},
+	{
+		"name": "Waverly",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 184
+			},
+			{
+				"year": 2010,
+				"population": 145
+			}
+		]
+	},
+	{
+		"name": "Weaver",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2619
+			},
+			{
+				"year": 2010,
+				"population": 3038
+			}
+		]
+	},
+	{
+		"name": "Webb",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1298
+			},
+			{
+				"year": 2010,
+				"population": 1430
+			}
+		]
+	},
+	{
+		"name": "Wedowee",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 818
+			},
+			{
+				"year": 2010,
+				"population": 823
+			}
+		]
+	},
+	{
+		"name": "West Blocton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1372
+			},
+			{
+				"year": 2010,
+				"population": 1240
+			}
+		]
+	},
+	{
+		"name": "West Jefferson",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 344
+			},
+			{
+				"year": 2010,
+				"population": 338
+			}
+		]
+	},
+	{
+		"name": "West Point",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 295
+			},
+			{
+				"year": 2010,
+				"population": 586
+			}
+		]
+	},
+	{
+		"name": "Westover",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2010,
+				"population": 1275
+			}
+		]
+	},
+	{
+		"name": "Wetumpka",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 5726
+			},
+			{
+				"year": 2010,
+				"population": 6528
+			}
+		]
+	},
+	{
+		"name": "White Hall",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1014
+			},
+			{
+				"year": 2010,
+				"population": 858
+			}
+		]
+	},
+	{
+		"name": "Wilsonville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 1551
+			},
+			{
+				"year": 2010,
+				"population": 1827
+			}
+		]
+	},
+	{
+		"name": "Wilton",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 580
+			},
+			{
+				"year": 2010,
+				"population": 687
+			}
+		]
+	},
+	{
+		"name": "Winfield",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 4540
+			},
+			{
+				"year": 2010,
+				"population": 4717
+			}
+		]
+	},
+	{
+		"name": "Woodland",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 192
+			},
+			{
+				"year": 2010,
+				"population": 184
+			}
+		]
+	},
+	{
+		"name": "Woodstock",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 986
+			},
+			{
+				"year": 2010,
+				"population": 1428
+			}
+		]
+	},
+	{
+		"name": "Woodville",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 761
+			},
+			{
+				"year": 2010,
+				"population": 746
+			}
+		]
+	},
+	{
+		"name": "Yellow Bluff",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 181
+			},
+			{
+				"year": 2010,
+				"population": 188
+			}
+		]
+	},
+	{
+		"name": "York",
+		"state": "Alabama",
+		"population": [
+			{
+				"year": 2000,
+				"population": 2854
+			},
+			{
+				"year": 2010,
+				"population": 2538
+			}
+		]
 	}
 ]

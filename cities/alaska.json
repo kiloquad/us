@@ -1,578 +1,578 @@
 [
   {
-		"city": "Adak",
+		"name": "Adak",
 		"state": "Alaska"
 	},
   {
-		"city": "Akhiok",
+		"name": "Akhiok",
 		"state": "Alaska"
 	},
   {
-		"city": "Akiak",
+		"name": "Akiak",
 		"state": "Alaska"
 	},
   {
-		"city": "Akutan",
+		"name": "Akutan",
 		"state": "Alaska"
 	},
   {
-		"city": "Alakanuk",
+		"name": "Alakanuk",
 		"state": "Alaska"
 	},
   {
-		"city": "Aleknagik",
+		"name": "Aleknagik",
 		"state": "Alaska"
 	},
   {
-		"city": "Allakaket",
+		"name": "Allakaket",
 		"state": "Alaska"
 	},
   {
-		"city": "Ambler",
+		"name": "Ambler",
 		"state": "Alaska"
 	},
   {
-		"city": "Anaktuvuk Pass",
+		"name": "Anaktuvuk Pass",
 		"state": "Alaska"
 	},
   {
-		"city": "Anchorage",
+		"name": "Anchorage",
 		"state": "Alaska"
 	},
   {
-		"city": "Anderson",
+		"name": "Anderson",
 		"state": "Alaska"
 	},
   {
-		"city": "Angoon",
+		"name": "Angoon",
 		"state": "Alaska"
 	},
   {
-		"city": "Aniak",
+		"name": "Aniak",
 		"state": "Alaska"
 	},
   {
-		"city": "Anvik",
+		"name": "Anvik",
 		"state": "Alaska"
 	},
   {
-		"city": "Atka",
+		"name": "Atka",
 		"state": "Alaska"
 	},
   {
-		"city": "Atqasuk",
+		"name": "Atqasuk",
 		"state": "Alaska"
 	},
   {
-		"city": "Barrow",
+		"name": "Barrow",
 		"state": "Alaska"
 	},
   {
-		"city": "Bethel",
+		"name": "Bethel",
 		"state": "Alaska"
 	},
   {
-		"city": "Bettles",
+		"name": "Bettles",
 		"state": "Alaska"
 	},
   {
-		"city": "Brevig Mission",
+		"name": "Brevig Mission",
 		"state": "Alaska"
 	},
   {
-		"city": "Buckland",
+		"name": "Buckland",
 		"state": "Alaska"
 	},
   {
-		"city": "Chefornak",
+		"name": "Chefornak",
 		"state": "Alaska"
 	},
   {
-		"city": "Chevak",
+		"name": "Chevak",
 		"state": "Alaska"
 	},
   {
-		"city": "Chignik",
+		"name": "Chignik",
 		"state": "Alaska"
 	},
   {
-		"city": "Chuathbaluk",
+		"name": "Chuathbaluk",
 		"state": "Alaska"
 	},
   {
-		"city": "Clark's Point",
+		"name": "Clark's Point",
 		"state": "Alaska"
 	},
   {
-		"city": "Coffman Cove",
+		"name": "Coffman Cove",
 		"state": "Alaska"
 	},
   {
-		"city": "Cold Bay",
+		"name": "Cold Bay",
 		"state": "Alaska"
 	},
   {
-		"city": "Cordova",
+		"name": "Cordova",
 		"state": "Alaska"
 	},
   {
-		"city": "Craig",
+		"name": "Craig",
 		"state": "Alaska"
 	},
   {
-		"city": "Deering",
+		"name": "Deering",
 		"state": "Alaska"
 	},
   {
-		"city": "Delta Junction",
+		"name": "Delta Junction",
 		"state": "Alaska"
 	},
   {
-		"city": "Dillingham",
+		"name": "Dillingham",
 		"state": "Alaska"
 	},
   {
-		"city": "Eagle",
+		"name": "Eagle",
 		"state": "Alaska"
 	},
   {
-		"city": "Edna Bay",
+		"name": "Edna Bay",
 		"state": "Alaska"
 	},
   {
-		"city": "Eek",
+		"name": "Eek",
 		"state": "Alaska"
 	},
   {
-		"city": "Egegik",
+		"name": "Egegik",
 		"state": "Alaska"
 	},
   {
-		"city": "Ekwok",
+		"name": "Ekwok",
 		"state": "Alaska"
 	},
   {
-		"city": "Elim",
+		"name": "Elim",
 		"state": "Alaska"
 	},
   {
-		"city": "Emmonak",
+		"name": "Emmonak",
 		"state": "Alaska"
 	},
   {
-		"city": "Fairbanks",
+		"name": "Fairbanks",
 		"state": "Alaska"
 	},
   {
-		"city": "False Pass",
+		"name": "False Pass",
 		"state": "Alaska"
 	},
   {
-		"city": "Fort Yukon",
+		"name": "Fort Yukon",
 		"state": "Alaska"
 	},
   {
-		"city": "Galena",
+		"name": "Galena",
 		"state": "Alaska"
 	},
   {
-		"city": "Goodnews Bay",
+		"name": "Goodnews Bay",
 		"state": "Alaska"
 	},
   {
-		"city": "Grayling",
+		"name": "Grayling",
 		"state": "Alaska"
 	},
   {
-		"city": "Gustavus",
+		"name": "Gustavus",
 		"state": "Alaska"
 	},
   {
-		"city": "Holy Cross",
+		"name": "Holy Cross",
 		"state": "Alaska"
 	},
   {
-		"city": "Homer",
+		"name": "Homer",
 		"state": "Alaska"
 	},
   {
-		"city": "Hoonah",
+		"name": "Hoonah",
 		"state": "Alaska"
 	},
   {
-		"city": "Hooper Bay",
+		"name": "Hooper Bay",
 		"state": "Alaska"
 	},
   {
-		"city": "Houston",
+		"name": "Houston",
 		"state": "Alaska"
 	},
   {
-		"city": "Hughes",
+		"name": "Hughes",
 		"state": "Alaska"
 	},
   {
-		"city": "Huslia",
+		"name": "Huslia",
 		"state": "Alaska"
 	},
   {
-		"city": "Hydaburg",
+		"name": "Hydaburg",
 		"state": "Alaska"
 	},
   {
-		"city": "Juneau",
+		"name": "Juneau",
 		"state": "Alaska"
 	},
   {
-		"city": "Kachemak",
+		"name": "Kachemak",
 		"state": "Alaska"
 	},
   {
-		"city": "Kake",
+		"name": "Kake",
 		"state": "Alaska"
 	},
   {
-		"city": "Kaktovik",
+		"name": "Kaktovik",
 		"state": "Alaska"
 	},
   {
-		"city": "Kaltag",
+		"name": "Kaltag",
 		"state": "Alaska"
 	},
   {
-		"city": "Kasaan",
+		"name": "Kasaan",
 		"state": "Alaska"
 	},
   {
-		"city": "Kenai",
+		"name": "Kenai",
 		"state": "Alaska"
 	},
   {
-		"city": "Ketchikan",
+		"name": "Ketchikan",
 		"state": "Alaska"
 	},
   {
-		"city": "Kiana",
+		"name": "Kiana",
 		"state": "Alaska"
 	},
   {
-		"city": "King Cove",
+		"name": "King Cove",
 		"state": "Alaska"
 	},
   {
-		"city": "Kivalina",
+		"name": "Kivalina",
 		"state": "Alaska"
 	},
   {
-		"city": "Klawock",
+		"name": "Klawock",
 		"state": "Alaska"
 	},
   {
-		"city": "Kobuk",
+		"name": "Kobuk",
 		"state": "Alaska"
 	},
   {
-		"city": "Kodiak",
+		"name": "Kodiak",
 		"state": "Alaska"
 	},
   {
-		"city": "Kotzebue",
+		"name": "Kotzebue",
 		"state": "Alaska"
 	},
   {
-		"city": "Koyuk",
+		"name": "Koyuk",
 		"state": "Alaska"
 	},
   {
-		"city": "Koyukuk",
+		"name": "Koyukuk",
 		"state": "Alaska"
 	},
   {
-		"city": "Kupreanof",
+		"name": "Kupreanof",
 		"state": "Alaska"
 	},
   {
-		"city": "Kwethluk",
+		"name": "Kwethluk",
 		"state": "Alaska"
 	},
   {
-		"city": "Larsen Bay",
+		"name": "Larsen Bay",
 		"state": "Alaska"
 	},
   {
-		"city": "Lower Kalskag",
+		"name": "Lower Kalskag",
 		"state": "Alaska"
 	},
   {
-		"city": "Manokotak",
+		"name": "Manokotak",
 		"state": "Alaska"
 	},
   {
-		"city": "Marshall",
+		"name": "Marshall",
 		"state": "Alaska"
 	},
   {
-		"city": "McGrath",
+		"name": "McGrath",
 		"state": "Alaska"
 	},
   {
-		"city": "Mekoryuk",
+		"name": "Mekoryuk",
 		"state": "Alaska"
 	},
   {
-		"city": "Mountain Village",
+		"name": "Mountain Village",
 		"state": "Alaska"
 	},
   {
-		"city": "Napakiak",
+		"name": "Napakiak",
 		"state": "Alaska"
 	},
   {
-		"city": "Napaskiak",
+		"name": "Napaskiak",
 		"state": "Alaska"
 	},
   {
-		"city": "Nenana",
+		"name": "Nenana",
 		"state": "Alaska"
 	},
   {
-		"city": "New Stuyahok",
+		"name": "New Stuyahok",
 		"state": "Alaska"
 	},
   {
-		"city": "Newhalen",
+		"name": "Newhalen",
 		"state": "Alaska"
 	},
   {
-		"city": "Nightmute",
+		"name": "Nightmute",
 		"state": "Alaska"
 	},
   {
-		"city": "Nikolai",
+		"name": "Nikolai",
 		"state": "Alaska"
 	},
   {
-		"city": "Nome",
+		"name": "Nome",
 		"state": "Alaska"
 	},
   {
-		"city": "Nondalton",
+		"name": "Nondalton",
 		"state": "Alaska"
 	},
   {
-		"city": "Noorvik",
+		"name": "Noorvik",
 		"state": "Alaska"
 	},
   {
-		"city": "North Pole",
+		"name": "North Pole",
 		"state": "Alaska"
 	},
   {
-		"city": "Nuiqsut",
+		"name": "Nuiqsut",
 		"state": "Alaska"
 	},
   {
-		"city": "Nulato",
+		"name": "Nulato",
 		"state": "Alaska"
 	},
   {
-		"city": "Nunam Iqua",
+		"name": "Nunam Iqua",
 		"state": "Alaska"
 	},
   {
-		"city": "Nunapitchuk",
+		"name": "Nunapitchuk",
 		"state": "Alaska"
 	},
   {
-		"city": "Old Harbor",
+		"name": "Old Harbor",
 		"state": "Alaska"
 	},
   {
-		"city": "Ouzinkie",
+		"name": "Ouzinkie",
 		"state": "Alaska"
 	},
   {
-		"city": "Plamer",
+		"name": "Plamer",
 		"state": "Alaska"
 	},
   {
-		"city": "Pelican",
+		"name": "Pelican",
 		"state": "Alaska"
 	},
   {
-		"city": "Pilot Point",
+		"name": "Pilot Point",
 		"state": "Alaska"
 	},
   {
-		"city": "Pilot Station",
+		"name": "Pilot Station",
 		"state": "Alaska"
 	},
   {
-		"city": "Platinum",
+		"name": "Platinum",
 		"state": "Alaska"
 	},
   {
-		"city": "Point Hope",
+		"name": "Point Hope",
 		"state": "Alaska"
 	},
   {
-		"city": "Port Alexander",
+		"name": "Port Alexander",
 		"state": "Alaska"
 	},
   {
-		"city": "Port Heiden",
+		"name": "Port Heiden",
 		"state": "Alaska"
 	},
   {
-		"city": "Port Lions",
+		"name": "Port Lions",
 		"state": "Alaska"
 	},
   {
-		"city": "Quinhagak",
+		"name": "Quinhagak",
 		"state": "Alaska"
 	},
   {
-		"city": "Ruby",
+		"name": "Ruby",
 		"state": "Alaska"
 	},
   {
-		"city": "Russion Mission",
+		"name": "Russion Mission",
 		"state": "Alaska"
 	},
   {
-		"city": "Saint Paul",
+		"name": "Saint Paul",
 		"state": "Alaska"
 	},
   {
-		"city": "Sand Point",
+		"name": "Sand Point",
 		"state": "Alaska"
 	},
   {
-		"city": "Savoonga",
+		"name": "Savoonga",
 		"state": "Alaska"
 	},
   {
-		"city": "Saxman",
+		"name": "Saxman",
 		"state": "Alaska"
 	},
   {
-		"city": "Scammon Bay",
+		"name": "Scammon Bay",
 		"state": "Alaska"
 	},
   {
-		"city": "Selawik",
+		"name": "Selawik",
 		"state": "Alaska"
 	},
   {
-		"city": "Seldovia",
+		"name": "Seldovia",
 		"state": "Alaska"
 	},
   {
-		"city": "Seward",
+		"name": "Seward",
 		"state": "Alaska"
 	},
   {
-		"city": "Shageluk",
+		"name": "Shageluk",
 		"state": "Alaska"
 	},
   {
-		"city": "Shaktoolik",
+		"name": "Shaktoolik",
 		"state": "Alaska"
 	},
   {
-		"city": "Shishmaref",
+		"name": "Shishmaref",
 		"state": "Alaska"
 	},
   {
-		"city": "Shungnak",
+		"name": "Shungnak",
 		"state": "Alaska"
 	},
   {
-		"city": "Sitka",
+		"name": "Sitka",
 		"state": "Alaska"
 	},
   {
-		"city": "Soldotna",
+		"name": "Soldotna",
 		"state": "Alaska"
 	},
   {
-		"city": "St. George",
+		"name": "St. George",
 		"state": "Alaska"
 	},
   {
-		"city": "St. Mary's",
+		"name": "St. Mary's",
 		"state": "Alaska"
 	},
   {
-		"city": "St. Michael",
+		"name": "St. Michael",
 		"state": "Alaska"
 	},
   {
-		"city": "Stebbins",
+		"name": "Stebbins",
 		"state": "Alaska"
 	},
   {
-		"city": "Tanana",
+		"name": "Tanana",
 		"state": "Alaska"
 	},
   {
-		"city": "Teller",
+		"name": "Teller",
 		"state": "Alaska"
 	},
   {
-		"city": "Tenakee Springs",
+		"name": "Tenakee Springs",
 		"state": "Alaska"
 	},
   {
-		"city": "Thorne Bay",
+		"name": "Thorne Bay",
 		"state": "Alaska"
 	},
   {
-		"city": "Togiak",
+		"name": "Togiak",
 		"state": "Alaska"
 	},
   {
-		"city": "Toksook Bay",
+		"name": "Toksook Bay",
 		"state": "Alaska"
 	},
   {
-		"city": "Unalakleet",
+		"name": "Unalakleet",
 		"state": "Alaska"
 	},
   {
-		"city": "Unalaska",
+		"name": "Unalaska",
 		"state": "Alaska"
 	},
   {
-		"city": "Upper Kalskag",
+		"name": "Upper Kalskag",
 		"state": "Alaska"
 	},
   {
-		"city": "Valdez",
+		"name": "Valdez",
 		"state": "Alaska"
 	},
   {
-		"city": "Wainwright",
+		"name": "Wainwright",
 		"state": "Alaska"
 	},
   {
-		"city": "Wales",
+		"name": "Wales",
 		"state": "Alaska"
 	},
   {
-		"city": "Wasilla",
+		"name": "Wasilla",
 		"state": "Alaska"
 	},
   {
-		"city": "White Mountain",
+		"name": "White Mountain",
 		"state": "Alaska"
 	},
   {
-		"city": "Whittier",
+		"name": "Whittier",
 		"state": "Alaska"
 	},
   {
-		"city": "Wrangell",
+		"name": "Wrangell",
 		"state": "Alaska"
 	}
 ]

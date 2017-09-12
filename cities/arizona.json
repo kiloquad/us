@@ -1,366 +1,366 @@
 [
   {
-		"city": "Apache Junction",
+		"name": "Apache Junction",
 		"state": "Arizona"
 	},
   {
-		"city": "Avondale",
+		"name": "Avondale",
 		"state": "Arizona"
 	},
   {
-		"city": "Benson",
+		"name": "Benson",
 		"state": "Arizona"
 	},
   {
-		"city": "Bisbee",
+		"name": "Bisbee",
 		"state": "Arizona"
 	},
   {
-		"city": "Buckeye",
+		"name": "Buckeye",
 		"state": "Arizona"
 	},
   {
-		"city": "Bullhead City",
+		"name": "Bullhead City",
 		"state": "Arizona"
 	},
   {
-		"city": "Camp Verde",
+		"name": "Camp Verde",
 		"state": "Arizona"
 	},
   {
-		"city": "Carefree",
+		"name": "Carefree",
 		"state": "Arizona"
 	},
   {
-		"city": "Casa Grande",
+		"name": "Casa Grande",
 		"state": "Arizona"
 	},
   {
-		"city": "Cave Creek",
+		"name": "Cave Creek",
 		"state": "Arizona"
 	},
   {
-		"city": "Chandler",
+		"name": "Chandler",
 		"state": "Arizona"
 	},
   {
-		"city": "Chino Valley",
+		"name": "Chino Valley",
 		"state": "Arizona"
 	},
   {
-		"city": "Clarkdale",
+		"name": "Clarkdale",
 		"state": "Arizona"
 	},
   {
-		"city": "Clifton",
+		"name": "Clifton",
 		"state": "Arizona"
 	},
   {
-		"city": "Colorado City",
+		"name": "Colorado City",
 		"state": "Arizona"
 	},
   {
-		"city": "Coolidge",
+		"name": "Coolidge",
 		"state": "Arizona"
 	},
   {
-		"city": "Cottonwood",
+		"name": "Cottonwood",
 		"state": "Arizona"
 	},
   {
-		"city": "Dewey-Humboldt",
+		"name": "Dewey-Humboldt",
 		"state": "Arizona"
 	},
   {
-		"city": "Douglas",
+		"name": "Douglas",
 		"state": "Arizona"
 	},
   {
-		"city": "Duncan",
+		"name": "Duncan",
 		"state": "Arizona"
 	},
   {
-		"city": "Eagar",
+		"name": "Eagar",
 		"state": "Arizona"
 	},
   {
-		"city": "El Mirage",
+		"name": "El Mirage",
 		"state": "Arizona"
 	},
   {
-		"city": "Eloy",
+		"name": "Eloy",
 		"state": "Arizona"
 	},
   {
-		"city": "Flagstaff",
+		"name": "Flagstaff",
 		"state": "Arizona"
 	},
   {
-		"city": "Florence",
+		"name": "Florence",
 		"state": "Arizona"
 	},
   {
-		"city": "Fountain Hills",
+		"name": "Fountain Hills",
 		"state": "Arizona"
 	},
   {
-		"city": "Fredonia",
+		"name": "Fredonia",
 		"state": "Arizona"
 	},
   {
-		"city": "Gila Bend",
+		"name": "Gila Bend",
 		"state": "Arizona"
 	},
   {
-		"city": "Gilbert",
+		"name": "Gilbert",
 		"state": "Arizona"
 	},
   {
-		"city": "Glendale",
+		"name": "Glendale",
 		"state": "Arizona"
 	},
   {
-		"city": "Globe",
+		"name": "Globe",
 		"state": "Arizona"
 	},
   {
-		"city": "Goodyear",
+		"name": "Goodyear",
 		"state": "Arizona"
 	},
   {
-		"city": "Guadalupe",
+		"name": "Guadalupe",
 		"state": "Arizona"
 	},
   {
-		"city": "Hayden",
+		"name": "Hayden",
 		"state": "Arizona"
 	},
   {
-		"city": "Holbrook",
+		"name": "Holbrook",
 		"state": "Arizona"
 	},
   {
-		"city": "Huachuca City",
+		"name": "Huachuca City",
 		"state": "Arizona"
 	},
   {
-		"city": "Jerome",
+		"name": "Jerome",
 		"state": "Arizona"
 	},
   {
-		"city": "Kearny",
+		"name": "Kearny",
 		"state": "Arizona"
 	},
   {
-		"city": "Kingman",
+		"name": "Kingman",
 		"state": "Arizona"
 	},
   {
-		"city": "Lake Havasu City",
+		"name": "Lake Havasu City",
 		"state": "Arizona"
 	},
   {
-		"city": "Litchfield Park",
+		"name": "Litchfield Park",
 		"state": "Arizona"
 	},
   {
-		"city": "Mammoth",
+		"name": "Mammoth",
 		"state": "Arizona"
 	},
   {
-		"city": "Marana",
+		"name": "Marana",
 		"state": "Arizona"
 	},
   {
-		"city": "Maricopa",
+		"name": "Maricopa",
 		"state": "Arizona"
 	},
   {
-		"city": "Mesa",
+		"name": "Mesa",
 		"state": "Arizona"
 	},
   {
-		"city": "Miami",
+		"name": "Miami",
 		"state": "Arizona"
 	},
   {
-		"city": "Nogales",
+		"name": "Nogales",
 		"state": "Arizona"
 	},
   {
-		"city": "Oro Valley",
+		"name": "Oro Valley",
 		"state": "Arizona"
 	},
   {
-		"city": "Page",
+		"name": "Page",
 		"state": "Arizona"
 	},
   {
-		"city": "Paradise Valley",
+		"name": "Paradise Valley",
 		"state": "Arizona"
 	},
   {
-		"city": "Parker",
+		"name": "Parker",
 		"state": "Arizona"
 	},
   {
-		"city": "Patagonia",
+		"name": "Patagonia",
 		"state": "Arizona"
 	},
   {
-		"city": "Payson",
+		"name": "Payson",
 		"state": "Arizona"
 	},
   {
-		"city": "Peoria",
+		"name": "Peoria",
 		"state": "Arizona"
 	},
   {
-		"city": "Phoenix",
+		"name": "Phoenix",
 		"state": "Arizona"
 	},
   {
-		"city": "Pima",
+		"name": "Pima",
 		"state": "Arizona"
 	},
   {
-		"city": "Pinetop-Lakeside",
+		"name": "Pinetop-Lakeside",
 		"state": "Arizona"
 	},
   {
-		"city": "Prescott",
+		"name": "Prescott",
 		"state": "Arizona"
 	},
   {
-		"city": "Prescott Valley",
+		"name": "Prescott Valley",
 		"state": "Arizona"
 	},
   {
-		"city": "Quartzsite",
+		"name": "Quartzsite",
 		"state": "Arizona"
 	},
   {
-		"city": "Queen Creek",
+		"name": "Queen Creek",
 		"state": "Arizona"
 	},
   {
-		"city": "Safford",
+		"name": "Safford",
 		"state": "Arizona"
 	},
   {
-		"city": "Sahuarita",
+		"name": "Sahuarita",
 		"state": "Arizona"
 	},
   {
-		"city": "San Luis",
+		"name": "San Luis",
 		"state": "Arizona"
 	},
   {
-		"city": "Scottsdale",
+		"name": "Scottsdale",
 		"state": "Arizona"
 	},
   {
-		"city": "Sedona",
+		"name": "Sedona",
 		"state": "Arizona"
 	},
   {
-		"city": "Show Low",
+		"name": "Show Low",
 		"state": "Arizona"
 	},
   {
-		"city": "Sierra Vista",
+		"name": "Sierra Vista",
 		"state": "Arizona"
 	},
   {
-		"city": "Snowflake",
+		"name": "Snowflake",
 		"state": "Arizona"
 	},
   {
-		"city": "Somerton",
+		"name": "Somerton",
 		"state": "Arizona"
 	},
   {
-		"city": "South Tucson",
+		"name": "South Tucson",
 		"state": "Arizona"
 	},
   {
-		"city": "Springville",
+		"name": "Springville",
 		"state": "Arizona"
 	},
   {
-		"city": "St. Johns",
+		"name": "St. Johns",
 		"state": "Arizona"
 	},
   {
-		"city": "Star Valley",
+		"name": "Star Valley",
 		"state": "Arizona"
 	},
   {
-		"city": "Superior",
+		"name": "Superior",
 		"state": "Arizona"
 	},
   {
-		"city": "Surprise",
+		"name": "Surprise",
 		"state": "Arizona"
 	},
   {
-		"city": "Taylor",
+		"name": "Taylor",
 		"state": "Arizona"
 	},
   {
-		"city": "Tempe",
+		"name": "Tempe",
 		"state": "Arizona"
 	},
   {
-		"city": "Thatcher",
+		"name": "Thatcher",
 		"state": "Arizona"
 	},
   {
-		"city": "Tolleson",
+		"name": "Tolleson",
 		"state": "Arizona"
 	},
   {
-		"city": "Tombstone",
+		"name": "Tombstone",
 		"state": "Arizona"
 	},
   {
-		"city": "Tucson",
+		"name": "Tucson",
 		"state": "Arizona"
 	},
   {
-		"city": "Tusayan",
+		"name": "Tusayan",
 		"state": "Arizona"
 	},
   {
-		"city": "Wellton",
+		"name": "Wellton",
 		"state": "Arizona"
 	},
   {
-		"city": "Wickenburg",
+		"name": "Wickenburg",
 		"state": "Arizona"
 	},
   {
-		"city": "Willcox",
+		"name": "Willcox",
 		"state": "Arizona"
 	},
   {
-		"city": "Williams",
+		"name": "Williams",
 		"state": "Arizona"
 	},
   {
-		"city": "Winkelman",
+		"name": "Winkelman",
 		"state": "Arizona"
 	},
   {
-		"city": "Winslow",
+		"name": "Winslow",
 		"state": "Arizona"
 	},
   {
-		"city": "Youngtown",
+		"name": "Youngtown",
 		"state": "Arizona"
 	},
   {
-		"city": "Yuma",
+		"name": "Yuma",
 		"state": "Arizona"
 	}
 ]
